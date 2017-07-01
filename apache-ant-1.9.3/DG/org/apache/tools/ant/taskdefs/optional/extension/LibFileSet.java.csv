@@ -1,0 +1,8 @@
+,"urlBase","includeURL","LibFileSet","isIncludeImpl","includeImpl","getUrlBase","isIncludeURL"
+"urlBase",1,0,1,0,0,1,0
+"includeURL",0,1,1,0,0,0,1
+"LibFileSet",1,1,0,0,1,0,0
+"isIncludeImpl",0,0,0,0,0,0,0
+"includeImpl",0,0,1,1,1,0,0
+"getUrlBase",0,0,0,0,0,0,0
+"isIncludeURL",0,0,0,0,0,0,0

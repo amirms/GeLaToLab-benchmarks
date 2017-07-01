@@ -1,0 +1,9 @@
+,"fireTestIgnored","Description","notifier","description","createSuiteDescription","testClass","clazz","getDescription"
+"fireTestIgnored",0,0,1,0,0,0,0,0
+"Description",0,0,0,0,1,0,0,0
+"notifier",1,0,0,0,0,0,0,0
+"description",0,0,0,0,0,0,0,0
+"createSuiteDescription",0,1,0,0,0,0,0,1
+"testClass",0,0,0,0,0,0,1,0
+"clazz",0,0,0,0,0,1,0,0
+"getDescription",0,0,0,1,0,0,0,0

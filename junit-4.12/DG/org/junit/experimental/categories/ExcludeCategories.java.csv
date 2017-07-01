@@ -1,0 +1,7 @@
+,"createFilter","ExcludesAny","categories","describe","HashSet","CategoryFilter"
+"createFilter",0,0,0,0,0,0
+"ExcludesAny",1,0,0,0,0,0
+"categories",0,1,0,0,1,1
+"describe",0,0,0,1,0,1
+"HashSet",0,1,0,0,0,0
+"CategoryFilter",0,0,0,1,0,0

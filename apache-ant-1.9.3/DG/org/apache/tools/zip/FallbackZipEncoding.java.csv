@@ -1,0 +1,12 @@
+,"encode","charset","data","FallbackZipEncoding","arg0","name","String","decode","ByteBuffer","wrap","getBytes"
+"encode",0,0,0,0,0,0,0,0,0,0,0
+"charset",0,1,0,6,1,0,1,0,0,0,0
+"data",0,0,0,0,0,0,2,0,0,0,0
+"FallbackZipEncoding",0,6,0,0,0,0,0,0,0,0,0
+"arg0",0,0,0,0,0,0,0,0,0,0,0
+"name",0,0,0,0,0,0,0,0,0,0,2
+"String",0,0,0,0,0,0,0,2,0,0,0
+"decode",0,0,0,0,0,0,0,0,0,0,0
+"ByteBuffer",0,0,0,0,0,0,0,0,0,2,0
+"wrap",2,0,0,0,0,0,0,0,2,0,0
+"getBytes",0,0,0,0,2,2,0,0,0,0,0

@@ -1,0 +1,15 @@
+,"app","getApplication","argument","ResourceBundleUtil","project","getLAFBundle","labels","p","SaveBeforeAction","configureAction","action","dispose","ID","CloseAction"
+"app",0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"getApplication",0,0,0,0,1,0,0,0,0,0,0,1,0,0
+"argument",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"ResourceBundleUtil",0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"project",0,1,0,0,0,0,0,1,0,0,0,0,0,0
+"getLAFBundle",0,0,0,1,0,0,1,0,0,0,0,0,0,0
+"labels",0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"p",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"SaveBeforeAction",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"configureAction",0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"action",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"dispose",0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"ID",0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"CloseAction",0,0,0,0,0,0,0,0,0,0,1,0,0,0

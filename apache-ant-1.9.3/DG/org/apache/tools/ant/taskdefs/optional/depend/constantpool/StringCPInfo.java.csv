@@ -1,0 +1,12 @@
+,"getValue","newValue","resolve","cpStream","index","ConstantCPInfo","toString","CONSTANT_STRING","constantPool","getEntry","readUnsignedShort"
+"getValue",0,0,0,0,0,0,1,0,0,0,0
+"newValue",0,0,0,0,0,0,0,0,0,0,0
+"resolve",0,0,0,0,0,1,0,0,0,0,0
+"cpStream",0,0,0,0,0,0,0,0,0,0,1
+"index",0,0,0,0,1,0,1,0,0,0,0
+"ConstantCPInfo",0,0,1,0,0,0,0,0,0,0,0
+"toString",0,0,0,0,0,0,0,0,0,0,0
+"CONSTANT_STRING",0,0,0,0,0,1,0,0,0,0,0
+"constantPool",0,0,0,0,0,0,0,0,1,1,0
+"getEntry",0,1,0,0,0,0,0,0,1,0,0
+"readUnsignedShort",0,0,0,1,1,0,0,0,0,0,0

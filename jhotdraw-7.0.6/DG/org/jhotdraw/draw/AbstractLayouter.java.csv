@@ -1,0 +1,10 @@
+,"CompositeFigure","getAttribute","LAYOUT_INSETS","clone","getInsets","value","key","Insets2DDouble","child"
+"CompositeFigure",0,0,1,0,0,0,0,0,0
+"getAttribute",0,0,0,0,0,1,0,0,1
+"LAYOUT_INSETS",1,0,0,0,0,0,1,0,0
+"clone",0,0,0,0,1,1,0,0,0
+"getInsets",0,0,0,0,0,0,0,0,0
+"value",0,0,0,1,1,0,0,0,0
+"key",0,0,0,0,0,0,0,0,0
+"Insets2DDouble",0,0,0,0,1,0,0,0,0
+"child",0,1,0,0,0,0,0,0,0

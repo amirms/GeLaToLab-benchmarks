@@ -1,0 +1,9 @@
+,"impl","Argument","arg0","equals","ImplementationSpecificArgument","String","chosenImpl","getParts"
+"impl",1,0,0,1,1,0,0,0
+"Argument",0,0,0,0,0,0,0,1
+"arg0",0,0,0,0,0,0,0,0
+"equals",1,0,0,0,0,0,0,0
+"ImplementationSpecificArgument",1,0,0,0,0,0,0,0
+"String",0,0,0,0,0,0,0,1
+"chosenImpl",0,0,1,0,0,0,0,0
+"getParts",0,1,0,0,0,0,0,1

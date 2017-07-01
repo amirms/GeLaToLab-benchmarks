@@ -1,0 +1,13 @@
+,"prefixLength","postfixLength","arg1","var","arg0","name","length","replace","separatorChar","File","substring","extractVariablePart"
+"prefixLength",0,0,0,0,1,0,0,0,0,0,0,0
+"postfixLength",0,0,1,0,0,0,0,0,0,0,0,0
+"arg1",0,0,0,0,0,0,0,0,0,0,0,0
+"var",0,0,0,0,0,0,0,1,0,0,0,0
+"arg0",0,0,0,0,0,0,0,0,0,0,0,0
+"name",0,0,0,0,0,0,1,0,0,0,1,0
+"length",0,0,1,0,0,1,0,0,0,0,0,0
+"replace",0,0,0,1,0,0,0,0,0,0,0,1
+"separatorChar",0,0,1,0,0,0,0,0,0,1,0,0
+"File",0,0,0,0,0,0,0,0,1,0,0,0
+"substring",0,0,0,1,0,1,0,0,0,0,0,0
+"extractVariablePart",0,0,0,0,0,0,0,0,0,0,0,0

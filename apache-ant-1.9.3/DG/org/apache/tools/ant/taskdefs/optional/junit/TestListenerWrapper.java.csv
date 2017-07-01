@@ -1,0 +1,12 @@
+,"addError","addFailure","startTest","test","arg1","assertionFailedError","arg0","throwable","listener","wrapped","endTest"
+"addError",0,0,0,0,0,0,0,0,0,1,0
+"addFailure",0,0,0,0,0,0,0,0,0,1,0
+"startTest",0,0,0,0,0,0,0,0,0,1,0
+"test",0,0,0,0,0,0,4,0,0,0,0
+"arg1",0,0,0,0,0,0,0,0,0,0,0
+"assertionFailedError",0,0,0,0,1,0,0,0,0,0,0
+"arg0",0,0,0,0,0,0,0,0,0,0,0
+"throwable",0,0,0,0,1,0,0,0,0,0,0
+"listener",0,0,0,0,0,0,0,0,0,1,0
+"wrapped",1,1,1,0,0,0,0,0,0,0,1
+"endTest",0,0,0,0,0,0,0,0,0,1,0

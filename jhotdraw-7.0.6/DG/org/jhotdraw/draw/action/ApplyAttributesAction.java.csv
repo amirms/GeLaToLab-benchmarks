@@ -1,0 +1,15 @@
+,"getEditor","editor","figure","applyDefaultAttributesTo","f","AbstractSelectedAction","labels","getSelectionCount","configureAction","arg0","action","getView","ApplyAttributesAction","getSelectedFigures"
+"getEditor",0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"editor",0,0,0,1,0,1,0,0,0,0,0,0,0,0
+"figure",0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"applyDefaultAttributesTo",0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"f",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"AbstractSelectedAction",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"labels",0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"getSelectionCount",0,0,0,0,0,0,0,0,0,1,0,1,0,0
+"configureAction",0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"arg0",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"action",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"getView",0,0,0,0,0,0,0,1,0,0,0,0,0,1
+"ApplyAttributesAction",0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"getSelectedFigures",0,0,0,0,0,0,0,0,0,0,0,1,0,0

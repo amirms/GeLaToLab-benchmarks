@@ -1,0 +1,10 @@
+,"read","offset","length","DemuxInputStream","project","org.emftext.language.java.types.impl.ByteImpl@18466c50","buffer","demuxInput","MASK_8BIT"
+"read",0,0,0,0,0,0,0,0,0
+"offset",0,1,0,0,0,0,0,0,0
+"length",0,0,1,0,0,0,0,0,0
+"DemuxInputStream",0,0,0,0,1,0,0,0,0
+"project",0,0,0,1,1,0,0,2,0
+"org.emftext.language.java.types.impl.ByteImpl@18466c50",0,0,0,0,0,0,1,0,0
+"buffer",1,0,0,0,0,0,2,0,0
+"demuxInput",1,0,0,0,2,0,0,0,0
+"MASK_8BIT",1,0,0,0,0,0,0,0,0

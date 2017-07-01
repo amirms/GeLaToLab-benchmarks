@@ -1,0 +1,17 @@
+,"msg","getLocation","isFiltersFromFile","getGlobalFilterSet","msgLevel","filtersFile","token","Project","Filter","isSingleFilter","MSG_VERBOSE","addFilter","readFiltersFromFile","BuildException","value","getProject"
+"msg",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"getLocation",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"isFiltersFromFile",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"getGlobalFilterSet",0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2
+"msgLevel",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"filtersFile",1,0,1,0,0,2,0,0,1,1,0,0,0,0,0,0
+"token",0,0,1,0,0,0,2,0,1,1,0,0,0,0,0,0
+"Project",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"Filter",0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0
+"isSingleFilter",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"MSG_VERBOSE",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+"addFilter",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"readFiltersFromFile",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"BuildException",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"value",0,0,1,0,0,0,0,0,1,1,0,0,0,0,2,0
+"getProject",0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0

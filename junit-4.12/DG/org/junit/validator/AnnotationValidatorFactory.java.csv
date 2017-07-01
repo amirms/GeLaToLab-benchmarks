@@ -1,0 +1,16 @@
+,"validateWithAnnotation","getName","e","validator","newInstance","createAnnotationValidator","annotationValidator","RuntimeException","arg1","arg0","VALIDATORS_FOR_ANNOTATION_TYPES","get","value","clazz","putIfAbsent"
+"validateWithAnnotation",0,0,0,0,0,0,0,0,0,3,0,0,1,0,0
+"getName",0,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+"e",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"validator",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"newInstance",0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+"createAnnotationValidator",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"annotationValidator",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"RuntimeException",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"arg1",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"arg0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"VALIDATORS_FOR_ANNOTATION_TYPES",0,0,0,0,0,0,0,0,0,0,0,2,0,0,1
+"get",0,0,0,1,0,1,0,0,0,0,2,0,0,0,0
+"value",1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"clazz",0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+"putIfAbsent",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0

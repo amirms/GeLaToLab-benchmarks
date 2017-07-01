@@ -1,0 +1,9 @@
+,"request","comparator","getRunner","apply","SortingRequest","Sorter","runner","object"
+"request",1,0,1,0,1,0,0,0
+"comparator",0,1,0,0,1,1,0,0
+"getRunner",1,0,0,0,0,0,1,0
+"apply",0,0,0,0,0,1,0,0
+"SortingRequest",1,1,0,0,0,0,0,0
+"Sorter",0,0,0,1,0,0,0,0
+"runner",0,0,1,0,0,0,0,1
+"object",0,0,0,0,0,0,0,0

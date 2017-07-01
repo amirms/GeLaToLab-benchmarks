@@ -1,0 +1,16 @@
+,"fireTestIgnored","e","EachTestNotifier","description","mfe","each","fireTestFailure","fireTestFinished","fireTestAssumptionFailed","targetException","failure","notifier","fireTestStarted","getFailures","Failure"
+"fireTestIgnored",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"e",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"EachTestNotifier",0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+"description",0,0,1,4,0,0,0,0,0,0,0,0,0,0,2
+"mfe",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"each",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"fireTestFailure",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"fireTestFinished",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"fireTestAssumptionFailed",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"targetException",0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+"failure",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"notifier",1,0,1,0,0,0,1,1,1,0,0,1,1,0,0
+"fireTestStarted",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"getFailures",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Failure",0,0,0,0,0,0,0,0,0,0,2,0,0,0,0

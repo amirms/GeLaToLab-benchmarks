@@ -1,0 +1,11 @@
+,"PrintStream","ps","err","wrapSystemErr","KeepAliveOutputStream","FilterOutputStream","wrap","System","wrapSystemOut","out"
+"PrintStream",0,0,0,0,0,0,1,0,0,0
+"ps",0,0,0,0,1,0,0,0,0,0
+"err",0,1,0,0,0,0,0,1,0,0
+"wrapSystemErr",0,0,0,0,0,0,0,0,0,0
+"KeepAliveOutputStream",1,0,0,0,0,0,0,0,0,0
+"FilterOutputStream",0,0,0,0,0,0,0,0,0,0
+"wrap",0,0,0,1,0,0,0,0,1,0
+"System",0,0,1,0,0,0,0,0,0,1
+"wrapSystemOut",0,0,0,0,0,0,0,0,0,0
+"out",0,1,0,0,0,1,0,1,0,0

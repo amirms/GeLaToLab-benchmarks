@@ -1,0 +1,9 @@
+,"addLocal","get","name","property","Local","project","LocalProperties","getProject"
+"addLocal",0,1,0,0,0,0,0,0
+"get",1,0,0,0,0,0,1,0
+"name",0,0,1,1,1,0,0,0
+"property",0,0,0,0,0,0,0,0
+"Local",0,0,1,0,0,0,0,0
+"project",0,0,0,0,0,0,0,0
+"LocalProperties",0,1,0,0,0,0,0,0
+"getProject",0,0,0,0,0,1,0,0

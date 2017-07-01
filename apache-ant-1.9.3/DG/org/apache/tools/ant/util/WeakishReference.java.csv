@@ -1,0 +1,8 @@
+,"reference","weakref","WeakReference","get","createReference","WeakishReference","object"
+"reference",0,0,1,0,0,0,0
+"weakref",0,0,0,1,0,1,0
+"WeakReference",0,1,0,0,0,0,0
+"get",0,1,0,1,0,0,0
+"createReference",0,0,0,0,0,0,0
+"WeakishReference",0,1,0,0,1,0,0
+"object",0,0,0,0,0,2,0

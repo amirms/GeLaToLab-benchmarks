@@ -1,0 +1,9 @@
+,"add","filterSets","replacedLine","hasFilters","line","arg0","replaceTokens","filterSet"
+"add",0,1,0,0,0,0,0,0
+"filterSets",1,0,0,0,0,0,0,0
+"replacedLine",0,0,0,0,1,0,1,0
+"hasFilters",0,0,0,0,0,0,0,1
+"line",0,0,1,0,0,0,0,0
+"arg0",0,0,0,0,0,0,0,0
+"replaceTokens",0,0,1,0,0,0,0,1
+"filterSet",0,0,0,1,0,1,1,1

@@ -1,0 +1,9 @@
+,"getName","arg0","singletonList","isPublic","NO_VALIDATION_ERRORS","testClass","Exception","validateTestClass"
+"getName",0,0,0,0,0,1,1,0
+"arg0",0,0,0,0,0,0,0,0
+"singletonList",0,0,0,0,0,0,0,1
+"isPublic",0,0,0,0,0,1,0,0
+"NO_VALIDATION_ERRORS",0,0,0,0,0,0,0,1
+"testClass",1,0,0,1,0,0,0,0
+"Exception",0,1,0,0,0,0,0,0
+"validateTestClass",0,0,0,0,0,0,0,0

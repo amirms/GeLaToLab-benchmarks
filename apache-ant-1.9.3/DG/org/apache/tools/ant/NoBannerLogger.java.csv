@@ -1,0 +1,15 @@
+,"extractTargetName","LINE_SEP","targetName","getName","getMessage","out","getTarget","println","StringUtils","arg0","getPriority","messageLogged","event","DefaultLogger"
+"extractTargetName",0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"LINE_SEP",0,0,0,0,0,0,0,0,1,1,0,0,0,0
+"targetName",0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"getName",1,0,0,0,0,0,1,0,0,0,0,0,0,0
+"getMessage",0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"out",0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"getTarget",0,0,0,1,0,0,0,0,0,0,0,0,1,0
+"println",0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"StringUtils",0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"arg0",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"getPriority",0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"messageLogged",0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"event",0,0,0,0,1,0,1,0,0,0,1,0,2,0
+"DefaultLogger",0,0,0,0,0,0,0,0,0,0,0,1,0,0

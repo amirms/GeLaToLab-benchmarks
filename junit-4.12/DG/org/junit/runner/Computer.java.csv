@@ -1,0 +1,11 @@
+,"Suite","getRunner","serial","RunnerBuilder","classes","Computer","builder","getSuite","testClass","runnerForClass"
+"Suite",0,0,0,0,0,0,0,1,0,0
+"getRunner",0,0,0,0,0,0,0,0,0,1
+"serial",0,0,0,0,0,0,0,0,0,0
+"RunnerBuilder",1,0,0,0,0,0,0,0,0,0
+"classes",1,0,0,0,0,0,0,0,0,0
+"Computer",0,0,1,0,0,0,0,0,0,0
+"builder",0,0,0,0,0,0,1,0,0,1
+"getSuite",0,0,0,0,0,0,0,0,0,0
+"testClass",0,0,0,0,0,0,0,0,2,0
+"runnerForClass",0,1,0,0,0,0,1,0,0,0

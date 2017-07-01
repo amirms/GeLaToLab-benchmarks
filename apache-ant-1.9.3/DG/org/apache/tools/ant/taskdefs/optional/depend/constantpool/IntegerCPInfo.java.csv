@@ -1,0 +1,9 @@
+,"Integer","CONSTANT_INTEGER","newValue","getValue","cpStream","ConstantCPInfo","toString","readInt"
+"Integer",0,0,1,0,0,0,0,0
+"CONSTANT_INTEGER",0,0,0,0,0,1,0,0
+"newValue",0,0,0,0,0,0,0,0
+"getValue",0,0,0,0,0,0,1,0
+"cpStream",0,0,0,0,0,0,0,1
+"ConstantCPInfo",0,0,0,0,0,0,0,0
+"toString",0,0,0,0,0,0,0,0
+"readInt",1,0,0,0,1,0,0,0

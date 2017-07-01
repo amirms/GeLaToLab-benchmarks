@@ -1,0 +1,11 @@
+,"GraphicalCompositeFigure","presentationFigure","set","VerticalLayouter","newLayouter","ListFigure","f","LAYOUT_INSETS","value","Insets2DDouble"
+"GraphicalCompositeFigure",0,0,0,0,0,0,0,0,0,0
+"presentationFigure",1,0,0,0,0,0,0,0,0,0
+"set",0,0,0,0,0,0,0,1,0,0
+"VerticalLayouter",0,0,0,0,1,0,0,0,0,0
+"newLayouter",0,0,0,0,0,0,0,0,0,0
+"ListFigure",0,0,0,0,0,0,1,0,0,0
+"f",0,0,0,0,0,0,0,0,0,0
+"LAYOUT_INSETS",0,0,1,0,0,0,0,0,0,0
+"value",0,0,0,0,0,0,0,0,0,0
+"Insets2DDouble",0,0,0,0,0,0,0,0,1,0

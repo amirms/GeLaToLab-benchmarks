@@ -1,0 +1,11 @@
+,"fErrors","string","getCauses","InitializationError","arg0","error","Arrays","errors","asList","Exception"
+"fErrors",0,0,1,1,0,0,0,0,0,0
+"string",0,0,0,0,0,0,0,0,0,1
+"getCauses",0,0,0,0,0,0,0,0,0,0
+"InitializationError",1,0,0,0,0,0,0,0,0,0
+"arg0",0,0,0,0,0,0,0,0,0,0
+"error",0,0,0,0,1,0,0,0,0,0
+"Arrays",0,0,0,0,0,0,0,0,1,0
+"errors",1,0,0,0,0,0,0,0,0,0
+"asList",0,0,0,1,0,0,1,0,0,0
+"Exception",0,0,0,1,0,0,0,0,0,0

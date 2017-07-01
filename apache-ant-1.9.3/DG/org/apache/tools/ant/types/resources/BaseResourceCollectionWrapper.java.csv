@@ -1,0 +1,8 @@
+,"iterator","getSize","getCollection","coll","createIterator","size","cacheCollection"
+"iterator",0,0,0,0,1,0,1
+"getSize",0,0,0,0,0,0,0
+"getCollection",0,0,0,1,0,0,0
+"coll",0,0,0,0,0,0,1
+"createIterator",0,0,0,0,0,0,0
+"size",0,1,0,0,0,0,1
+"cacheCollection",1,0,0,0,0,1,0

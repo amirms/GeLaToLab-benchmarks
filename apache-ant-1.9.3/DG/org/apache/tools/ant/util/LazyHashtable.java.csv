@@ -1,0 +1,11 @@
+,"contains","size","Hashtable","containsKey","keys","elements","arg0","isEmpty","value","containsValue"
+"contains",1,0,1,0,0,0,0,0,0,1
+"size",0,1,1,0,0,0,0,0,0,0
+"Hashtable",1,1,0,1,1,1,0,1,0,0
+"containsKey",0,0,1,1,0,0,0,0,0,0
+"keys",0,0,1,0,1,0,0,0,0,0
+"elements",0,0,1,0,0,1,0,0,0,0
+"arg0",0,0,0,0,0,0,0,0,0,0
+"isEmpty",0,0,1,0,0,0,0,1,0,0
+"value",0,0,0,0,0,0,2,0,1,0
+"containsValue",0,0,0,0,0,0,0,0,0,0

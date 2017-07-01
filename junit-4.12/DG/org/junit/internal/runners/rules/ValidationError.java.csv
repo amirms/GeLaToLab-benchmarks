@@ -1,0 +1,10 @@
+,"annotation","getName","arg1","member","format","getSimpleName","String","suffix","Exception"
+"annotation",0,0,0,0,0,1,0,0,0
+"getName",0,0,0,1,1,0,0,0,0
+"arg1",0,0,0,0,0,0,0,0,0
+"member",0,1,0,0,0,0,0,0,0
+"format",0,0,0,0,0,0,1,0,1
+"getSimpleName",1,0,1,0,0,0,0,0,0
+"String",0,0,0,0,1,0,0,0,0
+"suffix",0,0,0,0,1,0,0,0,0
+"Exception",0,0,0,0,0,0,0,0,0

@@ -1,0 +1,14 @@
+,"unicodeBuf","deleteCharAt","rdr","read","in","ch","length","newFilter","UnicodeUtil","achar","EscapeUnicode","setInitialized","charAt"
+"unicodeBuf",0,1,0,0,0,0,1,0,0,0,0,0,1
+"deleteCharAt",1,0,0,0,0,0,0,0,0,0,0,0,0
+"rdr",0,0,0,0,0,0,0,0,0,0,1,0,0
+"read",0,0,0,0,1,1,0,0,0,0,0,0,0
+"in",0,0,0,1,0,0,0,0,0,0,0,0,0
+"ch",0,0,0,0,0,0,0,0,0,1,0,0,0
+"length",1,0,0,0,0,0,0,0,0,0,0,0,0
+"newFilter",0,0,0,0,0,0,0,0,0,0,0,1,0
+"UnicodeUtil",0,0,0,0,0,0,0,0,0,0,1,0,0
+"achar",0,0,0,0,0,0,0,0,0,0,1,0,0
+"EscapeUnicode",1,0,0,0,0,0,0,1,1,0,0,0,0
+"setInitialized",0,0,0,0,0,0,0,1,0,0,0,0,0
+"charAt",1,0,0,0,0,1,0,0,0,0,0,0,0

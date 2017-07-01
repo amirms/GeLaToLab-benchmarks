@@ -1,0 +1,13 @@
+,"next","add","ct","iterator","getCollection","getValidCount","arg0","ArrayList","iter","hasNext","al","getResourceCollection"
+"next",0,0,0,0,0,0,1,0,1,0,0,0
+"add",0,0,0,0,0,0,0,0,0,0,1,0
+"ct",0,0,0,0,0,0,0,1,0,0,0,0
+"iterator",0,0,0,0,0,0,0,0,1,0,0,1
+"getCollection",0,0,0,0,0,0,0,0,0,0,0,0
+"getValidCount",0,0,1,0,0,0,0,0,0,0,0,0
+"arg0",0,0,0,0,0,0,0,0,0,0,0,0
+"ArrayList",0,0,0,0,0,0,0,0,0,0,1,0
+"iter",1,0,0,0,0,0,0,0,0,1,0,0
+"hasNext",0,0,0,0,0,0,0,0,1,0,0,0
+"al",0,1,0,0,1,0,0,0,0,0,0,0
+"getResourceCollection",0,0,0,1,0,0,0,0,0,0,0,0

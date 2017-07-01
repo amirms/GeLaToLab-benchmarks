@@ -1,0 +1,11 @@
+,"setNewProperty","getLocation","getParent","file","Dirname","property","name","BuildException","value","getProject"
+"setNewProperty",0,0,0,0,0,0,0,0,0,1
+"getLocation",0,0,0,0,0,0,0,2,0,0
+"getParent",0,0,0,1,0,0,0,0,1,0
+"file",0,0,1,1,1,0,0,0,0,0
+"Dirname",0,0,0,1,0,1,0,0,0,0
+"property",0,0,0,0,1,1,1,0,0,0
+"name",0,0,0,0,0,0,0,0,0,0
+"BuildException",0,0,0,0,0,0,0,0,0,0
+"value",0,0,0,0,0,0,0,0,1,0
+"getProject",1,0,0,0,0,0,0,0,0,0

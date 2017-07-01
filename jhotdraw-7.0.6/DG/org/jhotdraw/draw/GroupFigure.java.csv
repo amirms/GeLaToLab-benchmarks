@@ -1,0 +1,10 @@
+,"p","r","angleToPoint","pointToAngle","chop","angle","from","Geom","getBounds"
+"p",0,0,0,0,0,0,0,0,0
+"r",0,2,0,0,0,0,0,0,0
+"angleToPoint",0,0,0,0,1,0,0,1,0
+"pointToAngle",0,0,0,0,0,1,0,1,0
+"chop",0,0,0,0,0,0,0,0,0
+"angle",0,0,0,0,0,0,0,0,0
+"from",1,0,0,0,0,0,0,0,0
+"Geom",0,0,1,1,0,0,0,0,0
+"getBounds",0,1,0,0,0,0,0,0,0

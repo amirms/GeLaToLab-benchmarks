@@ -1,0 +1,15 @@
+,"EQUAL_INDEX","getValues","getIndex","LESS_INDEX","i","binarySearch","comparisonResult","arg1","arg0","VALUES","GREATER_INDEX","Arrays","value","evaluate"
+"EQUAL_INDEX",0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"getValues",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"getIndex",0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"LESS_INDEX",0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"i",0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"binarySearch",0,0,0,0,0,0,0,0,0,0,0,1,0,1
+"comparisonResult",0,0,0,0,2,0,0,0,0,0,0,0,0,0
+"arg1",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"arg0",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"VALUES",0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"GREATER_INDEX",0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"Arrays",0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"value",0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"evaluate",0,0,0,0,0,0,0,0,0,0,0,0,0,0

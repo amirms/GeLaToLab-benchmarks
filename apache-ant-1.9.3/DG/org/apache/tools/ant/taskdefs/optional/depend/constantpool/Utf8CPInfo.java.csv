@@ -1,0 +1,8 @@
+,"getValue","readUTF","cpStream","CONSTANT_UTF8","toString","value","ConstantPoolEntry"
+"getValue",0,0,0,0,0,0,0
+"readUTF",0,0,1,0,0,1,0
+"cpStream",0,1,0,0,0,0,0
+"CONSTANT_UTF8",0,0,0,0,0,0,1
+"toString",0,0,0,0,0,0,0
+"value",1,0,0,0,1,0,0
+"ConstantPoolEntry",0,0,0,0,0,0,0

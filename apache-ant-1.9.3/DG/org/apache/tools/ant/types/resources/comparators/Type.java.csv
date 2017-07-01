@@ -1,0 +1,6 @@
+,"bar","f","foo","resourceCompare","isDirectory"
+"bar",0,0,0,0,1
+"f",0,0,0,1,0
+"foo",0,0,0,0,1
+"resourceCompare",0,0,0,0,0
+"isDirectory",1,1,1,0,0

@@ -1,0 +1,12 @@
+,"owner","AbstractUndoableEdit","newGeometry","undo","willChange","restoreTo","GeometryEdit","oldGeometry","restoreData","redo","changed"
+"owner",1,0,0,0,2,2,1,0,0,0,2
+"AbstractUndoableEdit",0,0,0,1,0,0,0,0,0,1,0
+"newGeometry",0,0,1,0,0,0,1,0,1,0,0
+"undo",0,1,0,0,0,0,0,0,0,0,0
+"willChange",2,0,0,0,0,0,0,0,0,0,0
+"restoreTo",2,0,0,0,0,0,0,0,0,0,0
+"GeometryEdit",1,0,1,0,0,0,0,1,0,0,0
+"oldGeometry",0,0,0,0,0,0,1,1,1,0,0
+"restoreData",0,0,0,0,0,0,0,0,0,0,0
+"redo",0,1,0,0,0,0,0,0,0,0,0
+"changed",2,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,8 @@
+,"offset","TarUtils","parseBoolean","buffer","isExtended","headerBuf","SPARSELEN_GNU_SPARSE"
+"offset",1,0,0,0,0,0,0
+"TarUtils",0,0,1,0,0,0,0
+"parseBoolean",0,1,0,0,1,0,0
+"buffer",0,0,0,0,0,0,0
+"isExtended",0,0,0,0,1,0,0
+"headerBuf",0,0,0,1,0,0,0
+"SPARSELEN_GNU_SPARSE",1,0,0,0,0,0,0

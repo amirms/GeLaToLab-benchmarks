@@ -1,0 +1,14 @@
+,"next","b","ResourceSelectorContainer","count","i","threshold","hasNext","tie","r","even","selectorCount","isSelected","getSelectors"
+"next",0,0,0,0,1,0,0,0,0,0,0,1,0
+"b",0,0,0,0,0,0,0,1,0,0,0,0,0
+"ResourceSelectorContainer",0,0,0,0,0,0,0,0,0,0,0,0,0
+"count",0,0,0,0,0,1,0,0,0,1,0,0,0
+"i",1,0,0,0,0,0,1,0,0,0,0,0,1
+"threshold",0,0,0,0,0,0,0,0,0,0,0,0,0
+"hasNext",0,0,0,0,1,0,0,0,0,0,0,0,0
+"tie",0,0,0,0,0,0,0,0,0,0,0,0,0
+"r",0,0,1,0,0,0,0,0,1,0,0,0,0
+"even",0,0,0,0,0,0,0,0,0,0,0,0,0
+"selectorCount",0,0,0,1,0,0,0,0,0,0,0,0,0
+"isSelected",1,0,0,0,0,0,0,0,0,0,0,0,0
+"getSelectors",0,0,0,0,0,0,0,0,0,0,0,0,0

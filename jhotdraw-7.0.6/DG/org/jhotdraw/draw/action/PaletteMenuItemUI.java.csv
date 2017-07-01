@@ -1,0 +1,17 @@
+,"getIconWidth","selectionBackground","b","c","installDefaults","g","icon","Dimension","BasicMenuItemUI","getIcon","arg2","getIconHeight","arg1","arg0","getPreferredMenuItemSize","paintIcon"
+"getIconWidth",0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+"selectionBackground",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"b",0,0,0,0,0,0,0,0,0,2,0,0,1,1,0,0
+"c",0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"installDefaults",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"g",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+"icon",1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+"Dimension",0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
+"BasicMenuItemUI",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"getIcon",0,0,2,0,0,0,2,0,0,0,0,0,0,0,0,0
+"arg2",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"getIconHeight",0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+"arg1",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"arg0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"getPreferredMenuItemSize",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"paintIcon",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0

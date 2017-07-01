@@ -1,0 +1,17 @@
+,"newValue","b","anEdit","presentationName","getPresentationName","isSignificant","CompoundEdit","isVerbose","CompositeEdit","addEdit","getString","getLabels","arg0","getUndoPresentationName","UndoRedoManager","getRedoPresentationName"
+"newValue",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"b",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"anEdit",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"presentationName",0,0,0,2,2,0,0,0,2,0,0,0,0,2,0,2
+"getPresentationName",0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+"isSignificant",0,0,0,0,0,4,1,0,2,0,0,0,0,0,0,0
+"CompoundEdit",0,0,0,0,1,1,0,0,0,1,0,0,0,1,0,1
+"isVerbose",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"CompositeEdit",0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0
+"addEdit",0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+"getString",0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,1
+"getLabels",0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,0
+"arg0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"getUndoPresentationName",0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+"UndoRedoManager",0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0
+"getRedoPresentationName",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1

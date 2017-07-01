@@ -1,0 +1,16 @@
+,"sourceFileName","mapFileName","replace","dirs","fileSep","fileSepCorrected","String","substring","nthMatch","arg1","arg0","separatorChar","CutDirsMapper","File","indexOf"
+"sourceFileName",0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+"mapFileName",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"replace",1,0,2,0,0,1,0,0,0,0,0,0,0,0,0
+"dirs",0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+"fileSep",0,0,0,0,0,0,0,0,0,2,2,0,0,0,0
+"fileSepCorrected",0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+"String",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"substring",1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"nthMatch",0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+"arg1",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"arg0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"separatorChar",0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+"CutDirsMapper",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"File",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"indexOf",0,0,0,0,0,2,0,0,2,0,0,0,0,0,0

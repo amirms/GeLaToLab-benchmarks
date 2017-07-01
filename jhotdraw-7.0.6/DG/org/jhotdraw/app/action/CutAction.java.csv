@@ -1,0 +1,16 @@
+,"CutAction","argument","evt","ResourceBundleUtil","getLAFBundle","getPermanentFocusOwner","labels","getCurrentKeyboardFocusManager","focusOwner","actionPerformed","configureAction","arg0","action","KeyboardFocusManager","ID"
+"CutAction",0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+"argument",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"evt",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"ResourceBundleUtil",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"getLAFBundle",0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+"getPermanentFocusOwner",0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+"labels",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"getCurrentKeyboardFocusManager",0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+"focusOwner",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"actionPerformed",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"configureAction",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"arg0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"action",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"KeyboardFocusManager",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"ID",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0

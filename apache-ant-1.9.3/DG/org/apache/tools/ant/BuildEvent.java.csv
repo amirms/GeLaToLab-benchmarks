@@ -1,0 +1,16 @@
+,"exception","getException","project","getMessage","message","priority","getOwningTarget","EventObject","target","getTarget","task","BuildEvent","getPriority","getProject","getTask"
+"exception",1,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+"getException",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"project",0,0,1,0,0,0,0,1,0,0,0,3,0,1,0
+"getMessage",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"message",0,0,0,1,1,0,0,0,0,0,0,1,0,0,0
+"priority",0,0,0,0,0,1,0,0,0,0,0,1,1,0,0
+"getOwningTarget",0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+"EventObject",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"target",0,0,0,0,0,0,0,1,1,1,0,3,0,1,0
+"getTarget",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"task",0,0,0,0,0,0,1,1,0,0,1,3,0,1,1
+"BuildEvent",1,0,3,0,1,1,0,0,3,0,3,0,0,0,0
+"getPriority",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"getProject",0,0,2,0,0,0,0,0,1,0,1,0,0,0,0
+"getTask",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,8 @@
+,"GZIPInputStream","other","in","GZIPOutputStream","CompressedResource","wrapStream","out"
+"GZIPInputStream",0,0,0,0,0,1,0
+"other",0,0,0,0,1,0,0
+"in",1,0,0,0,0,0,0
+"GZIPOutputStream",0,0,0,0,0,1,0
+"CompressedResource",0,0,0,0,0,0,0
+"wrapStream",0,0,0,0,0,0,0
+"out",0,0,0,1,0,0,0

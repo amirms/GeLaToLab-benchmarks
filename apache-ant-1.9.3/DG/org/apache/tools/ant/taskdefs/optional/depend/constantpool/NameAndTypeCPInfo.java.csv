@@ -1,0 +1,17 @@
+,"getName","resolve","cpStream","index","descriptorIndex","constantPool","type","ConstantPoolEntry","nameIndex","getType","name","toString","getEntry","value","CONSTANT_NAMEANDTYPE","readUnsignedShort"
+"getName",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"resolve",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"cpStream",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+"index",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"descriptorIndex",0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+"constantPool",0,0,0,0,0,1,0,0,0,0,0,0,2,0,0,0
+"type",0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+"ConstantPoolEntry",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"nameIndex",0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+"getType",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"name",1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"toString",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"getEntry",0,0,0,0,0,2,1,0,0,0,1,0,0,0,0,0
+"value",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"CONSTANT_NAMEANDTYPE",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"readUnsignedShort",0,0,2,0,1,0,0,0,1,0,0,0,0,0,0,0

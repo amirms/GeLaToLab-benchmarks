@@ -1,0 +1,17 @@
+,"add","next","projectHelper","getClass","repo","hasNext","it","ProjectHelperRepository","helperClass","iterator","helper","arg0","getInstance","ProjectHelperTask","projectHelpers","registerProjectHelper"
+"add",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"next",0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+"projectHelper",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"getClass",0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0
+"repo",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"hasNext",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"it",0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+"ProjectHelperRepository",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"helperClass",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"iterator",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"helper",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"arg0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"getInstance",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+"ProjectHelperTask",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"projectHelpers",1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+"registerProjectHelper",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0

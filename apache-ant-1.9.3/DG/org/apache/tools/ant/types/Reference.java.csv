@@ -1,0 +1,14 @@
+,"Reference","project","getRefId","o","p","id","refid","BuildException","getReferencedObject","fallback","getReference","getProject","key"
+"Reference",0,1,0,0,0,0,0,0,0,0,0,0,0
+"project",1,0,0,1,0,0,0,0,0,1,1,1,0
+"getRefId",0,0,0,0,0,0,0,0,0,0,0,0,0
+"o",0,0,0,0,0,0,0,0,1,0,0,0,0
+"p",0,1,0,0,1,0,0,0,0,0,0,0,0
+"id",0,0,0,0,0,2,1,0,0,0,0,0,0
+"refid",0,0,1,0,0,0,0,2,0,0,0,0,2
+"BuildException",0,0,0,0,0,0,0,0,0,0,0,0,0
+"getReferencedObject",0,0,0,0,0,0,0,0,1,0,0,0,0
+"fallback",0,0,0,0,0,0,0,0,0,0,1,0,0
+"getReference",0,1,0,2,0,0,0,0,0,1,0,0,0
+"getProject",0,0,0,0,0,0,0,0,0,0,0,0,0
+"key",0,0,0,0,0,0,0,0,0,0,0,0,0

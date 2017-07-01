@@ -1,0 +1,12 @@
+,"app","ClearAction","SaveBeforeAction","setFile","configureAction","ResourceBundleUtil","clear","action","project","getLAFBundle","labels"
+"app",0,0,1,0,0,0,0,0,0,0,0
+"ClearAction",0,0,0,0,0,0,0,1,0,0,0
+"SaveBeforeAction",0,0,0,0,0,0,0,0,0,0,0
+"setFile",0,0,0,0,0,0,0,0,1,0,0
+"configureAction",0,0,0,0,0,0,0,0,0,0,1
+"ResourceBundleUtil",0,0,0,0,0,0,0,0,0,1,0
+"clear",0,0,0,0,0,0,0,0,1,0,0
+"action",0,0,0,0,0,0,0,0,0,0,0
+"project",0,0,0,1,0,0,1,0,0,0,0
+"getLAFBundle",0,0,0,0,0,1,0,0,0,0,1
+"labels",0,0,0,0,1,0,0,0,0,0,0

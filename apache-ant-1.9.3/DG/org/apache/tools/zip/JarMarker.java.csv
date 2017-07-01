@@ -1,0 +1,11 @@
+,"getLocalFileDataLength","NULL","getCentralDirectoryData","getInstance","ID","getLocalFileDataData","getCentralDirectoryLength","NO_BYTES","DEFAULT","getHeaderId"
+"getLocalFileDataLength",0,0,0,0,0,0,0,0,0,0
+"NULL",1,0,0,0,0,0,1,0,0,0
+"getCentralDirectoryData",0,0,0,0,0,0,0,0,0,0
+"getInstance",0,0,0,0,0,0,0,0,0,0
+"ID",0,0,0,0,0,0,0,0,0,1
+"getLocalFileDataData",0,0,0,0,0,0,0,0,0,0
+"getCentralDirectoryLength",0,0,0,0,0,0,0,0,0,0
+"NO_BYTES",0,0,1,0,0,1,0,0,0,0
+"DEFAULT",0,0,0,1,0,0,0,0,0,0
+"getHeaderId",0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,6 @@
+,"bar","isExists","f","foo","resourceCompare"
+"bar",0,1,0,0,0
+"isExists",1,0,1,1,0
+"f",0,0,0,0,1
+"foo",0,1,0,0,0
+"resourceCompare",0,0,0,0,0

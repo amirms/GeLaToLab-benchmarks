@@ -1,0 +1,15 @@
+,"add","assignments","enumType","ArrayList","getEnumConstants","forValue","arg0","getValueSources","name","toString","PotentialAssignment","EnumSupplier","value","enumValues"
+"add",0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"assignments",1,0,0,0,0,0,0,1,0,0,0,0,0,0
+"enumType",0,0,1,0,1,0,0,0,0,0,0,1,0,0
+"ArrayList",0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"getEnumConstants",0,0,1,0,0,0,0,0,0,0,0,0,0,1
+"forValue",0,0,0,0,0,0,1,0,0,0,1,0,0,0
+"arg0",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"getValueSources",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"name",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"toString",0,0,0,0,0,0,0,0,1,0,0,0,1,0
+"PotentialAssignment",0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"EnumSupplier",0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"value",0,0,0,0,0,0,0,0,0,1,0,0,1,0
+"enumValues",0,0,0,0,0,0,0,0,0,0,0,0,0,0

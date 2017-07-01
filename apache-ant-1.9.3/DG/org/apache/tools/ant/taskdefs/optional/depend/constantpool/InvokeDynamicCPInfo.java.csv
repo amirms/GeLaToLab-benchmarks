@@ -1,0 +1,16 @@
+,"bootstrapMethodAttrIndex","nameAndTypeIndex","getName","CONSTANT_INVOKEDYNAMIC","resolve","cpStream","nameAndTypeCPInfo","index","ConstantCPInfo","constantPool","getType","toString","getEntry","value","readUnsignedShort"
+"bootstrapMethodAttrIndex",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"nameAndTypeIndex",0,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+"getName",0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+"CONSTANT_INVOKEDYNAMIC",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"resolve",0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+"cpStream",0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+"nameAndTypeCPInfo",0,0,1,0,1,0,0,0,0,0,1,0,0,0,0
+"index",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"ConstantCPInfo",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"constantPool",0,0,0,0,0,0,0,0,0,2,0,0,1,0,0
+"getType",0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+"toString",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"getEntry",0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+"value",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"readUnsignedShort",1,1,0,0,0,2,0,0,0,0,0,0,0,0,0

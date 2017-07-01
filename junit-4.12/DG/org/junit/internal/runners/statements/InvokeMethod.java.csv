@@ -1,0 +1,5 @@
+,"InvokeMethod","testMethod","invokeExplosively","target"
+"InvokeMethod",0,1,0,1
+"testMethod",1,1,1,0
+"invokeExplosively",0,1,0,0
+"target",1,0,0,2

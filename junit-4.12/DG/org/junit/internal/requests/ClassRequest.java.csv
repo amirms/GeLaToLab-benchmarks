@@ -1,0 +1,9 @@
+,"AllDefaultPossibilitiesBuilder","getRunner","safeRunnerForClass","canUseSuiteMethod","testClass","runner","ClassRequest","fTestClass"
+"AllDefaultPossibilitiesBuilder",0,0,1,0,0,0,0,0
+"getRunner",0,0,0,0,0,0,0,0
+"safeRunnerForClass",1,0,0,0,0,1,0,0
+"canUseSuiteMethod",1,0,0,1,0,0,1,0
+"testClass",0,0,0,0,0,0,1,1
+"runner",0,1,0,0,0,0,0,0
+"ClassRequest",0,0,0,1,0,0,0,1
+"fTestClass",0,0,0,0,1,0,1,0

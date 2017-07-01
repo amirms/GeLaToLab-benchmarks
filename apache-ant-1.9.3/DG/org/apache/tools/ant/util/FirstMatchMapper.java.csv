@@ -1,0 +1,10 @@
+,"next","iterator","sourceFileName","getMappers","mapFileName","mapped","iter","hasNext","mapper"
+"next",0,0,0,0,0,0,1,0,1
+"iterator",0,0,0,1,0,0,0,0,0
+"sourceFileName",0,0,1,0,0,0,0,0,0
+"getMappers",0,1,0,0,0,0,0,0,0
+"mapFileName",0,0,0,0,0,1,0,0,1
+"mapped",0,0,0,0,1,0,0,0,0
+"iter",1,1,0,0,0,0,0,1,0
+"hasNext",0,0,0,0,0,0,1,0,0
+"mapper",0,0,0,0,1,0,0,0,0

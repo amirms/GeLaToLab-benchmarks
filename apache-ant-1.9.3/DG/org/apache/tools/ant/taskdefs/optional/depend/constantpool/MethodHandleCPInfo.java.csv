@@ -1,0 +1,17 @@
+,"referenceIndex","resolve","cpStream","values","index","constantPool","ConstantPoolEntry","reference","referenceKind","ReferenceKind","toString","getEntry","readUnsignedByte","value","CONSTANT_METHODHANDLE","readUnsignedShort"
+"referenceIndex",0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+"resolve",0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+"cpStream",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+"values",0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+"index",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"constantPool",0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,0
+"ConstantPoolEntry",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"reference",0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"referenceKind",0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0
+"ReferenceKind",0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+"toString",0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+"getEntry",0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+"readUnsignedByte",0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+"value",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"CONSTANT_METHODHANDLE",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"readUnsignedShort",1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0

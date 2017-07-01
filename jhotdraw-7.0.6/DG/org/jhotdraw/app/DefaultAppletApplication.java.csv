@@ -1,0 +1,11 @@
+,"p","add","removeAll","getCurrentProject","arg0","project","getContentPane","getComponent","DefaultAppletApplication","applet"
+"p",0,0,0,0,0,1,0,1,0,0
+"add",0,0,0,0,0,0,1,0,0,0
+"removeAll",0,0,0,0,0,0,2,0,0,0
+"getCurrentProject",0,0,0,0,0,0,0,0,0,0
+"arg0",0,0,0,0,0,0,0,0,0,0
+"project",0,0,0,1,0,0,0,0,2,0
+"getContentPane",0,1,2,0,0,0,0,0,0,3
+"getComponent",1,0,0,0,1,0,0,0,0,0
+"DefaultAppletApplication",0,0,0,0,0,2,0,0,0,1
+"applet",0,0,0,0,0,0,3,1,1,1

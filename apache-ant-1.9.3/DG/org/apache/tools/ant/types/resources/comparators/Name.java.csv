@@ -1,0 +1,7 @@
+,"bar","getName","foo","arg0","resourceCompare","compareTo"
+"bar",0,1,0,0,0,0
+"getName",1,0,1,1,0,1
+"foo",0,1,0,0,0,0
+"arg0",0,0,0,0,0,0
+"resourceCompare",0,0,0,0,0,0
+"compareTo",0,1,0,0,1,0

@@ -1,0 +1,15 @@
+,"setVisible","Action","c","SELECTED_KEY","Actions","isVisible","ToggleVisibleAction","NAME","component","arg1","arg0","name","addComponentListener","ComponentAdapter"
+"setVisible",0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"Action",0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"c",0,0,0,0,0,1,0,0,1,0,0,0,1,0
+"SELECTED_KEY",0,0,0,0,3,0,0,0,0,0,3,0,0,0
+"Actions",0,0,0,3,0,0,0,0,0,0,0,0,0,0
+"isVisible",0,0,1,0,0,0,0,0,3,3,1,0,0,0
+"ToggleVisibleAction",0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"NAME",0,1,0,0,0,0,0,0,0,0,1,0,0,0
+"component",1,0,0,0,0,3,1,0,0,0,0,0,0,0
+"arg1",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"arg0",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"name",0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"addComponentListener",0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"ComponentAdapter",0,0,0,0,0,0,0,0,0,0,1,0,0,0

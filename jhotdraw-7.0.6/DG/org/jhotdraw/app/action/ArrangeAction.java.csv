@@ -1,0 +1,16 @@
+,"newValue","argument","CASCADE_ID","VERTICAL_ID","ResourceBundleUtil","HORIZONTAL_ID","getLAFBundle","labels","arrangement","arrangeable","ArrangeAction","labelID","configureAction","action","setArrangement"
+"newValue",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"argument",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"CASCADE_ID",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"VERTICAL_ID",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"ResourceBundleUtil",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"HORIZONTAL_ID",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"getLAFBundle",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+"labels",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"arrangement",1,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+"arrangeable",0,0,0,0,0,0,0,0,0,1,1,0,0,0,1
+"ArrangeAction",0,0,0,0,0,0,0,0,1,1,0,0,0,1,0
+"labelID",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"configureAction",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"action",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"setArrangement",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0

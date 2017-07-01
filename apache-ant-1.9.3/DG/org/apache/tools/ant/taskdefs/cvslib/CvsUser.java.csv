@@ -1,0 +1,8 @@
+,"CvsUser","displayName","getDisplayname","BuildException","message","userID","getUserID"
+"CvsUser",0,1,0,0,0,1,0
+"displayName",1,1,1,0,0,0,0
+"getDisplayname",0,0,0,0,0,0,0
+"BuildException",0,0,0,0,0,0,0
+"message",0,0,0,2,0,0,0
+"userID",1,0,0,0,1,1,1
+"getUserID",0,0,0,0,0,0,0

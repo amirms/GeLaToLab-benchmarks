@@ -1,0 +1,9 @@
+,"arg2","getClass","currentThread","forName","getContextClassLoader","arg0","className","Class"
+"arg2",0,0,0,0,0,0,0,0
+"getClass",0,0,0,0,0,0,0,0
+"currentThread",0,0,0,0,1,0,0,0
+"forName",0,1,0,0,0,0,0,1
+"getContextClassLoader",1,0,1,0,0,0,0,0
+"arg0",0,0,0,0,0,0,0,0
+"className",0,0,0,0,0,1,0,0
+"Class",0,0,0,1,0,0,0,0

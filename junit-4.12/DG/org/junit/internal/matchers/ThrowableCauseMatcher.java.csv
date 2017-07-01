@@ -1,0 +1,15 @@
+,"item","ThrowableCauseMatcher","description","describeMismatch","matcher","getCause","matches","appendDescriptionOf","arg1","arg0","matchesSafely","appendText","hasCause","causeMatcher"
+"item",0,0,0,0,0,2,0,0,0,0,0,0,0,0
+"ThrowableCauseMatcher",0,0,0,0,0,0,0,0,0,0,0,0,1,1
+"description",0,0,0,0,0,0,0,1,1,0,0,2,0,0
+"describeMismatch",0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"matcher",0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"getCause",2,0,0,0,0,0,0,0,0,2,0,0,0,0
+"matches",0,0,0,0,0,0,0,0,0,0,1,0,0,1
+"appendDescriptionOf",0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"arg1",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"arg0",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"matchesSafely",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"appendText",0,0,2,0,0,0,0,0,0,0,0,0,0,0
+"hasCause",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"causeMatcher",0,1,0,1,0,0,1,0,0,1,0,0,0,1

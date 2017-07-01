@@ -1,0 +1,10 @@
+,"vmLauncher","CommandLauncher","setShellLauncher","CommandLauncherTask","commandLauncher","setVMLauncher","project","getProject","launcher"
+"vmLauncher",1,0,0,1,0,0,0,0,0
+"CommandLauncher",0,0,1,0,0,1,0,0,0
+"setShellLauncher",0,1,0,0,0,0,0,0,0
+"CommandLauncherTask",1,0,0,0,2,0,0,0,0
+"commandLauncher",0,0,0,2,1,0,0,0,2
+"setVMLauncher",0,1,0,0,0,0,0,0,0
+"project",0,0,0,0,0,0,0,0,0
+"getProject",0,0,0,0,0,0,2,0,0
+"launcher",0,0,0,0,0,0,0,0,0

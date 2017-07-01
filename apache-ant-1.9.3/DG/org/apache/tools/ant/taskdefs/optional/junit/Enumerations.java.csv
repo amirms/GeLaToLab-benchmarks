@@ -1,0 +1,15 @@
+,"fromArray","length","index","ArrayEnumeration","fromCompound","CompoundEnumeration","o","enums","array","pos","hasMoreElements","enumArray","enumarray","nextElement"
+"fromArray",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"length",0,0,0,0,0,0,0,0,1,0,1,1,0,0
+"index",0,0,0,0,0,0,0,0,0,0,0,3,0,0
+"ArrayEnumeration",1,0,0,0,0,0,0,0,1,1,0,0,0,0
+"fromCompound",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"CompoundEnumeration",0,0,0,0,1,0,0,0,0,0,0,1,0,0
+"o",0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"enums",0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"array",0,1,0,2,0,0,1,0,1,0,0,0,0,0
+"pos",0,0,0,1,0,0,0,0,1,0,1,0,0,0
+"hasMoreElements",0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"enumArray",0,1,0,0,0,1,0,0,0,0,1,0,0,1
+"enumarray",0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"nextElement",0,0,0,0,0,0,0,0,0,0,0,1,0,1

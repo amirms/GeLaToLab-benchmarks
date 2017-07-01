@@ -1,0 +1,13 @@
+,"ProjectHelper","classLoader","antlibClassLoader","arg0","equals","AntlibDefinition","getAntlibClassLoader","BuildException","ANT_CORE_URI","uri","getURI","startsWith"
+"ProjectHelper",0,0,0,0,0,0,0,0,1,0,0,0
+"classLoader",0,0,1,0,0,0,0,0,0,0,0,0
+"antlibClassLoader",0,0,0,0,0,1,1,0,0,0,0,0
+"arg0",0,0,0,0,0,0,0,0,0,0,0,0
+"equals",0,0,0,0,0,0,0,0,0,1,0,0
+"AntlibDefinition",0,0,1,0,0,0,0,0,0,1,0,0
+"getAntlibClassLoader",0,0,0,0,0,0,0,0,0,0,0,0
+"BuildException",0,0,0,0,0,0,0,0,0,0,0,0
+"ANT_CORE_URI",1,0,0,1,0,0,0,0,0,0,0,0
+"uri",0,0,0,0,1,1,0,1,0,1,1,1
+"getURI",0,0,0,0,0,0,0,0,0,0,0,0
+"startsWith",0,0,0,0,0,0,0,0,0,1,0,0

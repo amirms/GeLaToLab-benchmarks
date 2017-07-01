@@ -1,0 +1,11 @@
+,"junit","isPre4Test","framework","TestCase","arg0","JUnit38ClassRunner","testClass","runnerForClass","class","isAssignableFrom"
+"junit",0,0,1,0,0,0,0,0,0,0
+"isPre4Test",0,0,0,0,0,0,0,0,0,0
+"framework",1,0,0,1,0,0,0,0,0,0
+"TestCase",0,0,1,0,0,0,0,0,1,0
+"arg0",0,0,0,0,0,0,0,0,0,0
+"JUnit38ClassRunner",0,0,0,0,0,0,0,1,0,0
+"testClass",0,0,0,0,1,1,1,0,0,0
+"runnerForClass",0,0,0,0,0,0,0,0,0,0
+"class",0,0,0,1,0,0,0,0,0,1
+"isAssignableFrom",0,1,0,0,0,0,0,0,1,0

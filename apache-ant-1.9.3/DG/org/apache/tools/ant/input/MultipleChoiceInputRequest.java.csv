@@ -1,0 +1,13 @@
+,"InputRequest","LinkedHashSet","contains","MultipleChoiceInputRequest","isInputValid","getChoices","arg0","choices","getInput","prompt","Vector","getDefaultValue"
+"InputRequest",0,0,0,0,0,0,0,0,0,0,0,0
+"LinkedHashSet",0,0,0,0,0,0,0,1,0,0,0,0
+"contains",0,0,0,0,1,0,0,1,0,0,0,0
+"MultipleChoiceInputRequest",0,0,0,0,0,0,0,1,0,0,0,0
+"isInputValid",0,0,0,0,0,0,0,0,0,0,0,0
+"getChoices",0,0,0,0,0,0,0,0,0,0,0,0
+"arg0",0,0,0,0,0,0,0,0,0,0,0,0
+"choices",0,1,1,1,0,0,0,0,0,0,1,0
+"getInput",0,0,0,0,0,0,1,0,0,0,0,0
+"prompt",1,0,0,0,0,0,0,0,0,0,0,0
+"Vector",0,0,0,0,0,1,0,0,0,0,0,0
+"getDefaultValue",0,0,0,0,1,0,0,0,0,0,0,0

@@ -1,0 +1,9 @@
+,"Float","newValue","getValue","cpStream","readFloat","ConstantCPInfo","toString","CONSTANT_FLOAT"
+"Float",0,1,0,0,0,0,0,0
+"newValue",0,0,0,0,0,0,0,0
+"getValue",0,0,0,0,0,0,1,0
+"cpStream",0,0,0,0,1,0,0,0
+"readFloat",1,0,0,1,0,0,0,0
+"ConstantCPInfo",0,0,0,0,0,0,0,0
+"toString",0,0,0,0,0,0,0,0
+"CONSTANT_FLOAT",0,0,0,0,0,1,0,0

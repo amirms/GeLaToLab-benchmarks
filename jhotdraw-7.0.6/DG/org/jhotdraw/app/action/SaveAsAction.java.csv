@@ -1,0 +1,11 @@
+,"app","SaveAction","SaveAsAction","argument","configureAction","ResourceBundleUtil","action","ID","getLAFBundle","labels"
+"app",0,1,0,0,0,0,0,0,0,0
+"SaveAction",0,0,0,0,0,0,0,0,0,0
+"SaveAsAction",0,0,0,0,0,0,1,0,0,0
+"argument",0,0,0,0,0,0,0,0,0,0
+"configureAction",0,0,0,0,0,0,0,0,0,1
+"ResourceBundleUtil",0,0,0,0,0,0,0,0,1,0
+"action",0,0,0,0,0,0,0,0,0,0
+"ID",0,0,0,1,0,0,0,0,0,0
+"getLAFBundle",0,0,0,0,0,1,0,0,0,1
+"labels",0,0,0,0,1,0,0,0,0,0

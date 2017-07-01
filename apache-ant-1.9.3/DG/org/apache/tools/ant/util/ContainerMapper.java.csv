@@ -1,0 +1,16 @@
+,"add","next","foundit","getImplementation","getMappers","iter","mapper","hasNext","unmodifiableList","iterator","contains","fileNameMapper","arg0","Collections","mappers"
+"add",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"next",0,1,3,0,0,1,0,0,0,0,0,0,0,0,0
+"foundit",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"getImplementation",0,0,0,0,0,0,1,0,0,0,0,1,0,0,0
+"getMappers",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"iter",0,1,0,0,0,0,0,1,0,1,0,0,0,0,0
+"mapper",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"hasNext",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"unmodifiableList",0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+"iterator",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"contains",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"fileNameMapper",0,0,1,0,0,0,0,0,0,0,0,1,1,0,0
+"arg0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Collections",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"mappers",1,0,0,0,0,0,0,0,0,1,0,0,1,0,0

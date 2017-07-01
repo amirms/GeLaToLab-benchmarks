@@ -1,0 +1,10 @@
+,"b","eval","string","subString","caseSensitive","arg0","toLowerCase","Contains","indexOf"
+"b",0,0,0,0,1,0,0,0,0
+"eval",0,0,0,0,0,0,0,0,0
+"string",0,0,1,0,0,0,1,1,1
+"subString",0,0,0,1,0,1,1,1,0
+"caseSensitive",0,1,0,0,0,0,0,0,0
+"arg0",0,0,0,0,0,0,0,0,0
+"toLowerCase",0,0,1,1,0,1,0,0,1
+"Contains",0,0,1,1,0,0,0,0,0
+"indexOf",0,2,1,0,0,0,1,0,0

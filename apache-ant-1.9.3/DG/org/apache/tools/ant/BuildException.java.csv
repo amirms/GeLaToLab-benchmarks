@@ -1,0 +1,12 @@
+,"msg","getLocation","RuntimeException","getException","cause","getMessage","location","toString","BuildException","message","getCause"
+"msg",0,0,0,0,0,0,0,0,1,0,0
+"getLocation",0,0,0,0,0,0,0,0,0,0,0
+"RuntimeException",0,0,0,0,0,0,0,0,0,0,0
+"getException",0,0,0,0,0,0,0,0,0,0,0
+"cause",0,0,2,0,0,0,0,0,2,0,0
+"getMessage",0,0,0,0,0,0,0,1,0,0,0
+"location",0,1,0,0,0,0,4,1,4,0,0
+"toString",0,0,0,0,0,0,1,1,0,0,0
+"BuildException",0,0,0,0,0,0,4,0,0,0,0
+"message",0,0,3,0,0,0,0,0,0,0,0
+"getCause",0,0,0,1,0,0,0,0,0,0,0

@@ -1,0 +1,8 @@
+,"ExitStatusException","msg","location","BuildException","message","getStatus","status"
+"ExitStatusException",0,0,0,0,0,0,3
+"msg",0,0,0,1,0,0,0
+"location",0,0,0,1,0,0,0
+"BuildException",0,0,0,0,0,0,0
+"message",0,0,0,1,0,0,0
+"getStatus",0,0,0,0,0,0,0
+"status",3,0,0,0,0,1,3

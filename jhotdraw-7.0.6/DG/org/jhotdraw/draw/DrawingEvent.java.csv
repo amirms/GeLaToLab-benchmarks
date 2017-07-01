@@ -1,0 +1,10 @@
+,"figure","invalidatedArea","DrawingEvent","getSource","getInvalidatedArea","getFigure","source","getDrawing","EventObject"
+"figure",1,0,1,0,0,1,0,0,0
+"invalidatedArea",0,1,1,0,1,0,0,0,0
+"DrawingEvent",1,1,0,0,0,0,0,0,0
+"getSource",0,0,0,0,0,0,0,1,0
+"getInvalidatedArea",0,0,0,0,0,0,0,0,0
+"getFigure",0,0,0,0,0,0,0,0,0
+"source",0,0,0,0,0,0,0,0,1
+"getDrawing",0,0,0,0,0,0,0,0,0
+"EventObject",0,0,0,0,0,0,0,0,0

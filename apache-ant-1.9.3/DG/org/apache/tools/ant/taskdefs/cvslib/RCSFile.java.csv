@@ -1,0 +1,11 @@
+,"getPreviousRevision","rev","getName","arg0","equals","name","RCSFile","previousRevision","revision","getRevision"
+"getPreviousRevision",0,0,0,0,0,0,0,0,0,0
+"rev",0,0,0,0,0,0,1,0,0,0
+"getName",0,0,0,0,0,0,0,0,0,0
+"arg0",0,0,0,0,0,0,0,0,0,0
+"equals",0,0,0,0,0,0,0,0,1,0
+"name",0,0,1,0,0,1,2,0,0,0
+"RCSFile",0,0,0,0,0,1,0,1,1,0
+"previousRevision",1,0,0,1,0,0,1,1,0,0
+"revision",0,0,0,0,1,0,1,0,1,1
+"getRevision",0,0,0,0,0,0,0,0,0,0

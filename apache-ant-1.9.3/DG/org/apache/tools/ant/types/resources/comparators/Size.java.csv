@@ -1,0 +1,6 @@
+,"getSize","bar","foo","resourceCompare","diff"
+"getSize",0,1,1,0,2
+"bar",1,0,0,0,0
+"foo",1,0,0,0,0
+"resourceCompare",0,0,0,0,0
+"diff",0,0,0,2,0

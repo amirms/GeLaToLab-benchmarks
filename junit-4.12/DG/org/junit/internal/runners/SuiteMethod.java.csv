@@ -1,0 +1,16 @@
+,"isStatic","getName","e","JUnit38ClassRunner","invoke","getMethod","testFromSuiteMethod","getCause","Exception","suite","klass","arg0","getModifiers","Modifier","suiteMethod"
+"isStatic",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"getName",0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+"e",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"JUnit38ClassRunner",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"invoke",0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+"getMethod",0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+"testFromSuiteMethod",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"getCause",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Exception",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"suite",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"klass",0,1,0,0,0,1,0,0,0,0,1,0,0,0,0
+"arg0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"getModifiers",0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+"Modifier",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"suiteMethod",0,0,0,0,1,0,0,0,0,0,0,0,1,0,0

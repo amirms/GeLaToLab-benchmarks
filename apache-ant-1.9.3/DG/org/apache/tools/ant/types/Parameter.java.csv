@@ -1,0 +1,8 @@
+,"getValue","getName","getType","name","Parameter","type","value"
+"getValue",0,0,0,0,0,0,0
+"getName",0,0,0,0,0,0,0
+"getType",0,0,0,0,0,0,0
+"name",0,1,0,1,1,0,0
+"Parameter",0,0,0,1,0,1,1
+"type",0,0,1,0,1,1,0
+"value",1,0,0,0,1,0,1

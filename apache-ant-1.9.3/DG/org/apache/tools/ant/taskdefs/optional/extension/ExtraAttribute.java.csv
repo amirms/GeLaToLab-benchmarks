@@ -1,0 +1,8 @@
+,"getValue","getName","name","ExtraAttribute","BuildException","message","value"
+"getValue",0,0,0,0,0,0,0
+"getName",0,0,0,0,0,0,0
+"name",0,1,1,1,0,1,0
+"ExtraAttribute",0,0,1,0,0,0,1
+"BuildException",0,0,0,0,0,0,0
+"message",0,0,0,0,2,0,0
+"value",1,0,0,1,0,0,1

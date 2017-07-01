@@ -1,0 +1,14 @@
+,"AbstractFileSet","getIncludedFiles","FileResourceIterator","fileset","p","iterator","size","getRef","getIncludedFilesCount","clone","getDirectoryScanner","getProject","getDir"
+"AbstractFileSet",0,0,0,0,0,0,0,0,0,1,0,0,0
+"getIncludedFiles",0,0,1,0,0,0,0,0,0,0,1,0,0
+"FileResourceIterator",0,0,0,0,0,1,0,0,0,0,0,0,0
+"fileset",1,0,0,0,0,0,0,0,0,0,0,0,0
+"p",0,0,0,0,0,0,0,0,0,0,0,0,0
+"iterator",0,0,0,0,0,0,0,0,0,0,0,0,0
+"size",0,0,0,0,0,0,0,0,0,0,0,0,0
+"getRef",0,0,0,0,0,1,1,0,0,1,0,0,0
+"getIncludedFilesCount",0,0,0,0,0,0,1,0,0,0,1,0,0
+"clone",1,0,0,0,0,0,0,0,0,1,0,0,0
+"getDirectoryScanner",0,1,0,0,0,0,0,0,1,0,0,0,0
+"getProject",0,0,1,0,6,0,0,0,0,0,0,0,0
+"getDir",0,0,1,0,0,0,0,0,0,0,0,0,0

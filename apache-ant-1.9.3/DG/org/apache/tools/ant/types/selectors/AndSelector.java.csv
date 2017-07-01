@@ -1,0 +1,15 @@
+,"StringBuilder","e","selectorElements","basedir","buf","filename","file","hasMoreElements","BaseSelectorContainer","arg0","isSelected","toString","append","nextElement"
+"StringBuilder",0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"e",0,0,0,0,0,0,0,1,0,0,0,0,0,1
+"selectorElements",0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"basedir",0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"buf",0,0,0,0,0,0,0,0,0,0,0,1,3,0
+"filename",0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"file",0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"hasMoreElements",0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"BaseSelectorContainer",0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"arg0",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"isSelected",0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"toString",0,0,0,0,1,0,0,0,1,1,0,1,0,0
+"append",0,0,0,0,3,0,0,0,0,0,0,0,0,0
+"nextElement",0,1,0,0,0,0,0,0,0,0,1,0,0,0

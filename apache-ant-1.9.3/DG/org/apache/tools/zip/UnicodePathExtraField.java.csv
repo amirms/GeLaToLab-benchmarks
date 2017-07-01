@@ -1,0 +1,9 @@
+,"UPATH_ID","AbstractUnicodeExtraField","len","bytes","name","text","off","getHeaderId"
+"UPATH_ID",0,0,0,0,0,0,0,1
+"AbstractUnicodeExtraField",0,0,0,0,0,0,0,0
+"len",0,1,0,0,0,0,0,0
+"bytes",0,2,0,0,0,0,0,0
+"name",0,1,0,0,0,0,0,0
+"text",0,1,0,0,0,0,0,0
+"off",0,1,0,0,0,0,0,0
+"getHeaderId",0,0,0,0,0,0,0,0

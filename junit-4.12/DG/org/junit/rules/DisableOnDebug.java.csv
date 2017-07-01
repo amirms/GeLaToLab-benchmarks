@@ -1,0 +1,15 @@
+,"getInputArguments","argument","getRuntimeMXBean","inputArguments","apply","rule","description","ManagementFactory","isDebugging","DisableOnDebug","debugging","arguments","base","startsWith"
+"getInputArguments",0,0,1,0,0,0,0,0,0,1,0,0,0,0
+"argument",0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"getRuntimeMXBean",1,0,0,0,0,0,0,1,0,0,0,0,0,0
+"inputArguments",0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"apply",0,0,0,0,1,1,0,0,0,0,0,0,0,0
+"rule",0,0,0,0,1,1,0,0,0,2,0,0,0,0
+"description",0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"ManagementFactory",0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"isDebugging",0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"DisableOnDebug",0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"debugging",0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"arguments",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"base",0,0,0,0,1,0,0,0,0,0,0,0,1,0
+"startsWith",0,1,0,0,0,0,0,0,0,0,0,0,0,0

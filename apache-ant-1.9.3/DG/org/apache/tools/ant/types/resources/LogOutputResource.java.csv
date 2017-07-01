@@ -1,0 +1,9 @@
+,"level","getAppendOutputStream","Resource","getOutputStream","managingComponent","outputStream","LogOutputStream","NAME"
+"level",0,0,0,0,0,0,1,0
+"getAppendOutputStream",0,0,0,0,0,0,0,0
+"Resource",0,0,0,0,0,0,0,0
+"getOutputStream",0,0,0,0,0,0,0,0
+"managingComponent",0,0,0,0,0,0,2,0
+"outputStream",0,1,0,1,0,0,0,0
+"LogOutputStream",0,0,0,0,0,2,0,0
+"NAME",0,0,2,0,0,0,0,0

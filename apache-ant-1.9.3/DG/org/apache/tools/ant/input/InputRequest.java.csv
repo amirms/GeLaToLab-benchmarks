@@ -1,0 +1,9 @@
+,"InputRequest","input","d","defaultValue","getPrompt","getInput","prompt","getDefaultValue"
+"InputRequest",0,1,0,0,0,0,1,0
+"input",1,1,0,0,0,1,0,0
+"d",0,0,0,1,0,0,0,0
+"defaultValue",0,0,0,0,0,0,0,1
+"getPrompt",0,0,0,0,0,0,0,0
+"getInput",0,0,0,0,0,0,0,0
+"prompt",1,0,0,0,1,0,1,0
+"getDefaultValue",0,0,0,0,0,0,0,0

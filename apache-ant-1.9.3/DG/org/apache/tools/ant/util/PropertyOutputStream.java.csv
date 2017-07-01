@@ -1,0 +1,13 @@
+,"p","setNewProperty","b","s","trim","toByteArray","property","name","project","String","PropertyOutputStream","value"
+"p",0,0,0,0,0,0,0,0,1,0,1,0
+"setNewProperty",0,0,0,0,0,0,0,0,1,0,0,0
+"b",0,0,0,0,1,0,0,0,0,0,0,0
+"s",0,0,0,0,1,0,1,0,0,0,1,1
+"trim",0,0,0,1,0,0,0,0,0,0,0,2
+"toByteArray",0,0,0,0,0,0,0,0,0,1,0,0
+"property",0,0,0,0,0,0,0,1,0,0,0,0
+"name",0,0,0,0,0,0,0,0,0,0,0,0
+"project",0,1,0,0,0,0,0,0,0,0,0,0
+"String",0,0,0,1,0,0,0,0,0,0,0,0
+"PropertyOutputStream",0,0,0,0,0,0,0,0,0,0,0,0
+"value",0,0,0,0,0,0,0,0,0,0,0,0

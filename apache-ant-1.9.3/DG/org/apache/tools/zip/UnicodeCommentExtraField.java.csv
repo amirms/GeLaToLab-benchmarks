@@ -1,0 +1,9 @@
+,"AbstractUnicodeExtraField","len","bytes","comment","UCOM_ID","text","off","getHeaderId"
+"AbstractUnicodeExtraField",0,0,0,0,0,0,0,0
+"len",1,0,0,0,0,0,0,0
+"bytes",2,0,0,0,0,0,0,0
+"comment",1,0,0,0,0,0,0,0
+"UCOM_ID",0,0,0,0,0,0,0,1
+"text",1,0,0,0,0,0,0,0
+"off",1,0,0,0,0,0,0,0
+"getHeaderId",0,0,0,0,0,0,0,0

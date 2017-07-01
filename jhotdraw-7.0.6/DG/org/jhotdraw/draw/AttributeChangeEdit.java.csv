@@ -1,0 +1,14 @@
+,"owner","newValue","redo","AbstractUndoableEdit","AttributeChangeEdit","undo","willChange","name","oldValue","basicSetAttribute","value","key","changed"
+"owner",1,0,0,0,1,0,2,0,0,2,0,0,2
+"newValue",0,1,0,0,1,0,0,0,0,0,1,0,0
+"redo",0,0,0,1,0,0,0,0,0,0,0,0,0
+"AbstractUndoableEdit",0,0,1,0,0,1,0,0,0,0,0,0,0
+"AttributeChangeEdit",1,1,0,0,0,0,0,1,1,0,0,0,0
+"undo",0,0,0,1,0,0,0,0,0,0,0,0,0
+"willChange",2,0,0,0,0,0,0,0,0,0,0,0,0
+"name",0,0,0,0,1,0,0,1,0,0,0,2,0
+"oldValue",0,0,0,0,1,0,0,0,1,0,1,0,0
+"basicSetAttribute",2,0,0,0,0,0,0,0,0,0,0,0,0
+"value",0,0,0,0,0,0,0,0,0,0,0,0,0
+"key",0,0,0,0,0,0,0,0,0,0,0,0,0
+"changed",2,0,0,0,0,0,0,0,0,0,0,0,0

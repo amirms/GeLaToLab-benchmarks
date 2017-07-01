@@ -1,0 +1,16 @@
+,"optionPane","fileChooser","SheetEvent","getOption","source","EventObject","getOptionPane","getValue","inputValue","pane","value","getPane","getFileChooser","getInputValue","option"
+"optionPane",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"fileChooser",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"SheetEvent",0,0,0,0,0,0,0,0,1,2,2,0,0,0,2
+"getOption",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"source",0,0,0,0,0,3,0,0,0,0,0,0,0,0,0
+"EventObject",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"getOptionPane",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"getValue",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"inputValue",0,0,1,0,0,0,0,0,1,0,0,0,0,1,0
+"pane",0,0,2,0,0,0,1,0,0,0,0,1,1,0,0
+"value",0,0,2,0,0,0,0,1,0,0,2,0,0,0,0
+"getPane",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"getFileChooser",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"getInputValue",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"option",0,0,2,1,0,0,0,0,0,0,0,0,0,0,2

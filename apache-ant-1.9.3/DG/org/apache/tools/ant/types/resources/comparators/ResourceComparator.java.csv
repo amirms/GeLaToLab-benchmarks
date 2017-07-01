@@ -1,0 +1,14 @@
+,"ResourceComparator","getClass","compare","c","foo","getCheckedRef","o","bar","hashCode","resourceCompare","arg0","equals","isReference"
+"ResourceComparator",0,0,0,1,0,0,0,0,0,0,0,1,0
+"getClass",0,0,0,0,0,0,1,0,1,0,1,1,0
+"compare",0,0,0,0,0,0,0,0,0,0,0,0,0
+"c",0,0,0,0,0,0,0,0,0,1,0,0,0
+"foo",0,0,0,0,1,0,0,0,0,0,0,0,0
+"getCheckedRef",0,0,0,1,0,0,0,0,1,0,0,1,0
+"o",0,1,0,0,0,0,0,0,0,0,1,1,0
+"bar",0,0,0,0,0,0,0,1,0,0,0,0,0
+"hashCode",0,1,0,0,0,1,0,0,2,0,0,0,0
+"resourceCompare",0,0,1,1,0,0,0,0,0,0,0,0,0
+"arg0",0,0,0,0,0,0,0,0,0,0,0,0,0
+"equals",0,1,0,0,0,1,0,0,0,0,0,2,0
+"isReference",0,0,0,1,0,0,0,0,0,0,0,0,0

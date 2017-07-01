@@ -1,0 +1,8 @@
+,"Integer","intValue","arg0","FlexInteger","toString","decode","value"
+"Integer",0,0,0,0,0,1,0
+"intValue",0,1,0,0,0,0,1
+"arg0",0,0,0,0,0,0,0
+"FlexInteger",0,0,0,0,0,0,1
+"toString",0,0,0,0,1,0,1
+"decode",1,0,0,0,0,0,1
+"value",0,1,1,1,1,0,0

@@ -1,0 +1,13 @@
+,"p","getRegexp","RegularExpression","regexp","getRef","myPattern","pattern","newRegexp","setPattern","getCheckedRef","FACTORY","getPattern"
+"p",8,0,0,0,0,0,0,0,0,0,0,0
+"getRegexp",0,1,0,0,1,0,0,0,0,0,0,0
+"RegularExpression",0,0,0,2,0,0,0,0,0,0,0,0
+"regexp",0,1,2,0,0,0,0,0,2,0,0,1
+"getRef",0,1,0,0,0,0,0,0,0,0,0,1
+"myPattern",0,0,0,0,0,0,1,0,0,0,0,0
+"pattern",0,0,0,0,0,1,1,0,0,0,0,0
+"newRegexp",0,0,0,1,0,0,0,0,0,0,1,0
+"setPattern",0,0,0,2,0,0,0,0,0,0,0,0
+"getCheckedRef",0,0,0,0,1,0,0,0,0,0,0,0
+"FACTORY",0,0,0,0,0,0,0,1,0,0,0,0
+"getPattern",0,0,0,1,1,0,0,0,0,0,0,2

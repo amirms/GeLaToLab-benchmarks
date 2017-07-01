@@ -1,0 +1,12 @@
+,"setName","file","eval","isSigned","setFile","name","isSelected","project","setProject","isDirectory","getProject"
+"setName",0,0,0,1,0,0,0,0,0,0,0
+"file",0,1,0,0,0,0,0,0,0,1,0
+"eval",0,0,0,1,0,0,1,0,0,0,0
+"isSigned",1,0,1,0,1,0,0,0,1,0,0
+"setFile",0,0,0,1,0,0,0,0,0,0,0
+"name",0,0,0,0,0,1,0,0,0,0,0
+"isSelected",0,0,0,0,0,0,0,0,0,0,0
+"project",0,0,0,0,0,0,0,0,0,0,0
+"setProject",0,0,0,1,0,0,0,0,0,0,0
+"isDirectory",0,1,0,0,0,0,0,0,0,0,0
+"getProject",0,0,0,0,0,0,0,1,0,0,0

@@ -1,0 +1,14 @@
+,"data","XMLTransferable","humanPresentableName","mimeType","getTransferData","UnsupportedFlavorException","DataFlavor","flavor","isDataFlavorSupported","ByteArrayInputStream","arg0","equals","getTransferDataFlavors"
+"data",1,1,0,0,0,0,0,0,0,1,0,0,0
+"XMLTransferable",1,0,0,0,0,0,0,3,0,0,0,0,0
+"humanPresentableName",0,0,0,0,0,0,1,0,0,0,0,0,0
+"mimeType",0,0,0,0,0,0,1,0,0,0,0,0,0
+"getTransferData",0,0,0,0,0,0,0,0,0,0,0,0,0
+"UnsupportedFlavorException",0,0,0,0,0,0,0,0,0,0,0,0,0
+"DataFlavor",0,0,0,0,0,0,0,1,0,0,0,0,1
+"flavor",0,3,0,0,0,1,1,0,0,0,2,2,0
+"isDataFlavorSupported",0,0,0,0,0,0,0,0,0,0,0,0,0
+"ByteArrayInputStream",0,0,0,0,1,0,0,0,0,0,0,0,0
+"arg0",0,0,0,0,0,0,0,0,0,0,0,0,0
+"equals",0,0,0,0,0,0,0,2,1,0,0,0,0
+"getTransferDataFlavors",0,0,0,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,11 @@
+,"ct","size","getValidCount","sz","count","i","BuildException","getCount","getResourceCollection","BAD_COUNT"
+"ct",0,2,1,0,0,0,0,0,0,0
+"size",0,0,0,1,0,0,0,0,1,0
+"getValidCount",1,0,0,0,0,0,0,0,0,0
+"sz",0,2,0,0,0,0,0,0,0,0
+"count",0,0,0,0,0,0,0,1,0,0
+"i",0,0,0,0,1,0,0,0,0,0
+"BuildException",0,0,0,0,0,0,0,0,0,0
+"getCount",1,0,0,0,0,0,0,0,0,0
+"getResourceCollection",0,1,0,0,0,0,0,0,0,0
+"BAD_COUNT",0,0,0,0,0,0,1,0,0,0

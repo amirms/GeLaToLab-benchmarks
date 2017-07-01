@@ -1,0 +1,9 @@
+,"newValue","getValue","CONSTANT_DOUBLE","cpStream","readDouble","ConstantCPInfo","toString","Double"
+"newValue",0,0,0,0,0,0,0,0
+"getValue",0,0,0,0,0,0,1,0
+"CONSTANT_DOUBLE",0,0,0,0,0,1,0,0
+"cpStream",0,0,0,0,1,0,0,0
+"readDouble",0,0,0,1,0,0,0,1
+"ConstantCPInfo",0,0,0,0,0,0,0,0
+"toString",0,0,0,0,0,0,0,0
+"Double",1,0,0,0,0,0,0,0

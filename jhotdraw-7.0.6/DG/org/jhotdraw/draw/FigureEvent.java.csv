@@ -1,0 +1,14 @@
+,"newValue","invalidatedArea","getFigure","source","FigureEvent","getOldValue","getNewValue","EventObject","getAttribute","getSource","getInvalidatedArea","attribute","oldValue"
+"newValue",1,0,0,0,1,0,1,0,0,0,0,0,0
+"invalidatedArea",0,1,0,0,1,0,0,0,0,0,1,0,0
+"getFigure",0,0,0,0,0,0,0,0,0,0,0,0,0
+"source",0,0,0,0,0,0,0,2,0,0,0,0,0
+"FigureEvent",1,1,0,0,0,0,0,0,0,0,0,1,1
+"getOldValue",0,0,0,0,0,0,0,0,0,0,0,0,0
+"getNewValue",0,0,0,0,0,0,0,0,0,0,0,0,0
+"EventObject",0,0,0,0,0,0,0,0,0,0,0,0,0
+"getAttribute",0,0,0,0,0,0,0,0,0,0,0,0,0
+"getSource",0,0,1,0,0,0,0,0,0,0,0,0,0
+"getInvalidatedArea",0,0,0,0,0,0,0,0,0,0,0,0,0
+"attribute",0,0,0,0,1,0,0,0,1,0,0,1,0
+"oldValue",0,0,0,0,1,1,0,0,0,0,0,0,1

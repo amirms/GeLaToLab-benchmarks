@@ -1,0 +1,6 @@
+,"SPACER","getBuildFailedMessage","getTimestamp","DefaultLogger","getBuildSuccessfulMessage"
+"SPACER",0,1,0,0,1
+"getBuildFailedMessage",0,1,0,1,0
+"getTimestamp",0,1,0,0,1
+"DefaultLogger",0,1,0,0,1
+"getBuildSuccessfulMessage",0,0,0,1,1
