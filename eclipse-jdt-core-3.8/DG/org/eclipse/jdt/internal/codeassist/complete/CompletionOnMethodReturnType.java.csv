@@ -1,0 +1,13 @@
+,"output","CompletionNodeFound","print","CompletionOnMethodReturnType","sourceEnd","tab","indent","MethodDeclaration","compilationResult","scope","sourceStart","returnType"
+"output",1,0,0,0,0,0,0,0,0,0,0,0
+"CompletionNodeFound",0,0,0,0,0,0,0,0,0,0,0,0
+"print",0,0,1,0,0,0,0,0,0,0,0,1
+"CompletionOnMethodReturnType",0,1,0,0,1,0,0,0,0,1,1,2
+"sourceEnd",0,0,0,1,1,0,0,0,0,0,0,1
+"tab",0,0,0,0,0,0,1,0,0,0,0,0
+"indent",0,0,0,0,0,0,0,0,0,0,0,0
+"MethodDeclaration",0,0,0,0,0,0,0,0,0,0,0,0
+"compilationResult",0,0,0,0,0,0,0,1,0,0,0,0
+"scope",0,1,0,1,0,0,0,0,0,0,0,0
+"sourceStart",0,0,0,1,0,0,0,0,0,0,1,1
+"returnType",0,0,1,2,1,0,0,0,0,0,1,1

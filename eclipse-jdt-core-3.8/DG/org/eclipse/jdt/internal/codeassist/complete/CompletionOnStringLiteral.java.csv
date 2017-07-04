@@ -1,0 +1,17 @@
+,"contentStart","ce","e","indent","contentEnd","printExpression","token","cs","output","CompletionNodeFound","s","StringLiteral","scope","lineNumber","CompletionOnStringLiteral","append"
+"contentStart",0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
+"ce",0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+"e",0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0
+"indent",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"contentEnd",0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
+"printExpression",0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+"token",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"cs",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"output",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2
+"CompletionNodeFound",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"s",0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0
+"StringLiteral",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"scope",0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+"lineNumber",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"CompletionOnStringLiteral",2,0,0,0,2,0,0,0,0,2,0,0,0,0,0,0
+"append",0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0

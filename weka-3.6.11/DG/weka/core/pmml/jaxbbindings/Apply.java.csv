@@ -1,0 +1,16 @@
+,"extension","getExtension","expression","Apply","getFunction","mapMissingTo","ArrayList","RETURN_INVALID","getMapMissingTo","getInvalidValueTreatment","invalidValueTreatment","function","getEXPRESSION","value","INVALIDVALUETREATMENTMETHOD"
+"extension",0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+"getExtension",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"expression",0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+"Apply",1,0,1,0,0,1,0,0,0,0,1,1,0,0,0
+"getFunction",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"mapMissingTo",0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+"ArrayList",1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"RETURN_INVALID",0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+"getMapMissingTo",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"getInvalidValueTreatment",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"invalidValueTreatment",0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+"function",0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+"getEXPRESSION",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"value",0,0,0,0,0,1,0,0,0,0,1,1,0,0,0
+"INVALIDVALUETREATMENTMETHOD",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0

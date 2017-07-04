@@ -1,0 +1,17 @@
+,"RemoveFromIndex","enterWrite","isCancelled","isCanceled","manager","getIndex","progressMonitor","index","resourceName","monitor","IndexRequest","exitWrite","remove","containerRelativePath","toString","containerPath"
+"RemoveFromIndex",0,0,1,0,1,0,0,0,3,0,0,0,0,0,0,2
+"enterWrite",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"isCancelled",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"isCanceled",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"manager",1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+"getIndex",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+"progressMonitor",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"index",0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+"resourceName",3,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0
+"monitor",0,1,0,0,0,0,0,1,0,1,0,1,0,0,0,0
+"IndexRequest",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"exitWrite",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"remove",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"containerRelativePath",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"toString",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"containerPath",2,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0

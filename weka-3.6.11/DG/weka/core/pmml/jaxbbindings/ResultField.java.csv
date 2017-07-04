@@ -1,0 +1,17 @@
+,"extension","getExtension","getName","displayName","dataType","getDataType","ArrayList","getFeature","getOptype","optype","getValue","feature","getDisplayName","name","ResultField","value"
+"extension",0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"getExtension",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"getName",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"displayName",0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+"dataType",0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+"getDataType",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"ArrayList",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"getFeature",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"getOptype",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"optype",0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+"getValue",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"feature",0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+"getDisplayName",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"name",0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+"ResultField",1,0,0,1,1,0,0,0,0,1,0,1,0,1,0,1
+"value",0,0,0,1,1,0,0,0,0,1,1,1,0,1,1,1

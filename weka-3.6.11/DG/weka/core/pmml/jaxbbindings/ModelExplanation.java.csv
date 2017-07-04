@@ -1,0 +1,12 @@
+,"getClusteringModelQuality","extension","getExtension","predictiveModelQuality","getPredictiveModelQuality","ArrayList","ModelExplanation","clusteringModelQuality","getCorrelations","correlations","value"
+"getClusteringModelQuality",0,0,0,0,0,0,0,0,0,0,0
+"extension",0,0,1,0,0,0,1,0,0,0,0
+"getExtension",0,0,0,0,0,0,0,0,0,0,0
+"predictiveModelQuality",0,0,0,0,1,0,1,0,0,0,0
+"getPredictiveModelQuality",0,0,0,0,0,0,0,0,0,0,0
+"ArrayList",0,1,0,1,0,0,0,1,0,0,0
+"ModelExplanation",0,1,0,1,0,0,0,1,0,1,0
+"clusteringModelQuality",1,0,0,0,0,0,1,0,0,0,0
+"getCorrelations",0,0,0,0,0,0,0,0,0,0,0
+"correlations",0,0,0,0,0,0,1,0,1,0,0
+"value",0,0,0,0,0,0,0,0,0,1,0

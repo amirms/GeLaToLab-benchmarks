@@ -1,0 +1,15 @@
+,"parent","sourceEnd","bracketBalance","RecoveredImport","parseTree","declarationEnd","declarationSourceEnd","tab","importReference","tabString","RecoveredElement","toString","updatedImportReference","bodyEnd"
+"parent",0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"sourceEnd",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"bracketBalance",0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"RecoveredImport",0,0,0,0,0,0,0,0,8,0,0,0,0,0
+"parseTree",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"declarationEnd",0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"declarationSourceEnd",0,1,0,0,0,0,0,0,3,0,0,0,0,0
+"tab",0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"importReference",0,0,0,8,1,1,3,0,1,0,0,1,1,0
+"tabString",0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"RecoveredElement",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"toString",0,0,0,0,0,0,0,0,1,0,0,1,0,0
+"updatedImportReference",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"bodyEnd",0,0,0,0,0,1,1,0,0,0,0,0,0,0

@@ -1,0 +1,17 @@
+,"formatString","item","DEFAULT_ITEM_LABEL_FORMAT","yFormat","generateLabelString","StandardXYItemLabelGenerator","getNumberInstance","series","obj","equals","clone","dataset","AbstractXYItemLabelGenerator","NumberFormat","xFormat","generateLabel"
+"formatString",0,0,0,0,0,1,0,0,0,0,0,0,4,0,0,0
+"item",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"DEFAULT_ITEM_LABEL_FORMAT",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"yFormat",0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0
+"generateLabelString",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"StandardXYItemLabelGenerator",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"getNumberInstance",0,0,0,0,0,4,0,0,0,0,0,0,0,4,0,0
+"series",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"obj",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"equals",0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+"clone",0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0
+"dataset",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"AbstractXYItemLabelGenerator",0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+"NumberFormat",0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0
+"xFormat",0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0
+"generateLabel",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

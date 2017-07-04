@@ -1,0 +1,15 @@
+,"readResolve","GradientPaintTransformType","result","t","VERTICAL","CENTER_HORIZONTAL","obj","hashCode","arg0","equals","name","toString","HORIZONTAL","CENTER_VERTICAL"
+"readResolve",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"GradientPaintTransformType",0,0,0,0,2,2,0,0,0,4,4,0,2,2
+"result",1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"t",0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"VERTICAL",0,2,1,0,0,0,1,0,0,0,0,0,0,0
+"CENTER_HORIZONTAL",0,2,1,0,0,0,1,0,0,0,0,0,0,0
+"obj",0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"hashCode",0,0,0,0,0,0,0,1,0,0,1,0,0,0
+"arg0",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"equals",0,4,0,0,0,0,0,0,0,0,1,0,0,0
+"name",0,4,0,1,0,0,0,1,1,1,1,1,0,0
+"toString",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"HORIZONTAL",0,2,1,0,0,0,1,0,0,0,0,0,0,0
+"CENTER_VERTICAL",0,2,1,0,0,0,1,0,0,0,0,0,0,0

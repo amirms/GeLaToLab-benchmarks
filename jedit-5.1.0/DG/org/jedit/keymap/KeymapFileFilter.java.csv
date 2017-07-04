@@ -1,0 +1,6 @@
+,"getName","isFile","endsWith","pathname","accept"
+"getName",0,0,1,1,0
+"isFile",0,0,0,1,1
+"endsWith",1,0,0,0,1
+"pathname",1,1,0,0,0
+"accept",0,0,0,0,0

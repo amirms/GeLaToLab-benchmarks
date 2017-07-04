@@ -1,0 +1,15 @@
+,"isSimpleType","ast","resolveType","getBindingResolver","isArrayType","isParameterizedType","isWildcardType","isPrimitiveType","isUnionType","type","isQualifiedType","Type","resolveBinding","ASTNode"
+"isSimpleType",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"ast",0,0,0,1,0,0,0,0,0,0,0,1,0,1
+"resolveType",0,0,0,1,0,0,0,0,0,0,0,0,1,0
+"getBindingResolver",0,1,1,0,0,0,0,0,0,0,0,0,0,0
+"isArrayType",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"isParameterizedType",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"isWildcardType",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"isPrimitiveType",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"isUnionType",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"type",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"isQualifiedType",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Type",1,1,0,0,1,1,1,1,1,1,1,0,0,0
+"resolveBinding",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"ASTNode",0,0,0,0,0,0,0,0,0,0,0,0,0,0

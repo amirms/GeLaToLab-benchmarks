@@ -1,0 +1,17 @@
+,"parent","invalidType","isValidBinding","binding","type","sourceStart","qualifiedTypeReference","getTypeOrPackage","problemReporter","CompletionNodeFound","MarkerAnnotation","scope","tokens","location","compoundName","CompletionOnMarkerAnnotationName"
+"parent",0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+"invalidType",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"isValidBinding",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"binding",0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0
+"type",0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,2
+"sourceStart",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"qualifiedTypeReference",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"getTypeOrPackage",1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"problemReporter",0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"CompletionNodeFound",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"MarkerAnnotation",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"scope",1,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0
+"tokens",0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+"location",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"compoundName",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"CompletionOnMarkerAnnotationName",0,0,0,0,2,0,0,0,0,2,0,0,0,1,0,0

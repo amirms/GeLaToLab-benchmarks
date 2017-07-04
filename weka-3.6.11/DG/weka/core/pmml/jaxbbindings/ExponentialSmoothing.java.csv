@@ -1,0 +1,16 @@
+,"getTransformation","trendExpoSmooth","level","getRMSE","ArrayList","timeValue","transformation","ExponentialSmoothing","getLevel","seasonalityExpoSmooth","getSeasonalityExpoSmooth","rmse","getTimeValue","getTrendExpoSmooth","value"
+"getTransformation",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"trendExpoSmooth",0,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+"level",0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+"getRMSE",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"ArrayList",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"timeValue",0,0,0,0,0,0,0,1,0,0,0,0,1,0,0
+"transformation",1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"ExponentialSmoothing",0,1,1,0,0,1,1,0,0,1,0,1,0,0,0
+"getLevel",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"seasonalityExpoSmooth",0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+"getSeasonalityExpoSmooth",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"rmse",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+"getTimeValue",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"getTrendExpoSmooth",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"value",0,1,1,0,0,0,1,0,0,1,0,1,0,0,0

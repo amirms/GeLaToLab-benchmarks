@@ -1,0 +1,10 @@
+,"getNorm","extension","getExtension","getOrig","orig","LinearNorm","ArrayList","value","norm"
+"getNorm",0,0,0,0,0,0,0,0,0
+"extension",0,0,1,0,0,1,0,0,0
+"getExtension",0,0,0,0,0,0,0,0,0
+"getOrig",0,0,0,0,0,0,0,0,0
+"orig",0,0,0,1,0,1,0,0,0
+"LinearNorm",0,1,0,0,1,0,0,0,1
+"ArrayList",0,1,0,0,0,0,0,0,0
+"value",0,0,0,0,1,0,0,0,1
+"norm",1,0,0,0,0,1,0,0,0

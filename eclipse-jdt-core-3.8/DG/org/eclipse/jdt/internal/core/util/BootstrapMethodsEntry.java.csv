@@ -1,0 +1,17 @@
+,"offset","structOffset","u2At","bootstrapArguments","length","i","classFileBytes","reference","BootstrapMethodsEntry","getBootstrapArguments","org.emftext.language.java.types.impl.IntImpl@ee86dd7","arguments","position","relativeOffset","getBootstrapMethodReference","bootstrapMethodReference"
+"offset",0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"structOffset",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"u2At",0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1
+"bootstrapArguments",0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0
+"length",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"i",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"classFileBytes",0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0
+"reference",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"BootstrapMethodsEntry",0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2
+"getBootstrapArguments",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"org.emftext.language.java.types.impl.IntImpl@ee86dd7",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"arguments",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"position",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"relativeOffset",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"getBootstrapMethodReference",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"bootstrapMethodReference",0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0

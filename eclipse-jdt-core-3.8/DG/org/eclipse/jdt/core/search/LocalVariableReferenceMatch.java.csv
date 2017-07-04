@@ -1,0 +1,13 @@
+,"insideDoc","SearchMatch","offset","resource","length","isReadAccess","insideDocComment","accuracy","isWriteAccess","LocalVariableReferenceMatch","enclosingElement","participant"
+"insideDoc",0,0,0,0,0,0,0,0,0,0,0,0
+"SearchMatch",0,0,0,0,0,0,0,0,0,0,0,0
+"offset",0,1,0,0,0,0,0,0,0,0,0,0
+"resource",0,1,0,0,0,0,0,0,0,0,0,0
+"length",0,1,0,0,0,0,0,0,0,0,0,0
+"isReadAccess",0,0,0,0,0,2,0,0,0,2,0,0
+"insideDocComment",1,0,0,0,0,0,0,0,0,0,0,0
+"accuracy",0,1,0,0,0,0,0,0,0,0,0,0
+"isWriteAccess",0,0,0,0,0,0,0,0,2,2,0,0
+"LocalVariableReferenceMatch",0,0,0,0,0,2,0,0,2,0,0,0
+"enclosingElement",0,1,0,0,0,0,0,0,0,0,0,0
+"participant",0,1,0,0,0,0,0,0,0,0,0,0

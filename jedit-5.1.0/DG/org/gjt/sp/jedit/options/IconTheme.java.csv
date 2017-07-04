@@ -1,0 +1,11 @@
+,"GUIUtilities","jEdit","getProperty","setIconPath","builtIn","builtInNames","get","setProperty","name","value"
+"GUIUtilities",0,0,0,1,0,0,0,0,0,0
+"jEdit",0,0,1,0,0,0,0,1,0,0
+"getProperty",0,1,0,0,0,0,1,0,0,0
+"setIconPath",1,0,0,0,0,0,0,0,0,0
+"builtIn",0,0,0,0,0,1,0,0,0,0
+"builtInNames",0,0,0,0,0,0,0,0,0,0
+"get",0,0,0,0,0,0,0,0,0,0
+"setProperty",0,1,0,0,0,0,0,0,0,0
+"name",0,0,0,1,0,0,0,0,0,1
+"value",0,0,0,0,0,0,0,0,0,0

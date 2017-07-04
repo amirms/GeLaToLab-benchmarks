@@ -1,0 +1,14 @@
+,"extension","getExtension","getName","Predictor","ArrayList","matrix","getContrastMatrixType","getMatrix","getCategories","name","categories","contrastMatrixType","value"
+"extension",0,1,0,1,0,0,0,0,0,0,0,0,0
+"getExtension",0,0,0,0,0,0,0,0,0,0,0,0,0
+"getName",0,0,0,0,0,0,0,0,0,0,0,0,0
+"Predictor",1,0,0,0,0,1,0,0,0,1,1,1,0
+"ArrayList",1,0,0,0,0,0,0,0,0,0,0,0,0
+"matrix",0,0,0,1,0,0,0,1,0,0,0,0,0
+"getContrastMatrixType",0,0,0,0,0,0,0,0,0,0,0,0,0
+"getMatrix",0,0,0,0,0,0,0,0,0,0,0,0,0
+"getCategories",0,0,0,0,0,0,0,0,0,0,0,0,0
+"name",0,0,1,1,0,0,0,0,0,0,0,0,0
+"categories",0,0,0,1,0,0,0,0,1,0,0,0,0
+"contrastMatrixType",0,0,0,1,0,0,1,0,0,0,0,0,0
+"value",0,0,0,0,0,1,0,0,0,1,1,1,0

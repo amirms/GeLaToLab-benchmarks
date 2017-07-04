@@ -1,0 +1,10 @@
+,"getVersion","extension","getExtension","getName","name","ArrayList","Application","version","value"
+"getVersion",0,0,0,0,0,0,0,0,0
+"extension",0,0,1,0,0,0,1,0,0
+"getExtension",0,0,0,0,0,0,0,0,0
+"getName",0,0,0,0,0,0,0,0,0
+"name",0,0,0,1,1,0,2,0,0
+"ArrayList",0,1,0,0,0,0,0,0,0
+"Application",0,1,0,0,2,0,0,2,0
+"version",1,0,0,0,0,0,2,1,0
+"value",0,0,0,0,1,0,0,1,0

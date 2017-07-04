@@ -1,0 +1,9 @@
+,"println","err","getTimestamp","arg0","SysErrLog","message","SimpleDateFormat","System"
+"println",0,2,0,0,0,0,0,0
+"err",2,0,0,0,0,0,0,2
+"getTimestamp",0,0,0,1,1,0,0,0
+"arg0",0,0,0,0,0,0,0,0
+"SysErrLog",0,0,1,0,0,0,0,0
+"message",0,0,0,2,0,0,0,0
+"SimpleDateFormat",0,0,1,0,0,0,0,0
+"System",0,2,0,0,0,0,0,0

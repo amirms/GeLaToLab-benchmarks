@@ -1,0 +1,11 @@
+,"Integer","fromValue","reducedToken","start","IntConstant","IntLiteral","end","MIN_VALUE","value","token"
+"Integer",0,0,0,0,0,0,0,2,0,0
+"fromValue",0,0,0,0,1,1,0,0,0,0
+"reducedToken",0,0,0,0,0,1,0,0,0,0
+"start",0,0,0,0,0,1,0,0,0,0
+"IntConstant",0,1,0,0,0,0,0,0,0,0
+"IntLiteral",0,0,0,0,0,0,0,0,0,0
+"end",0,0,0,0,0,1,0,0,0,0
+"MIN_VALUE",2,0,0,0,0,1,0,0,1,0
+"value",0,0,0,0,0,0,0,0,0,0
+"token",0,0,0,0,0,1,0,0,0,0

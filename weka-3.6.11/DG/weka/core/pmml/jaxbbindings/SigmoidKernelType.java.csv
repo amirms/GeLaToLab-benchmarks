@@ -1,0 +1,12 @@
+,"extension","getExtension","coef0","getGamma","ArrayList","getCoef0","description","value","getDescription","gamma","SigmoidKernelType"
+"extension",0,1,0,0,0,0,0,0,0,0,1
+"getExtension",0,0,0,0,0,0,0,0,0,0,0
+"coef0",0,0,0,0,0,1,0,0,0,0,1
+"getGamma",0,0,0,0,0,0,0,0,0,0,0
+"ArrayList",1,0,0,0,0,0,0,0,0,0,0
+"getCoef0",0,0,0,0,0,0,0,0,0,0,0
+"description",0,0,0,0,0,0,0,0,1,0,1
+"value",0,0,1,0,0,0,1,0,0,1,0
+"getDescription",0,0,0,0,0,0,0,0,0,0,0
+"gamma",0,0,0,1,0,0,0,0,0,0,1
+"SigmoidKernelType",1,0,1,0,0,0,1,0,0,1,0

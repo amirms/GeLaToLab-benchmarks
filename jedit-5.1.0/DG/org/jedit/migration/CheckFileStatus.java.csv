@@ -1,0 +1,8 @@
+,"GeneralOptionPane","jEdit","def","setIntegerProperty","getIntegerProperty","value","checkFileStatus_focus"
+"GeneralOptionPane",0,0,0,0,0,0,2
+"jEdit",0,0,0,1,1,0,0
+"def",0,0,0,0,0,0,0
+"setIntegerProperty",0,1,0,0,0,0,0
+"getIntegerProperty",0,1,0,0,0,0,0
+"value",0,0,0,0,0,0,0
+"checkFileStatus_focus",2,0,1,0,0,1,0

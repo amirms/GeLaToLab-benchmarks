@@ -1,0 +1,12 @@
+,"referenceIndex","getReferenceKind","getReferenceIndex","ConstantPoolEntry2","getBootstrapMethodAttributeIndex","getDescriptorIndex","referenceKind","reset","descriptorIndex","bootstrapMethodAttributeIndex","ConstantPoolEntry"
+"referenceIndex",1,0,1,3,0,0,0,0,0,0,0
+"getReferenceKind",0,0,0,0,0,0,0,0,0,0,0
+"getReferenceIndex",0,0,0,0,0,0,0,0,0,0,0
+"ConstantPoolEntry2",3,0,0,0,0,0,3,0,3,3,0
+"getBootstrapMethodAttributeIndex",0,0,0,0,0,0,0,0,0,0,0
+"getDescriptorIndex",0,0,0,0,0,0,0,0,0,0,0
+"referenceKind",0,1,0,3,0,0,1,0,0,0,0
+"reset",0,0,0,0,0,0,0,0,0,0,1
+"descriptorIndex",0,0,0,3,0,1,0,0,1,0,0
+"bootstrapMethodAttributeIndex",0,0,0,3,1,0,0,0,0,1,0
+"ConstantPoolEntry",0,0,0,0,0,0,0,1,0,0,0

@@ -1,0 +1,15 @@
+,"jjtGetChild","callstack","interpreter","EvalError","SimpleNode","initializer","BSHVariableDeclarator","Primitive","eval","name","toString","id","VOID","value"
+"jjtGetChild",0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"callstack",0,1,0,1,0,0,0,0,0,0,0,0,0,0
+"interpreter",0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"EvalError",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"SimpleNode",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"initializer",0,0,0,0,0,0,0,0,1,0,0,0,0,1
+"BSHVariableDeclarator",0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Primitive",0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"eval",0,0,0,0,0,1,0,0,0,0,0,0,0,1
+"name",0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"toString",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"id",0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"VOID",0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"value",0,0,0,0,0,0,0,0,1,0,0,0,0,0

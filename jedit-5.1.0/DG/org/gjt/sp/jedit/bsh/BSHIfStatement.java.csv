@@ -1,0 +1,14 @@
+,"ret","jjtGetChild","callstack","interpreter","EvalError","SimpleNode","Primitive","eval","condExp","obj","id","VOID","evaluateCondition"
+"ret",0,0,0,0,0,0,0,1,0,0,0,0,0
+"jjtGetChild",2,0,0,0,0,0,0,0,1,0,0,0,0
+"callstack",0,0,2,0,2,0,0,0,0,0,0,0,0
+"interpreter",0,0,0,2,0,0,0,0,0,0,0,0,0
+"EvalError",0,0,0,0,0,0,0,0,0,0,0,0,0
+"SimpleNode",0,0,0,0,0,0,0,0,0,0,0,0,0
+"Primitive",0,0,0,0,0,0,0,0,0,0,0,2,0
+"eval",0,0,0,0,0,0,0,0,1,1,0,0,0
+"condExp",0,0,0,0,2,0,0,1,0,0,0,0,0
+"obj",0,0,0,0,0,0,0,0,0,1,0,0,1
+"id",0,0,0,0,0,1,0,0,0,0,0,0,0
+"VOID",0,0,0,0,0,0,2,1,0,0,0,0,0
+"evaluateCondition",0,0,0,0,0,0,0,0,0,0,0,0,0

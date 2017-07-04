@@ -1,0 +1,13 @@
+,"NormDiscrete","getValue","extension","getExtension","field","method","mapMissingTo","ArrayList","getField","getMethod","value","getMapMissingTo"
+"NormDiscrete",0,0,1,0,2,1,1,0,0,0,2,0
+"getValue",0,0,0,0,0,0,0,0,0,0,0,0
+"extension",1,0,0,1,0,0,0,0,0,0,0,0
+"getExtension",0,0,0,0,0,0,0,0,0,0,0,0
+"field",2,0,0,0,1,0,0,0,1,0,0,0
+"method",1,0,0,0,0,0,0,0,0,1,0,0
+"mapMissingTo",1,0,0,0,0,0,0,0,0,0,0,1
+"ArrayList",0,0,1,0,0,0,0,0,0,0,0,0
+"getField",0,0,0,0,0,0,0,0,0,0,0,0
+"getMethod",0,0,0,0,0,0,0,0,0,0,0,0
+"value",2,1,0,0,1,1,1,0,0,0,2,0
+"getMapMissingTo",0,0,0,0,0,0,0,0,0,0,0,0

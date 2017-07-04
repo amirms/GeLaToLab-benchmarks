@@ -1,0 +1,8 @@
+,"fgColor","getForegroundColor","bgColor","getBackgroundColor","SyntaxStyle","getFont","font"
+"fgColor",1,1,0,0,1,0,0
+"getForegroundColor",0,0,0,0,0,0,0
+"bgColor",0,0,1,1,1,0,0
+"getBackgroundColor",0,0,0,0,0,0,0
+"SyntaxStyle",1,0,1,0,0,0,1
+"getFont",0,0,0,0,0,0,0
+"font",0,0,0,0,1,1,1

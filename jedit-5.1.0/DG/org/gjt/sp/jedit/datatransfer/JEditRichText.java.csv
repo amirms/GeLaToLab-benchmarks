@@ -1,0 +1,10 @@
+,"mode","ModeProvider","instance","JEditRichText","getText","name","toString","text","getMode"
+"mode",1,0,0,1,0,1,0,0,0
+"ModeProvider",0,0,1,0,0,0,0,0,0
+"instance",0,1,0,0,0,0,0,0,1
+"JEditRichText",1,0,0,0,0,0,0,1,0
+"getText",0,0,0,0,0,0,0,0,0
+"name",0,0,0,0,0,0,0,0,0
+"toString",0,0,0,0,0,0,0,0,0
+"text",0,0,0,1,1,0,1,1,0
+"getMode",0,0,1,0,0,0,0,0,1

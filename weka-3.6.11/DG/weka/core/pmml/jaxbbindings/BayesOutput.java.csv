@@ -1,0 +1,10 @@
+,"extension","BayesOutput","getExtension","fieldName","ArrayList","targetValueCounts","getFieldName","value","getTargetValueCounts"
+"extension",0,1,1,0,0,0,0,0,0
+"BayesOutput",1,0,0,1,0,1,0,0,0
+"getExtension",0,0,0,0,0,0,0,0,0
+"fieldName",0,1,0,0,0,0,1,0,0
+"ArrayList",1,0,0,0,0,0,0,0,0
+"targetValueCounts",0,1,0,0,0,0,0,0,1
+"getFieldName",0,0,0,0,0,0,0,0,0
+"value",0,0,0,1,0,1,0,0,0
+"getTargetValueCounts",0,0,0,0,0,0,0,0,0

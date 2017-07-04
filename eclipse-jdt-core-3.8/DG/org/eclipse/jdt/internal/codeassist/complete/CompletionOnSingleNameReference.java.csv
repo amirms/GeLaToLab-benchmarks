@@ -1,0 +1,13 @@
+,"output","CompletionNodeFound","possibleKeywords","pos","printExpression","scope","CompletionOnSingleNameReference","isInsideAnnotationAttribute","canBeExplicitConstructor","source","SingleNameReference","append"
+"output",1,0,0,0,0,0,0,0,0,0,0,1
+"CompletionNodeFound",0,0,0,0,0,0,0,0,0,0,0,0
+"possibleKeywords",0,0,1,0,0,0,1,0,0,0,0,0
+"pos",0,0,0,0,0,0,1,0,0,0,1,0
+"printExpression",0,0,0,0,0,0,0,0,0,0,1,1
+"scope",0,3,0,0,0,0,0,0,0,0,0,0
+"CompletionOnSingleNameReference",0,2,1,0,0,0,0,1,1,0,0,0
+"isInsideAnnotationAttribute",0,0,0,0,0,0,2,1,0,0,0,0
+"canBeExplicitConstructor",0,0,0,0,0,0,1,0,1,0,0,0
+"source",0,0,0,0,0,0,1,0,0,0,1,0
+"SingleNameReference",0,0,0,0,1,0,0,0,0,0,0,0
+"append",1,0,0,0,2,0,0,0,0,0,0,0

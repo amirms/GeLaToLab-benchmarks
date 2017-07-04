@@ -1,0 +1,12 @@
+,"xCoordinates","boundaryValues","extension","getExtension","yCoordinates","getBoundaryValues","ROCGraph","ArrayList","getXCoordinates","value","getYCoordinates"
+"xCoordinates",0,0,0,0,0,0,1,0,1,0,0
+"boundaryValues",0,0,0,0,0,1,1,0,0,0,0
+"extension",0,0,0,1,0,0,1,0,0,0,0
+"getExtension",0,0,0,0,0,0,0,0,0,0,0
+"yCoordinates",0,0,0,0,0,0,1,0,0,0,1
+"getBoundaryValues",0,0,0,0,0,0,0,0,0,0,0
+"ROCGraph",1,1,1,0,1,0,0,0,0,0,0
+"ArrayList",0,0,1,0,0,0,0,0,0,0,0
+"getXCoordinates",0,0,0,0,0,0,0,0,0,0,0
+"value",1,1,0,0,1,0,0,0,0,0,0
+"getYCoordinates",0,0,0,0,0,0,0,0,0,0,0

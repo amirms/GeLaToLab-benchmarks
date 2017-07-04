@@ -1,0 +1,15 @@
+,"instance","m_instance","i","source","getStatus","FORMAT_AVAILABLE","EventObject","structure","s","getStructure","m_status","getInstance","status","m_structure"
+"instance",0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"m_instance",0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"i",0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"source",0,0,0,0,0,0,3,0,0,0,0,0,0,0
+"getStatus",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"FORMAT_AVAILABLE",0,0,0,0,0,0,0,0,0,0,2,0,0,0
+"EventObject",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"structure",0,0,0,0,0,0,0,0,0,0,0,0,0,2
+"s",0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"getStructure",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"m_status",0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"getInstance",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"status",0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"m_structure",0,0,0,0,0,0,0,0,0,1,0,0,0,0

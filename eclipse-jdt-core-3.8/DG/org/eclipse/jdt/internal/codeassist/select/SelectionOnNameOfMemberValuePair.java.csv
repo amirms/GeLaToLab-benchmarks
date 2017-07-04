@@ -1,0 +1,17 @@
+,"SelectionOnNameOfMemberValuePair","sourceEnd","SelectionNodeFound","binding","sourceStart","token","output","print","MemberValuePair","requiredType","arg0","scope","name","resolveTypeExpecting","value","append"
+"SelectionOnNameOfMemberValuePair",0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0
+"sourceEnd",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"SelectionNodeFound",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"binding",2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"sourceStart",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"token",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"output",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,3
+"print",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"MemberValuePair",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"requiredType",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"arg0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"scope",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"name",1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"resolveTypeExpecting",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"value",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"append",0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0

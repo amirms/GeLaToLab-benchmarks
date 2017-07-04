@@ -1,0 +1,16 @@
+,"OUTLIERTREATMENTMETHOD","getLinearNorm","extension","NormContinuous","getExtension","mapMissingTo","ArrayList","getField","outliers","AS_IS","getMapMissingTo","linearNorm","field","getOutliers","value"
+"OUTLIERTREATMENTMETHOD",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"getLinearNorm",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"extension",0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+"NormContinuous",0,0,1,0,0,1,0,0,1,0,0,1,1,0,0
+"getExtension",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"mapMissingTo",0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+"ArrayList",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+"getField",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"outliers",0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+"AS_IS",1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"getMapMissingTo",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"linearNorm",0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+"field",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+"getOutliers",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"value",0,0,0,0,0,1,0,0,1,0,0,0,1,0,0

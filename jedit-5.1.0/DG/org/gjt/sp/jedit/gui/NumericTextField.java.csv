@@ -1,0 +1,15 @@
+,"Character","e","KEY_TYPED","getID","consume","JTextField","processKeyEvent","KeyEvent","getKeyChar","arg0","isDigit","text","positiveOnly","NumericTextField"
+"Character",0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"e",0,0,0,1,1,0,0,0,2,1,0,0,0,0
+"KEY_TYPED",0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"getID",0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"consume",0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"JTextField",0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"processKeyEvent",0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"KeyEvent",0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"getKeyChar",0,2,0,0,0,0,0,0,0,1,0,0,0,0
+"arg0",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"isDigit",1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"text",0,0,0,0,0,1,0,0,0,0,0,0,0,1
+"positiveOnly",0,0,0,0,0,0,0,0,0,0,0,0,1,1
+"NumericTextField",0,0,0,0,0,0,0,0,0,0,0,0,1,0

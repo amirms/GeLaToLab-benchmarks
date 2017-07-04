@@ -1,0 +1,16 @@
+,"m_Printer","PrintableComponent","setScale","title","setSaveDialogTitle","saveComponent","getWriters","getXScale","getWriter","getSaveDialogTitle","getYScale","name","x","y","PrintablePanel"
+"m_Printer",0,0,1,0,1,1,1,1,1,1,1,0,0,0,0
+"PrintableComponent",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"setScale",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"title",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"setSaveDialogTitle",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"saveComponent",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"getWriters",1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"getXScale",1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"getWriter",1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"getSaveDialogTitle",1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"getYScale",1,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"name",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"x",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"y",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"PrintablePanel",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0

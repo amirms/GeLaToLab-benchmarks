@@ -1,0 +1,15 @@
+,"jjtGetNumChildren","jjtGetChild","BSHArguments","length","i","EvalError","callstack","SimpleNode","args","Primitive","getArguments","Object","id","VOID"
+"jjtGetNumChildren",0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"jjtGetChild",0,0,0,0,0,1,0,0,1,0,0,0,0,0
+"BSHArguments",0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"length",0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"i",0,0,0,0,2,0,0,0,2,0,0,0,0,0
+"EvalError",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"callstack",0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"SimpleNode",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"args",0,0,0,1,0,0,0,0,0,0,1,0,0,0
+"Primitive",0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"getArguments",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Object",0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"id",0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"VOID",0,0,0,0,0,0,0,0,0,1,0,0,0,0

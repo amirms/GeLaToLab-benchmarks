@@ -1,0 +1,8 @@
+,"singleton","GPL","LGPL","getGPL","Licences","getInstance","getLGPL"
+"singleton",0,0,0,0,0,1,0
+"GPL",0,0,0,1,0,0,0
+"LGPL",0,0,0,0,0,0,1
+"getGPL",0,0,0,0,0,0,0
+"Licences",1,0,0,0,0,0,0
+"getInstance",0,0,0,0,0,0,0
+"getLGPL",0,0,0,0,0,0,0

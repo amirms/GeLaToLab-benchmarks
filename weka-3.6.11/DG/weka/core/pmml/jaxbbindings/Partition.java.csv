@@ -1,0 +1,12 @@
+,"Partition","extension","getSize","getExtension","getName","size","ArrayList","name","getPartitionFieldStats","value","partitionFieldStats"
+"Partition",0,1,0,0,0,1,0,1,0,0,1
+"extension",1,0,0,1,0,0,0,0,0,0,0
+"getSize",0,0,0,0,0,0,0,0,0,0,0
+"getExtension",0,0,0,0,0,0,0,0,0,0,0
+"getName",0,0,0,0,0,0,0,0,0,0,0
+"size",1,0,1,0,0,0,0,0,0,0,0
+"ArrayList",0,1,0,0,0,0,0,0,0,0,1
+"name",1,0,0,0,1,0,0,0,0,0,0
+"getPartitionFieldStats",0,0,0,0,0,0,0,0,0,0,0
+"value",0,0,0,0,0,1,0,1,0,0,0
+"partitionFieldStats",1,0,0,0,0,0,0,0,1,0,0

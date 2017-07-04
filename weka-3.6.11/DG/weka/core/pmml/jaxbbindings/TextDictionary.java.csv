@@ -1,0 +1,10 @@
+,"extension","getExtension","getTaxonomy","array","TextDictionary","ArrayList","getArray","taxonomy","value"
+"extension",0,1,0,0,1,0,0,0,0
+"getExtension",0,0,0,0,0,0,0,0,0
+"getTaxonomy",0,0,0,0,0,0,0,0,0
+"array",0,0,0,0,1,0,1,0,0
+"TextDictionary",1,0,0,1,0,0,0,1,0
+"ArrayList",1,0,0,0,0,0,0,0,0
+"getArray",0,0,0,0,0,0,0,0,0
+"taxonomy",0,0,1,0,1,0,0,0,0
+"value",0,0,0,1,0,0,0,1,0

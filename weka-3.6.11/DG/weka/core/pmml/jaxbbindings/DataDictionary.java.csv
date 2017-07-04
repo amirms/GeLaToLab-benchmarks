@@ -1,0 +1,15 @@
+,"add","dataField","extension","getExtension","getNumberOfFields","ArrayList","taxonomy","DataDictionary","numberOfFields","getTaxonomy","field","getDataFields","arg0","value"
+"add",0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"dataField",1,0,0,0,0,0,0,1,0,0,0,1,0,0
+"extension",0,0,0,1,0,0,0,1,0,0,0,0,0,0
+"getExtension",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"getNumberOfFields",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"ArrayList",0,2,1,0,0,0,1,0,0,0,0,0,0,0
+"taxonomy",0,0,0,0,0,0,0,1,0,1,0,0,0,0
+"DataDictionary",0,1,1,0,0,0,1,0,1,0,0,0,0,0
+"numberOfFields",0,0,0,0,1,0,0,1,0,0,0,0,0,0
+"getTaxonomy",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"field",0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"getDataFields",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"arg0",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"value",0,0,0,0,0,0,0,0,1,0,0,0,0,0

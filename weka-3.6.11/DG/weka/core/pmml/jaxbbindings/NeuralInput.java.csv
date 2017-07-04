@@ -1,0 +1,10 @@
+,"extension","getExtension","getDerivedField","ArrayList","derivedField","getId","id","value","NeuralInput"
+"extension",0,1,0,0,0,0,0,0,1
+"getExtension",0,0,0,0,0,0,0,0,0
+"getDerivedField",0,0,0,0,0,0,0,0,0
+"ArrayList",1,0,0,0,0,0,0,0,0
+"derivedField",0,0,1,0,0,0,0,0,1
+"getId",0,0,0,0,0,0,0,0,0
+"id",0,0,0,0,0,1,0,0,1
+"value",0,0,0,0,1,0,1,0,0
+"NeuralInput",1,0,0,0,1,0,1,0,0

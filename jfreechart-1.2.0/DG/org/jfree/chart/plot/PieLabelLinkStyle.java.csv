@@ -1,0 +1,14 @@
+,"readResolve","PieLabelLinkStyle","QUAD_CURVE","result","obj","hashCode","arg0","equals","CUBIC_CURVE","name","toString","style","STANDARD"
+"readResolve",0,0,0,0,0,0,0,0,0,0,0,0,0
+"PieLabelLinkStyle",0,0,2,0,0,0,0,3,2,4,0,0,2
+"QUAD_CURVE",0,2,0,1,1,0,0,0,0,0,0,0,0
+"result",1,0,0,0,0,0,0,0,0,0,0,0,0
+"obj",0,0,0,0,0,0,0,0,0,0,0,1,0
+"hashCode",0,0,0,0,0,1,0,0,0,1,0,0,0
+"arg0",0,0,0,0,0,0,0,0,0,0,0,0,0
+"equals",0,3,0,0,0,0,0,0,0,1,0,0,0
+"CUBIC_CURVE",0,2,0,1,1,0,0,0,0,0,0,0,0
+"name",0,4,0,0,0,1,0,1,0,1,1,0,0
+"toString",0,0,0,0,0,0,1,0,0,0,0,1,0
+"style",0,0,0,0,0,0,0,0,0,0,1,0,0
+"STANDARD",0,2,0,1,1,0,0,0,0,0,0,0,0

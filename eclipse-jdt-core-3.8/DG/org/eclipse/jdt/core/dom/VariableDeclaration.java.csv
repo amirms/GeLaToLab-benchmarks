@@ -1,0 +1,14 @@
+,"ast","getBindingResolver","resolveVariable","getInitializerProperty","internalNameProperty","getNameProperty","internalInitializerProperty","getExtraDimensionsProperty","internalExtraDimensionsProperty","resolveBinding","ASTNode","variable","VariableDeclaration"
+"ast",0,1,0,0,0,0,0,0,0,0,1,0,1
+"getBindingResolver",1,0,1,0,0,0,0,0,0,0,0,0,0
+"resolveVariable",0,1,0,0,0,0,0,0,0,1,0,0,0
+"getInitializerProperty",0,0,0,0,0,0,0,0,0,0,0,0,0
+"internalNameProperty",0,0,0,0,0,1,0,0,0,0,0,0,0
+"getNameProperty",0,0,0,0,0,0,0,0,0,0,0,0,0
+"internalInitializerProperty",0,0,0,1,0,0,0,0,0,0,0,0,0
+"getExtraDimensionsProperty",0,0,0,0,0,0,0,0,0,0,0,0,0
+"internalExtraDimensionsProperty",0,0,0,0,0,0,0,1,0,0,0,0,0
+"resolveBinding",0,0,0,0,0,0,0,0,0,0,0,0,0
+"ASTNode",0,0,0,0,0,0,0,0,0,0,0,0,0
+"variable",0,0,0,0,0,0,0,0,0,0,0,0,0
+"VariableDeclaration",1,0,0,0,0,0,0,0,0,0,0,1,0

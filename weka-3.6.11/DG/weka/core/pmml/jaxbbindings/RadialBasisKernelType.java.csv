@@ -1,0 +1,10 @@
+,"RadialBasisKernelType","extension","getExtension","getGamma","ArrayList","description","getDescription","value","gamma"
+"RadialBasisKernelType",0,1,0,0,0,1,0,0,1
+"extension",1,0,1,0,0,0,0,0,0
+"getExtension",0,0,0,0,0,0,0,0,0
+"getGamma",0,0,0,0,0,0,0,0,0
+"ArrayList",0,1,0,0,0,0,0,0,0
+"description",1,0,0,0,0,0,1,0,0
+"getDescription",0,0,0,0,0,0,0,0,0
+"value",0,0,0,0,0,1,0,0,1
+"gamma",1,0,0,1,0,0,0,0,0

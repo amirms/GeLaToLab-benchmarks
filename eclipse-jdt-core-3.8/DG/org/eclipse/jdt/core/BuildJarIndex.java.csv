@@ -1,0 +1,15 @@
+,"argument","JavaIndexer","e","getLocalizedMessage","jarPath","getString","indexPath","AntAdapterMessages","generateIndexForJar","pathToIndexFile","path","BuildJarIndex","BuildException","pathToJar"
+"argument",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"JavaIndexer",0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"e",0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"getLocalizedMessage",1,0,1,0,0,0,0,0,0,0,0,0,0,0
+"jarPath",0,0,0,0,0,0,0,0,0,0,0,3,0,1
+"getString",0,0,0,0,0,0,0,3,0,0,0,0,3,0
+"indexPath",0,0,0,0,0,0,0,0,0,1,0,3,0,0
+"AntAdapterMessages",0,0,0,0,0,3,0,0,0,0,0,0,0,0
+"generateIndexForJar",0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"pathToIndexFile",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"path",0,0,0,0,1,0,1,0,0,0,0,0,0,0
+"BuildJarIndex",0,0,0,0,3,0,3,0,0,0,0,0,0,0
+"BuildException",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"pathToJar",0,0,0,0,0,0,0,0,0,0,0,0,0,0

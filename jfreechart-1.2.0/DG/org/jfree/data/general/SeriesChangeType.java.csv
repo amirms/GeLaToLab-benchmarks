@@ -1,0 +1,12 @@
+,"result","ADD","readResolve","obj","hashCode","arg0","equals","name","toString","style","SeriesChangeType"
+"result",0,0,1,0,0,0,0,0,0,0,0
+"ADD",1,0,0,1,0,0,0,0,0,0,2
+"readResolve",0,0,0,0,0,0,0,0,0,0,0
+"obj",0,0,0,0,0,0,0,0,0,1,0
+"hashCode",0,0,0,0,1,0,0,1,0,0,0
+"arg0",0,0,0,0,0,0,0,0,0,0,0
+"equals",0,0,0,0,0,0,0,1,0,0,1
+"name",0,0,0,0,1,0,1,1,1,0,4
+"toString",0,0,0,0,0,1,0,0,0,1,0
+"style",0,0,0,0,0,0,0,0,1,0,0
+"SeriesChangeType",0,2,0,0,0,0,1,4,0,0,0

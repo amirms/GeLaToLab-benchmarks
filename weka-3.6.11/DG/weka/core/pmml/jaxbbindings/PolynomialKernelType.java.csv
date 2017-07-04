@@ -1,0 +1,14 @@
+,"extension","getExtension","coef0","getGamma","ArrayList","degree","getCoef0","description","getDescription","PolynomialKernelType","getDegree","value","gamma"
+"extension",0,1,0,0,0,0,0,0,0,1,0,0,0
+"getExtension",0,0,0,0,0,0,0,0,0,0,0,0,0
+"coef0",0,0,0,0,0,0,1,0,0,1,0,0,0
+"getGamma",0,0,0,0,0,0,0,0,0,0,0,0,0
+"ArrayList",1,0,0,0,0,0,0,0,0,0,0,0,0
+"degree",0,0,0,0,0,0,0,0,0,1,1,0,0
+"getCoef0",0,0,0,0,0,0,0,0,0,0,0,0,0
+"description",0,0,0,0,0,0,0,0,1,1,0,0,0
+"getDescription",0,0,0,0,0,0,0,0,0,0,0,0,0
+"PolynomialKernelType",1,0,1,0,0,1,0,1,0,0,0,0,1
+"getDegree",0,0,0,0,0,0,0,0,0,0,0,0,0
+"value",0,0,1,0,0,1,0,1,0,0,0,0,1
+"gamma",0,0,0,1,0,0,0,0,0,1,0,0,0

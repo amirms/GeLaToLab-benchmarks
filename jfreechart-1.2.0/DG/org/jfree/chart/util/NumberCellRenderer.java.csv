@@ -1,0 +1,13 @@
+,"SwingConstants","arg0","nf","format","getTableCellRendererComponent","RIGHT","NumberCellRenderer","value","getNumberInstance","table","NumberFormat","getSelectionBackground"
+"SwingConstants",0,0,0,0,0,1,0,0,0,0,0,0
+"arg0",0,0,0,0,0,0,0,0,0,0,0,0
+"nf",0,0,0,1,0,0,0,0,0,0,0,0
+"format",0,1,1,0,0,0,0,0,0,0,0,0
+"getTableCellRendererComponent",0,0,0,0,0,0,0,0,0,0,0,0
+"RIGHT",1,1,0,0,0,0,0,0,0,0,0,0
+"NumberCellRenderer",0,0,0,0,1,0,0,0,0,0,0,0
+"value",0,1,0,0,0,0,0,0,0,0,0,0
+"getNumberInstance",0,0,1,0,0,0,0,0,0,0,1,0
+"table",0,0,0,0,0,0,0,0,0,0,0,1
+"NumberFormat",0,0,0,0,0,0,0,0,1,0,0,0
+"getSelectionBackground",0,1,0,0,0,0,0,0,0,1,0,0

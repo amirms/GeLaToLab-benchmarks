@@ -1,0 +1,12 @@
+,"getRightMargin","extension","leftMargin","getExtension","getLeftMargin","rightMargin","getClosure","ArrayList","closure","value","Interval"
+"getRightMargin",0,0,0,0,0,0,0,0,0,0,0
+"extension",0,0,0,1,0,0,0,0,0,0,1
+"leftMargin",0,0,0,0,1,0,0,0,0,0,1
+"getExtension",0,0,0,0,0,0,0,0,0,0,0
+"getLeftMargin",0,0,0,0,0,0,0,0,0,0,0
+"rightMargin",1,0,0,0,0,0,0,0,0,0,1
+"getClosure",0,0,0,0,0,0,0,0,0,0,0
+"ArrayList",0,1,0,0,0,0,0,0,0,0,0
+"closure",0,0,0,0,0,0,1,0,0,0,1
+"value",0,0,1,0,0,1,0,0,1,0,0
+"Interval",0,1,1,0,0,1,0,0,1,0,0

@@ -1,0 +1,9 @@
+,"forName","cg","clas","e","Class","newInstance","getClassGenerator","Unavailable"
+"forName",0,0,1,0,1,0,0,0
+"cg",0,0,0,0,0,0,1,0
+"clas",0,0,0,0,0,1,0,0
+"e",0,0,0,0,0,0,0,1
+"Class",1,0,0,0,0,0,0,0
+"newInstance",0,1,1,0,0,0,0,0
+"getClassGenerator",0,0,0,0,0,0,0,0
+"Unavailable",0,0,0,0,0,0,0,0

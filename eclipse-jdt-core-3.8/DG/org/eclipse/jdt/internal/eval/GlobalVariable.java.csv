@@ -1,0 +1,13 @@
+,"GlobalVariable","StringBuffer","getName","arg0","typeName","name","toString","buffer","getTypeName","append","initializer","getInitializer"
+"GlobalVariable",0,0,0,0,3,3,0,0,0,0,4,0
+"StringBuffer",0,0,0,0,0,0,0,1,0,0,0,0
+"getName",0,0,0,0,0,0,0,0,0,0,0,0
+"arg0",0,0,0,0,0,0,0,0,0,0,0,0
+"typeName",3,0,0,1,1,0,0,0,1,0,0,0
+"name",3,0,1,1,0,1,0,0,0,0,0,0
+"toString",0,0,0,0,0,0,1,1,0,0,0,0
+"buffer",0,0,0,0,0,0,1,0,0,6,0,0
+"getTypeName",0,0,0,0,0,0,0,0,0,0,0,0
+"append",0,0,0,0,0,0,0,6,0,0,0,0
+"initializer",4,0,0,1,0,0,0,0,0,0,1,1
+"getInitializer",0,0,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,12 @@
+,"NaiveBayes","extract","RevisionUtils","classifier","options","toString","globalInfo","NaiveBayesUpdateable","getTechnicalInformation","argv","getRevision"
+"NaiveBayes",0,0,0,0,0,0,0,0,1,0,0
+"extract",0,0,1,0,0,0,0,0,0,0,1
+"RevisionUtils",0,1,0,0,0,0,0,0,0,0,0
+"classifier",0,0,0,0,0,0,0,0,0,0,0
+"options",0,0,0,0,0,0,0,0,0,0,0
+"toString",0,0,0,0,0,0,1,0,1,0,0
+"globalInfo",0,0,0,0,0,0,0,0,0,0,0
+"NaiveBayesUpdateable",0,0,0,1,0,0,0,0,0,0,0
+"getTechnicalInformation",1,0,0,0,0,1,0,0,1,0,0
+"argv",0,0,0,0,1,0,0,0,0,0,0
+"getRevision",0,0,0,0,0,0,0,0,0,0,0

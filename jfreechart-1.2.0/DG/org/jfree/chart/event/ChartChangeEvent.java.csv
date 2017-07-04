@@ -1,0 +1,10 @@
+,"ChartChangeEventType","getType","getChart","source","ChartChangeEvent","GENERAL","type","chart","EventObject"
+"ChartChangeEventType",0,0,0,0,0,2,0,0,0
+"getType",0,0,0,0,0,0,0,0,0
+"getChart",0,0,0,0,0,0,0,0,0
+"source",0,0,0,0,2,0,0,0,1
+"ChartChangeEvent",0,0,0,0,0,0,3,3,0
+"GENERAL",2,0,0,0,2,0,0,0,0
+"type",0,1,0,0,3,0,2,0,0
+"chart",0,0,1,0,4,0,0,2,0
+"EventObject",0,0,0,0,0,0,0,0,0

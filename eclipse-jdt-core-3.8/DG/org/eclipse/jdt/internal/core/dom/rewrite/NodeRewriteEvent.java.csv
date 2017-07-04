@@ -1,0 +1,17 @@
+,"newValue","NodeRewriteEvent","getOriginalValue","INSERTED","originalValue","getNewValue","REPLACED","UNCHANGED","getChangeKind","StringBuffer","buf","arg0","equals","toString","append","REMOVED"
+"newValue",2,6,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+"NodeRewriteEvent",6,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0
+"getOriginalValue",0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0
+"INSERTED",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"originalValue",0,5,1,0,1,0,0,0,0,0,0,0,1,0,0,0
+"getNewValue",0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0
+"REPLACED",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"UNCHANGED",0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+"getChangeKind",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"StringBuffer",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"buf",0,0,0,0,0,0,0,0,0,0,0,0,0,1,12,0
+"arg0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"equals",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"toString",0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+"append",0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0
+"REMOVED",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0

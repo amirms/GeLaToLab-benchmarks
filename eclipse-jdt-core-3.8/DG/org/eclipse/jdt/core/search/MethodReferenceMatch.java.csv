@@ -1,0 +1,16 @@
+,"MethodReferenceMatch","offset","resource","length","constructor","accuracy","superInvocation","isSynthetic","isSuperInvocation","enclosingElement","participant","synthetic","isConstructor","insideDocComment","ReferenceMatch"
+"MethodReferenceMatch",0,0,0,0,2,0,2,0,0,0,0,2,0,0,0
+"offset",2,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"resource",2,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"length",2,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"constructor",3,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+"accuracy",2,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"superInvocation",2,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+"isSynthetic",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"isSuperInvocation",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"enclosingElement",2,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"participant",2,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"synthetic",3,0,0,0,0,0,0,1,0,0,0,1,0,0,0
+"isConstructor",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"insideDocComment",2,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"ReferenceMatch",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

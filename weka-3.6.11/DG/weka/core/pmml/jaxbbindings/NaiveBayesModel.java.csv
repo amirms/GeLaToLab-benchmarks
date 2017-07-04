@@ -1,0 +1,16 @@
+,"getFunctionName","functionName","getContent","ArrayList","threshold","NaiveBayesModel","getModelName","algorithmName","content","isIsScorable","modelName","isScorable","getAlgorithmName","getThreshold","value"
+"getFunctionName",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"functionName",1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"getContent",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"ArrayList",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"threshold",0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+"NaiveBayesModel",0,1,0,0,1,0,0,1,1,0,1,1,0,0,0
+"getModelName",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"algorithmName",0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+"content",0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+"isIsScorable",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"modelName",0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+"isScorable",0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+"getAlgorithmName",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"getThreshold",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"value",0,1,0,0,1,0,0,1,0,0,1,1,0,0,0

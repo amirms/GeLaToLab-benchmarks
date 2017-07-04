@@ -1,0 +1,16 @@
+,"getROCGraph","extension","getExtension","negativeTargetFieldValue","getNegativeTargetFieldDisplayValue","ROC","ArrayList","positiveTargetFieldDisplayValue","getPositiveTargetFieldDisplayValue","rocGraph","getPositiveTargetFieldValue","getNegativeTargetFieldValue","positiveTargetFieldValue","negativeTargetFieldDisplayValue","value"
+"getROCGraph",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"extension",0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+"getExtension",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"negativeTargetFieldValue",0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+"getNegativeTargetFieldDisplayValue",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"ROC",0,1,0,1,0,0,0,1,0,1,0,0,1,1,0
+"ArrayList",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"positiveTargetFieldDisplayValue",0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+"getPositiveTargetFieldDisplayValue",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"rocGraph",1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"getPositiveTargetFieldValue",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"getNegativeTargetFieldValue",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"positiveTargetFieldValue",0,0,0,0,0,1,0,0,0,0,1,0,0,0,0
+"negativeTargetFieldDisplayValue",0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+"value",0,0,0,1,0,0,0,1,0,1,0,0,1,1,0

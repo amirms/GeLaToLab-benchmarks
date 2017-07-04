@@ -1,0 +1,8 @@
+,"JEditActionContext","name","EditAction","action","getActionSetForAction","getAction","ActionSet"
+"JEditActionContext",0,0,2,0,1,1,2
+"name",0,1,0,0,0,0,0
+"EditAction",2,0,0,0,0,0,0
+"action",0,0,0,1,0,0,0
+"getActionSetForAction",1,0,0,0,1,0,0
+"getAction",1,0,0,0,0,1,0
+"ActionSet",2,0,0,0,0,0,0

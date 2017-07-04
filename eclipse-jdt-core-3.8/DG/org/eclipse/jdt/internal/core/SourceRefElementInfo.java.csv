@@ -1,0 +1,10 @@
+,"getDeclarationSourceEnd","SourceRefElementInfo","sourceRangeEnd","sourceRangeStart","getSourceRange","start","getDeclarationSourceStart","end","SourceRange"
+"getDeclarationSourceEnd",0,0,0,0,0,0,0,0,0
+"SourceRefElementInfo",0,0,3,4,0,0,0,0,0
+"sourceRangeEnd",1,3,0,0,0,0,0,0,1
+"sourceRangeStart",0,4,0,0,0,0,1,0,2
+"getSourceRange",0,0,0,0,0,0,0,0,0
+"start",0,0,0,1,0,0,0,0,0
+"getDeclarationSourceStart",0,0,0,0,0,0,0,0,0
+"end",0,0,1,0,0,0,0,0,0
+"SourceRange",0,0,0,0,1,0,0,0,0

@@ -1,0 +1,17 @@
+,"CompletionOnKeyword1","possibleKeywords","getPossibleKeywords","printExpression","possibleKeyword","token","output","CompletionNodeFound","org.emftext.language.java.types.impl.CharImpl@65aa04c2","pos","SingleTypeReference","getToken","scope","arg0","canCompleteEmptyToken","append"
+"CompletionOnKeyword1",0,2,0,0,0,2,0,1,0,0,0,0,0,0,1,0
+"possibleKeywords",2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"getPossibleKeywords",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"printExpression",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"possibleKeyword",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"token",3,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0
+"output",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"CompletionNodeFound",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"org.emftext.language.java.types.impl.CharImpl@65aa04c2",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"pos",1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"SingleTypeReference",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"getToken",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"scope",0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0
+"arg0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"canCompleteEmptyToken",1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"append",0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,4

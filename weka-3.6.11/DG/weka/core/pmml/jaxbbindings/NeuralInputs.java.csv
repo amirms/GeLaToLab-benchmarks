@@ -1,0 +1,10 @@
+,"neuralInput","extension","getExtension","NeuralInputs","getNeuralInput","numberOfInputs","ArrayList","getNumberOfInputs","value"
+"neuralInput",0,0,0,1,1,0,0,0,0
+"extension",0,0,1,1,0,0,0,0,0
+"getExtension",0,0,0,0,0,0,0,0,0
+"NeuralInputs",1,1,0,0,0,1,0,0,0
+"getNeuralInput",0,0,0,0,0,0,0,0,0
+"numberOfInputs",0,0,0,1,0,0,0,1,0
+"ArrayList",1,1,0,0,0,0,0,0,0
+"getNumberOfInputs",0,0,0,0,0,0,0,0,0
+"value",0,0,0,0,0,1,0,0,0

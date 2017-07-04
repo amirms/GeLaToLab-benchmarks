@@ -1,0 +1,10 @@
+,"reason","StringBuffer","relativeDepth","AlignmentException","arg0","toString","buffer","value","append"
+"reason",1,0,0,3,0,0,0,0,0
+"StringBuffer",0,0,0,0,0,0,1,0,0
+"relativeDepth",0,0,1,3,1,0,0,0,0
+"AlignmentException",2,0,2,0,0,0,0,1,0
+"arg0",0,0,0,0,0,0,0,0,0
+"toString",0,0,0,0,0,1,1,0,0
+"buffer",0,0,0,0,0,1,0,0,3
+"value",0,0,0,1,0,0,0,1,0
+"append",0,0,0,0,0,0,3,0,4

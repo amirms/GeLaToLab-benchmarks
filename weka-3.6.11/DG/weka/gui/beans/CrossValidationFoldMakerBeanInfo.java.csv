@@ -1,0 +1,17 @@
+,"p1","p2","p3","PropertyDescriptor","printStackTrace","getPropertyDescriptors","CrossValidationFoldMaker","getBeanDescriptor","ex","weka","BeanDescriptor","beans","CrossValidationFoldMakerCustomizer","gui","class","pds"
+"p1",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"p2",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"p3",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"PropertyDescriptor",1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"printStackTrace",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"getPropertyDescriptors",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"CrossValidationFoldMaker",0,0,0,0,0,0,0,0,0,0,0,1,0,0,4,0
+"getBeanDescriptor",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"ex",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"weka",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"BeanDescriptor",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"beans",0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+"CrossValidationFoldMakerCustomizer",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"gui",0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+"class",0,0,0,3,0,0,4,0,0,0,2,0,1,0,0,0
+"pds",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0

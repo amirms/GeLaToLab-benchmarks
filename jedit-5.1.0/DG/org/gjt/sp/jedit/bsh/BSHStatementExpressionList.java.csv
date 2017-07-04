@@ -1,0 +1,13 @@
+,"jjtGetNumChildren","node","Primitive","jjtGetChild","eval","i","callstack","interpreter","id","VOID","n","SimpleNode"
+"jjtGetNumChildren",0,0,0,0,0,0,0,0,0,0,1,0
+"node",0,0,0,0,1,0,0,0,0,0,0,0
+"Primitive",0,0,0,0,0,0,0,0,0,1,0,0
+"jjtGetChild",0,1,0,0,0,0,0,0,0,0,0,0
+"eval",0,1,0,0,0,0,0,0,0,0,0,0
+"i",0,0,0,0,0,1,0,0,0,0,0,0
+"callstack",0,0,0,0,0,0,1,0,0,0,0,0
+"interpreter",0,0,0,0,0,0,0,1,0,0,0,0
+"id",0,0,0,0,0,0,0,0,0,0,0,1
+"VOID",0,0,1,0,1,0,0,0,0,0,0,0
+"n",0,0,0,0,0,0,0,0,0,0,0,0
+"SimpleNode",0,0,0,0,0,0,0,0,0,0,0,0

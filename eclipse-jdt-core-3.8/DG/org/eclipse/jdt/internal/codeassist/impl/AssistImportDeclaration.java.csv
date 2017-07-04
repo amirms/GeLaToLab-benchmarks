@@ -1,0 +1,10 @@
+,"parent","infoCache","isOnDemand","arg0","get","ImportDeclaration","name","getElementInfo","AssistImportDeclaration"
+"parent",0,0,0,0,0,1,0,0,0
+"infoCache",0,1,0,0,1,0,0,0,2
+"isOnDemand",0,0,0,0,0,1,0,0,0
+"arg0",0,0,0,0,0,0,0,0,0
+"get",0,1,0,0,0,0,0,1,0
+"ImportDeclaration",0,0,0,0,0,0,0,0,0
+"name",0,0,0,0,0,1,0,0,0
+"getElementInfo",0,0,0,0,0,0,0,0,0
+"AssistImportDeclaration",0,2,0,1,0,0,0,0,0

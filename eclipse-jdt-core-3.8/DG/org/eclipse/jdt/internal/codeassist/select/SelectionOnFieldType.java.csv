@@ -1,0 +1,14 @@
+,"sourceEnd","indent","sourceStart","type","CharOperation","output","printStatement","print","tab","name","SelectionOnFieldType","NO_CHAR","append"
+"sourceEnd",1,0,0,1,0,0,0,0,0,0,1,0,0
+"indent",0,0,0,0,0,0,0,0,0,0,0,0,0
+"sourceStart",0,0,1,1,0,0,0,0,0,0,1,0,0
+"type",1,0,1,1,0,0,0,1,0,0,2,0,0
+"CharOperation",0,0,0,0,0,0,0,0,0,0,0,1,0
+"output",0,0,0,0,0,1,0,0,0,0,0,0,0
+"printStatement",0,0,0,0,0,0,0,0,0,0,0,0,0
+"print",0,0,0,1,0,0,0,0,0,0,0,0,1
+"tab",0,1,0,0,0,0,0,0,0,0,0,0,0
+"name",0,0,0,0,0,0,0,0,0,0,1,0,0
+"SelectionOnFieldType",1,0,1,2,0,0,0,0,0,1,0,0,0
+"NO_CHAR",0,0,0,0,1,0,0,0,0,1,0,0,0
+"append",0,0,0,0,0,0,1,1,0,0,0,0,0

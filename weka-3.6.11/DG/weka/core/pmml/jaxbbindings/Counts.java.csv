@@ -1,0 +1,14 @@
+,"extension","Counts","getExtension","getMissingFreq","invalidFreq","getInvalidFreq","ArrayList","missingFreq","totalFreq","cardinality","getCardinality","getTotalFreq","value"
+"extension",0,1,1,0,0,0,0,0,0,0,0,0,0
+"Counts",1,0,0,0,1,0,0,1,1,1,0,0,0
+"getExtension",0,0,0,0,0,0,0,0,0,0,0,0,0
+"getMissingFreq",0,0,0,0,0,0,0,0,0,0,0,0,0
+"invalidFreq",0,1,0,0,0,1,0,0,0,0,0,0,0
+"getInvalidFreq",0,0,0,0,0,0,0,0,0,0,0,0,0
+"ArrayList",1,0,0,0,0,0,0,0,0,0,0,0,0
+"missingFreq",0,1,0,1,0,0,0,0,0,0,0,0,0
+"totalFreq",0,1,0,0,0,0,0,0,0,0,0,1,0
+"cardinality",0,1,0,0,0,0,0,0,0,0,1,0,0
+"getCardinality",0,0,0,0,0,0,0,0,0,0,0,0,0
+"getTotalFreq",0,0,0,0,0,0,0,0,0,0,0,0,0
+"value",0,0,0,0,1,0,0,1,1,1,0,0,0

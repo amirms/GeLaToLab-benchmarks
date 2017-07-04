@@ -1,0 +1,13 @@
+,"ValueTick","getNumber","number","tickType","NumberTick","rotationAnchor","angle","doubleValue","label","textAnchor","value","Double"
+"ValueTick",0,0,0,0,0,0,0,0,0,0,0,0
+"getNumber",0,0,0,0,0,0,0,0,0,0,0,0
+"number",0,1,1,0,3,0,0,1,0,0,0,0
+"tickType",1,0,0,0,0,0,0,0,0,0,0,0
+"NumberTick",0,0,3,0,0,0,0,0,0,0,0,0
+"rotationAnchor",2,0,0,0,0,0,0,0,0,0,0,0
+"angle",2,0,0,0,0,0,0,0,0,0,0,0
+"doubleValue",1,0,1,0,0,0,0,0,0,0,0,0
+"label",2,0,0,0,0,0,0,0,0,0,0,0
+"textAnchor",2,0,0,0,0,0,0,0,0,0,0,0
+"value",1,0,0,0,0,0,0,0,0,0,0,1
+"Double",0,0,1,0,0,0,0,0,0,0,0,0

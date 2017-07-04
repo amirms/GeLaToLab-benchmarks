@@ -1,0 +1,13 @@
+,"colStartIndex","lineEndIndex","colEndIndex","line","ColumnBlockLine","lineStartIndex","getLineLength","getLine","getColumnStartIndex","toString","lineLength","getColumnEndIndex"
+"colStartIndex",0,0,0,0,1,0,0,0,1,1,0,0
+"lineEndIndex",0,0,1,0,0,0,0,0,0,0,0,0
+"colEndIndex",0,0,0,0,1,0,0,0,0,1,0,1
+"line",0,0,0,2,2,0,0,1,0,1,0,0
+"ColumnBlockLine",1,0,1,2,0,0,0,0,0,0,1,0
+"lineStartIndex",1,0,0,0,0,0,0,0,0,0,0,0
+"getLineLength",0,0,0,0,0,0,0,0,0,0,0,0
+"getLine",0,0,0,0,0,0,0,0,0,0,0,0
+"getColumnStartIndex",0,0,0,0,0,0,0,0,0,0,0,0
+"toString",0,0,0,0,0,0,0,0,0,0,0,0
+"lineLength",0,0,0,0,1,0,1,0,0,1,1,0
+"getColumnEndIndex",0,0,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,11 @@
+,"NoteCustomizer","esds","weka","BeanDescriptor","beans","Note","getEventSetDescriptors","gui","class","getBeanDescriptor"
+"NoteCustomizer",0,0,0,0,1,0,0,0,1,0
+"esds",0,0,0,0,0,0,1,0,0,0
+"weka",0,0,0,0,0,0,0,2,0,0
+"BeanDescriptor",0,0,0,0,0,0,0,0,0,1
+"beans",1,0,0,0,0,1,0,2,0,0
+"Note",0,0,0,0,1,0,0,0,1,0
+"getEventSetDescriptors",0,0,0,0,0,0,0,0,0,0
+"gui",0,0,2,0,2,0,0,0,0,0
+"class",1,0,0,2,0,1,0,0,0,0
+"getBeanDescriptor",0,0,0,0,0,0,0,0,0,0

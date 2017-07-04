@@ -1,0 +1,8 @@
+,"extension","getExtension","liftGraph","ArrayList","RandomLiftGraph","value","getLiftGraph"
+"extension",0,1,0,0,1,0,0
+"getExtension",0,0,0,0,0,0,0
+"liftGraph",0,0,0,0,1,0,1
+"ArrayList",1,0,0,0,0,0,0
+"RandomLiftGraph",1,0,1,0,0,0,0
+"value",0,0,1,0,0,0,0
+"getLiftGraph",0,0,0,0,0,0,0

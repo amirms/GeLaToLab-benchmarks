@@ -1,0 +1,11 @@
+,"Extension","extender","getValue","getName","getContent","ArrayList","name","getExtender","value","content"
+"Extension",0,1,0,0,0,0,1,0,1,1
+"extender",1,0,0,0,0,0,0,1,0,0
+"getValue",0,0,0,0,0,0,0,0,0,0
+"getName",0,0,0,0,0,0,0,0,0,0
+"getContent",0,0,0,0,0,0,0,0,0,0
+"ArrayList",0,0,0,0,0,0,0,0,0,1
+"name",1,0,0,1,0,0,0,0,0,0
+"getExtender",0,0,0,0,0,0,0,0,0,0
+"value",1,1,1,0,0,0,1,0,1,0
+"content",1,0,0,0,1,0,0,0,0,0

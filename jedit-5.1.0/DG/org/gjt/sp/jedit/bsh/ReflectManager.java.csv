@@ -1,0 +1,13 @@
+,"forName","setAccessible","RMSetAccessible","clas","e","obj","rfm","Class","newInstance","getReflectManager","Unavailable","o"
+"forName",0,0,0,1,0,0,0,1,0,0,0,0
+"setAccessible",0,0,1,0,0,0,0,0,0,1,0,0
+"RMSetAccessible",0,0,0,0,0,0,0,0,0,0,0,0
+"clas",0,0,0,0,0,0,0,0,1,0,0,0
+"e",0,0,0,0,0,0,0,0,0,0,1,0
+"obj",0,0,0,0,0,0,0,0,0,0,0,1
+"rfm",0,0,0,0,0,0,0,0,0,1,0,0
+"Class",1,0,0,0,0,0,0,0,0,0,0,0
+"newInstance",0,0,0,1,0,0,1,0,0,0,0,0
+"getReflectManager",0,1,0,0,0,0,0,0,0,0,0,0
+"Unavailable",0,0,0,0,0,0,0,0,0,0,0,0
+"o",0,0,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,13 @@
+,"getType","getSource","additional","hasAdditional","source","type","getAdditional","ScriptExecutionEvent","m_Additional","getScript","EventObject","m_Type"
+"getType",0,0,0,0,0,0,0,0,0,0,0,0
+"getSource",0,0,0,0,0,0,0,0,0,1,0,0
+"additional",0,0,0,0,0,0,0,0,1,0,0,0
+"hasAdditional",0,0,0,0,0,0,0,0,0,0,0,0
+"source",0,0,0,0,0,0,0,1,0,0,1,0
+"type",0,0,0,0,0,0,0,1,0,0,0,1
+"getAdditional",0,0,0,0,0,0,0,0,0,0,0,0
+"ScriptExecutionEvent",0,0,0,0,0,0,0,0,0,0,0,0
+"m_Additional",0,0,0,1,0,0,1,0,0,0,0,0
+"getScript",0,0,0,0,0,0,0,0,0,0,0,0
+"EventObject",0,0,0,0,0,0,0,0,0,0,0,0
+"m_Type",1,0,0,0,0,0,0,0,0,0,0,0

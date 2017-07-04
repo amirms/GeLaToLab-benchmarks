@@ -1,0 +1,8 @@
+,"VariableDeclarationsCompositor","RuntimeException","name","declaration","getVariable","declarations","hasVariable"
+"VariableDeclarationsCompositor",0,0,0,0,0,1,0
+"RuntimeException",0,0,0,0,0,0,0
+"name",0,1,3,0,0,0,0
+"declaration",0,0,0,0,1,0,2
+"getVariable",0,0,0,1,1,0,0
+"declarations",1,0,0,0,0,1,0
+"hasVariable",0,0,0,2,0,0,0

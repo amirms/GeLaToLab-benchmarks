@@ -1,0 +1,12 @@
+,"XYAnnotationEntity","rendererIndex","that","hotspot","getRendererIndex","obj","urlText","equals","index","ChartEntity","toolTipText"
+"XYAnnotationEntity",0,4,0,0,0,0,0,0,0,0,0
+"rendererIndex",4,1,1,0,1,0,0,0,0,0,0
+"that",0,1,0,0,0,0,0,0,0,0,0
+"hotspot",0,0,0,0,0,0,0,0,0,1,0
+"getRendererIndex",0,0,0,0,0,0,0,0,0,0,0
+"obj",0,0,1,0,0,1,0,0,0,0,0
+"urlText",0,0,0,0,0,0,0,0,0,1,0
+"equals",0,0,0,0,0,0,0,0,0,1,0
+"index",0,1,0,0,0,0,0,0,0,0,0
+"ChartEntity",0,0,0,0,0,0,0,1,0,0,0
+"toolTipText",0,0,0,0,0,0,0,0,0,1,0

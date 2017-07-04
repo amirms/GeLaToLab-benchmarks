@@ -1,0 +1,13 @@
+,"that","EXPAND","LengthAdjustmentType","readResolve","obj","hashCode","arg0","equals","name","CONTRACT","toString","NO_CHANGE"
+"that",0,0,0,0,0,0,0,0,1,0,0,0
+"EXPAND",0,0,2,1,1,0,0,0,0,0,0,0
+"LengthAdjustmentType",0,2,0,0,0,0,0,3,4,2,0,2
+"readResolve",0,0,0,0,0,0,0,0,0,0,0,0
+"obj",1,0,0,0,0,0,0,0,0,0,0,0
+"hashCode",0,0,0,0,0,1,0,0,1,0,0,0
+"arg0",0,0,0,0,0,0,0,0,0,0,0,0
+"equals",0,0,3,0,0,0,0,0,1,0,0,0
+"name",1,0,4,0,0,1,1,1,1,0,1,0
+"CONTRACT",0,0,2,1,1,0,0,0,0,0,0,0
+"toString",0,0,0,0,0,0,0,0,0,0,0,0
+"NO_CHANGE",0,0,2,1,1,0,0,0,0,0,0,0

@@ -1,0 +1,13 @@
+,"RELATIVE_FREQUENCY","readResolve","t","obj","hashCode","arg0","equals","FREQUENCY","name","toString","SCALE_AREA_TO_1","HistogramType"
+"RELATIVE_FREQUENCY",0,1,0,1,0,0,0,0,0,0,0,2
+"readResolve",0,0,0,0,0,0,0,0,0,0,0,0
+"t",0,0,0,0,0,0,0,0,1,0,0,0
+"obj",0,0,1,0,0,0,0,0,0,0,0,0
+"hashCode",0,0,0,0,1,0,0,0,1,0,0,0
+"arg0",0,0,0,0,0,0,0,0,0,0,0,0
+"equals",0,0,0,0,0,0,0,0,1,0,0,3
+"FREQUENCY",0,1,0,1,0,0,0,0,0,0,0,2
+"name",0,0,1,0,1,1,1,0,1,1,0,4
+"toString",0,0,0,0,0,0,0,0,0,0,0,0
+"SCALE_AREA_TO_1",0,1,0,1,0,0,0,0,0,0,0,2
+"HistogramType",2,0,0,0,0,0,3,2,4,0,2,0

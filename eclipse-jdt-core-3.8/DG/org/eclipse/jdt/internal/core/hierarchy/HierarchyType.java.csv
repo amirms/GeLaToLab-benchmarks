@@ -1,0 +1,12 @@
+,"typeHandle","toCharArray","HierarchyType","getCompilationUnit","name","superInterfaceNames","superclassName","getModifiers","modifiers","getFileName","getElementName"
+"typeHandle",1,0,2,1,0,0,0,0,0,0,0
+"toCharArray",0,0,0,0,0,0,0,0,0,1,1
+"HierarchyType",2,0,0,0,1,1,1,0,2,0,0
+"getCompilationUnit",1,0,0,0,0,0,0,0,0,0,1
+"name",0,0,1,0,1,0,0,0,0,0,0
+"superInterfaceNames",0,0,1,0,0,1,0,0,0,0,0
+"superclassName",0,0,1,0,0,0,1,0,0,0,0
+"getModifiers",0,0,0,0,0,0,0,0,0,0,0
+"modifiers",0,0,2,0,0,0,0,1,1,0,0
+"getFileName",0,0,0,0,0,0,0,0,0,0,0
+"getElementName",0,1,0,1,0,0,0,0,0,0,0

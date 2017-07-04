@@ -1,0 +1,12 @@
+,"offset","getBuffer","getText","getOffset","length","getLength","buffer","text","source","BufferChangedEvent","EventObject"
+"offset",1,0,0,1,0,0,0,0,0,2,0
+"getBuffer",0,0,0,0,0,0,0,0,0,0,0
+"getText",0,0,0,0,0,0,0,0,0,0,0
+"getOffset",0,0,0,0,0,0,0,0,0,0,0
+"length",0,0,0,0,1,1,0,0,0,2,0
+"getLength",0,0,0,0,0,0,0,0,0,0,0
+"buffer",0,0,0,0,0,0,0,0,0,0,1
+"text",0,0,1,0,0,0,0,1,0,2,0
+"source",0,1,0,0,0,0,0,0,0,1,0
+"BufferChangedEvent",2,0,0,0,2,0,0,2,1,0,0
+"EventObject",0,0,0,0,0,0,0,0,0,0,0

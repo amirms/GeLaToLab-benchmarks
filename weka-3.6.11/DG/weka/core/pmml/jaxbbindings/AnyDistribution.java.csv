@@ -1,0 +1,10 @@
+,"extension","getExtension","AnyDistribution","variance","mean","ArrayList","getVariance","getMean","value"
+"extension",0,1,1,0,0,0,0,0,0
+"getExtension",0,0,0,0,0,0,0,0,0
+"AnyDistribution",1,0,0,1,1,0,0,0,0
+"variance",0,0,1,0,0,0,1,0,0
+"mean",0,0,1,0,0,0,0,1,0
+"ArrayList",1,0,0,0,0,0,0,0,0
+"getVariance",0,0,0,0,0,0,0,0,0
+"getMean",0,0,0,0,0,0,0,0,0
+"value",0,0,0,1,1,0,0,0,0

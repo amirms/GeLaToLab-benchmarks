@@ -1,0 +1,13 @@
+,"methodDeclaration","found","memberTypeDeclaration","declarationSourceEnd","declarationSourceStart","fieldDeclaration","typeDeclaration","position","enclosingType","NodeSearcher","constructorDeclaration","initializer"
+"methodDeclaration",0,1,0,1,1,0,0,0,0,0,0,0
+"found",0,0,0,0,0,0,0,0,0,4,0,0
+"memberTypeDeclaration",0,0,0,1,1,0,0,0,1,0,0,0
+"declarationSourceEnd",1,0,1,0,0,1,1,0,0,0,1,1
+"declarationSourceStart",1,0,1,0,0,1,1,0,0,0,1,1
+"fieldDeclaration",0,1,0,1,1,0,0,0,0,0,0,0
+"typeDeclaration",0,0,0,1,1,0,0,0,1,0,0,0
+"position",0,0,0,0,0,0,0,1,0,13,0,0
+"enclosingType",0,0,0,0,0,0,0,0,0,2,0,0
+"NodeSearcher",0,4,0,0,0,0,0,13,2,0,0,0
+"constructorDeclaration",0,1,0,1,1,0,0,0,0,0,0,0
+"initializer",0,1,0,1,1,0,0,0,0,0,0,0

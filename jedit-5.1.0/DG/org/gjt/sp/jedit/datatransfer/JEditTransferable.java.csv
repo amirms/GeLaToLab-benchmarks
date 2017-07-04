@@ -1,0 +1,17 @@
+,"flavors","dataFlavors","containsKey","transferable","getTransferData","UnsupportedFlavorException","DataFlavor","flavor","isDataFlavorSupported","size","arg0","get","toArray","JEditTransferable","keySet","getTransferDataFlavors"
+"flavors",1,0,1,0,0,0,0,0,0,1,0,1,0,1,1,0
+"dataFlavors",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"containsKey",1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"transferable",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"getTransferData",0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+"UnsupportedFlavorException",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"DataFlavor",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"flavor",0,0,0,0,0,1,0,1,0,0,3,0,0,0,0,0
+"isDataFlavorSupported",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"size",1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"arg0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"get",1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"toArray",0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"JEditTransferable",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"keySet",1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"getTransferDataFlavors",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

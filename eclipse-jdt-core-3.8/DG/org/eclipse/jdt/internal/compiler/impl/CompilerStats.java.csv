@@ -1,0 +1,10 @@
+,"time1","time2","otherStats","CompilerStats","startTime","endTime","compareTo","elapsedTime","o"
+"time1",0,0,0,0,0,0,2,0,0
+"time2",0,0,0,0,0,0,2,0,0
+"otherStats",0,0,0,0,0,0,0,1,0
+"CompilerStats",0,0,0,0,1,1,0,0,0
+"startTime",0,0,0,1,0,0,0,1,0
+"endTime",0,0,0,1,0,0,0,1,0
+"compareTo",0,0,0,0,0,0,0,0,0
+"elapsedTime",1,1,1,0,0,0,0,0,0
+"o",0,0,1,0,0,0,0,0,0

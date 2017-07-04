@@ -1,0 +1,9 @@
+,"weka","BeanDescriptor","beans","Loader","LoaderCustomizer","gui","class","getBeanDescriptor"
+"weka",0,0,0,0,0,1,0,0
+"BeanDescriptor",0,0,0,0,0,0,0,1
+"beans",0,0,0,1,0,1,0,0
+"Loader",0,0,1,0,0,0,1,0
+"LoaderCustomizer",0,0,0,0,0,0,1,0
+"gui",1,0,1,0,0,0,0,0
+"class",0,2,0,1,1,0,0,0
+"getBeanDescriptor",0,0,0,0,0,0,0,0

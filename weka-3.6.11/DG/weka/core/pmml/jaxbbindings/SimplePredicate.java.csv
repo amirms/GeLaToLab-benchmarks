@@ -1,0 +1,11 @@
+,"getValue","extension","getExtension","field","ArrayList","getField","value","SimplePredicate","operator","getOperator"
+"getValue",0,0,0,0,0,0,0,0,0,0
+"extension",0,0,1,0,0,0,0,1,0,0
+"getExtension",0,0,0,0,0,0,0,0,0,0
+"field",0,0,0,0,0,1,0,1,0,0
+"ArrayList",0,1,0,0,0,0,0,0,0,0
+"getField",0,0,0,0,0,0,0,0,0,0
+"value",1,0,0,1,0,0,1,1,1,0
+"SimplePredicate",0,1,0,1,0,0,1,0,1,0
+"operator",0,0,0,0,0,0,0,1,0,1
+"getOperator",0,0,0,0,0,0,0,0,0,0

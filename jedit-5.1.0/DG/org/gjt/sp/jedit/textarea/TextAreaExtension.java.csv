@@ -1,0 +1,12 @@
+,"length","gfx","start","i","y","physicalLines","end","lineHeight","screenLine","firstLine","physicalLine"
+"length",0,0,0,0,0,1,0,0,0,0,0
+"gfx",0,2,0,0,0,0,0,0,0,0,0
+"start",0,0,1,0,0,0,0,0,0,0,0
+"i",0,0,1,0,0,2,1,0,1,0,0
+"y",0,0,0,0,2,0,0,0,0,0,0
+"physicalLines",1,0,0,0,0,0,0,0,0,0,1
+"end",0,0,0,0,0,0,1,0,0,0,0
+"lineHeight",0,0,0,0,1,0,0,0,0,0,0
+"screenLine",0,0,0,0,0,0,0,0,2,0,0
+"firstLine",0,0,0,0,0,0,0,0,1,0,0
+"physicalLine",0,0,0,0,0,0,0,0,0,0,0

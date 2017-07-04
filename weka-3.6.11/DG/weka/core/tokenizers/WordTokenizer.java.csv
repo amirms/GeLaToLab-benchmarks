@@ -1,0 +1,15 @@
+,"RevisionUtils","WordTokenizer","m_Tokenizer","tokenizer","args","StringTokenizer","s","extract","hasMoreElements","nextToken","options","getDelimiters","nextElement","getRevision"
+"RevisionUtils",0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"WordTokenizer",0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"m_Tokenizer",0,0,0,0,0,0,0,0,1,1,0,0,0,0
+"tokenizer",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"args",0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"StringTokenizer",0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"s",0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"extract",1,0,0,0,0,0,0,0,0,0,0,0,0,1
+"hasMoreElements",0,0,1,0,0,0,0,0,1,0,0,0,0,0
+"nextToken",0,0,1,0,0,0,0,0,0,0,0,0,1,0
+"options",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"getDelimiters",0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"nextElement",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"getRevision",0,0,0,0,0,0,0,0,0,0,0,0,0,0

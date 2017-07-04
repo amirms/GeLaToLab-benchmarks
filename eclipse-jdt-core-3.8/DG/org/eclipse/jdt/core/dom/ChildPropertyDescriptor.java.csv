@@ -1,0 +1,15 @@
+,"ChildPropertyDescriptor","getChildType","childType","nodeClass","childClass","isAssignableFrom","mandatory","arg0","ASTNode","cycleRisk","propertyId","class","isMandatory","StructuralPropertyDescriptor"
+"ChildPropertyDescriptor",0,0,0,0,2,0,2,0,0,2,0,0,0,0
+"getChildType",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"childType",0,0,0,0,1,0,0,1,0,0,0,0,0,0
+"nodeClass",0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"childClass",2,1,0,0,0,0,0,0,0,0,0,0,0,0
+"isAssignableFrom",0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"mandatory",2,0,0,0,0,0,1,0,0,0,0,0,1,0
+"arg0",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"ASTNode",0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"cycleRisk",2,0,0,0,0,0,0,0,0,2,0,0,0,0
+"propertyId",0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"class",0,0,0,0,0,1,0,0,1,0,0,0,0,0
+"isMandatory",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"StructuralPropertyDescriptor",0,0,0,0,0,0,0,0,0,0,0,0,0,0

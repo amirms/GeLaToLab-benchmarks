@@ -1,0 +1,14 @@
+,"extension","getExtension","getFunction","ArrayList","getField","getSqlWhere","groupField","field","sqlWhere","function","Aggregate","value","getGroupField"
+"extension",0,1,0,0,0,0,0,0,0,0,1,0,0
+"getExtension",0,0,0,0,0,0,0,0,0,0,0,0,0
+"getFunction",0,0,0,0,0,0,0,0,0,0,0,0,0
+"ArrayList",1,0,0,0,0,0,0,0,0,0,0,0,0
+"getField",0,0,0,0,0,0,0,0,0,0,0,0,0
+"getSqlWhere",0,0,0,0,0,0,0,0,0,0,0,0,0
+"groupField",0,0,0,0,0,0,0,0,0,0,1,0,1
+"field",0,0,0,0,1,0,0,0,0,0,1,0,0
+"sqlWhere",0,0,0,0,0,1,0,0,0,0,1,0,0
+"function",0,0,1,0,0,0,0,0,0,0,1,0,0
+"Aggregate",1,0,0,0,0,0,1,1,1,1,0,0,0
+"value",0,0,0,0,0,0,1,1,1,1,0,0,0
+"getGroupField",0,0,0,0,0,0,0,0,0,0,0,0,0

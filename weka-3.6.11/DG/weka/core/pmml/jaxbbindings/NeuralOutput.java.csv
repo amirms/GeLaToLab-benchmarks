@@ -1,0 +1,10 @@
+,"extension","getExtension","getDerivedField","outputNeuron","ArrayList","derivedField","getOutputNeuron","value","NeuralOutput"
+"extension",0,1,0,0,0,0,0,0,1
+"getExtension",0,0,0,0,0,0,0,0,0
+"getDerivedField",0,0,0,0,0,0,0,0,0
+"outputNeuron",0,0,0,0,0,0,1,0,1
+"ArrayList",1,0,0,0,0,0,0,0,0
+"derivedField",0,0,1,0,0,0,0,0,1
+"getOutputNeuron",0,0,0,0,0,0,0,0,0
+"value",0,0,0,1,0,1,0,0,0
+"NeuralOutput",1,0,0,1,0,1,0,0,0

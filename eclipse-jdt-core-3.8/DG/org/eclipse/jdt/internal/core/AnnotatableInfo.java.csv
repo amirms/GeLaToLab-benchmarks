@@ -1,0 +1,10 @@
+,"getNameSourceStart","nameEnd","getNameSourceEnd","nameStart","getNameRange","start","end","SourceRange","AnnotatableInfo"
+"getNameSourceStart",0,0,0,0,0,0,0,0,0
+"nameEnd",0,0,1,0,0,0,0,1,3
+"getNameSourceEnd",0,0,0,0,0,0,0,0,0
+"nameStart",1,0,0,0,0,0,0,2,4
+"getNameRange",0,0,0,0,0,0,0,0,0
+"start",0,0,0,1,0,0,0,0,0
+"end",0,1,0,0,0,0,0,0,0
+"SourceRange",0,0,0,0,1,0,0,0,0
+"AnnotatableInfo",0,3,0,4,0,0,0,0,0

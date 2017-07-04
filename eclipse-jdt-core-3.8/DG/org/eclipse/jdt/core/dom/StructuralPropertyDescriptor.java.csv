@@ -1,0 +1,15 @@
+,"getNodeClass","b","nodeClass","getName","isChildProperty","getId","isSimpleProperty","StringBuffer","isChildListProperty","arg0","toString","propertyId","append","StructuralPropertyDescriptor"
+"getNodeClass",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"b",0,0,0,0,0,0,0,0,0,0,1,0,8,0
+"nodeClass",1,0,1,1,0,0,0,0,0,0,0,0,0,4
+"getName",0,0,1,0,0,0,0,0,0,1,0,0,0,0
+"isChildProperty",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"getId",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"isSimpleProperty",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"StringBuffer",0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"isChildListProperty",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"arg0",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"toString",0,1,0,0,0,0,0,0,0,0,1,0,0,0
+"propertyId",0,0,0,0,0,1,0,0,0,1,0,1,0,4
+"append",0,8,0,0,0,0,0,0,0,0,0,0,0,0
+"StructuralPropertyDescriptor",0,0,4,0,1,0,1,0,1,0,0,4,0,0

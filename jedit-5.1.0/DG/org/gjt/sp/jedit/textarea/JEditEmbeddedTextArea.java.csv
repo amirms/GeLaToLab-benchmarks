@@ -1,0 +1,15 @@
+,"jEdit","instance","TextArea","JEditBuffer","EditPane","setMode","getPropertyManager","painter","mode","initPainter","ModeProvider","buffer","getMode","getPainter"
+"jEdit",0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"instance",0,0,0,0,0,0,0,0,0,0,1,0,1,0
+"TextArea",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"JEditBuffer",0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"EditPane",0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"setMode",0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"getPropertyManager",1,0,1,0,0,0,0,0,0,0,0,0,0,0
+"painter",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"mode",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"initPainter",0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"ModeProvider",0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"buffer",0,0,0,0,0,1,0,0,0,0,0,1,0,0
+"getMode",0,1,0,0,0,0,0,0,1,0,0,0,0,0
+"getPainter",0,0,0,0,0,0,0,1,0,0,0,0,0,0

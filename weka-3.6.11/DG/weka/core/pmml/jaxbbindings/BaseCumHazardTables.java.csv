@@ -1,0 +1,12 @@
+,"BaseCumHazardTables","getBaselineStratum","maxTime","extension","getExtension","getMaxTime","getBaselineCell","ArrayList","baselineStratum","value","baselineCell"
+"BaseCumHazardTables",0,0,1,1,0,0,0,0,1,0,1
+"getBaselineStratum",0,0,0,0,0,0,0,0,0,0,0
+"maxTime",1,0,0,0,0,1,0,0,0,0,0
+"extension",1,0,0,0,1,0,0,0,0,0,0
+"getExtension",0,0,0,0,0,0,0,0,0,0,0
+"getMaxTime",0,0,0,0,0,0,0,0,0,0,0
+"getBaselineCell",0,0,0,0,0,0,0,0,0,0,0
+"ArrayList",0,0,0,1,0,0,0,0,1,0,1
+"baselineStratum",1,1,0,0,0,0,0,0,0,0,0
+"value",0,0,1,0,0,0,0,0,0,0,0
+"baselineCell",1,0,0,0,0,0,1,0,0,0,0

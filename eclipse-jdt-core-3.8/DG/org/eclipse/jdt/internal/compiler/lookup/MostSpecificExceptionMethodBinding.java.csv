@@ -1,0 +1,12 @@
+,"original","MostSpecificExceptionMethodBinding","MethodBinding","originalMethod","selector","modifiers","parameters","mostSpecificExceptions","returnType","declaringClass","parameterNonNullness"
+"original",1,0,0,1,0,0,0,0,0,0,0
+"MostSpecificExceptionMethodBinding",0,0,0,2,0,0,0,0,0,0,1
+"MethodBinding",0,0,0,0,0,0,0,0,0,0,0
+"originalMethod",1,2,0,1,1,1,1,0,1,1,1
+"selector",0,0,1,1,0,0,0,0,0,0,0
+"modifiers",0,0,1,1,0,0,0,0,0,0,0
+"parameters",0,0,1,1,0,0,0,0,0,0,0
+"mostSpecificExceptions",0,0,1,0,0,0,0,0,0,0,0
+"returnType",0,0,1,1,0,0,0,0,0,0,0
+"declaringClass",0,0,1,1,0,0,0,0,0,0,0
+"parameterNonNullness",0,1,0,1,0,0,0,0,0,0,1

@@ -1,0 +1,13 @@
+,"phi","TrendExpoSmooth","getTrend","getPhi","array","smoothedValue","trend","getGamma","getArray","value","gamma","getSmoothedValue"
+"phi",0,1,0,1,0,0,0,0,0,0,0,0
+"TrendExpoSmooth",1,0,0,0,1,1,1,0,0,0,1,0
+"getTrend",0,0,0,0,0,0,0,0,0,0,0,0
+"getPhi",0,0,0,0,0,0,0,0,0,0,0,0
+"array",0,1,0,0,0,0,0,0,1,0,0,0
+"smoothedValue",0,1,0,0,0,0,0,0,0,0,0,1
+"trend",0,1,1,0,0,0,0,0,0,0,0,0
+"getGamma",0,0,0,0,0,0,0,0,0,0,0,0
+"getArray",0,0,0,0,0,0,0,0,0,0,0,0
+"value",1,0,0,0,1,1,1,0,0,0,1,0
+"gamma",0,1,0,0,0,0,0,1,0,0,0,0
+"getSmoothedValue",0,0,0,0,0,0,0,0,0,0,0,0

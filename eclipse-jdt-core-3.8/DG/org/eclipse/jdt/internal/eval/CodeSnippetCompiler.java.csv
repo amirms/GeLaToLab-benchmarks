@@ -1,0 +1,17 @@
+,"Compiler","CodeSnippetCompiler","compilerOptions","parseThreshold","requestor","codeSnippetEnd","problemReporter","environment","codeSnippetStart","parseLiteralExpressionsAsConstants","parser","evaluationContext","problemFactory","options","CodeSnippetParser","policy"
+"Compiler",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"CodeSnippetCompiler",0,0,0,1,0,2,2,0,2,0,2,2,0,2,0,0
+"compilerOptions",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"parseThreshold",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"requestor",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"codeSnippetEnd",0,2,0,0,0,1,0,0,0,0,0,0,0,0,2,0
+"problemReporter",0,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0
+"environment",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"codeSnippetStart",0,2,0,0,0,0,0,0,1,0,0,0,0,0,2,0
+"parseLiteralExpressionsAsConstants",0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0
+"parser",0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"evaluationContext",0,2,0,0,0,0,0,0,0,0,0,1,0,0,2,0
+"problemFactory",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"options",0,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+"CodeSnippetParser",0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+"policy",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,16 @@
+,"extension","getExtension","getCounts","numericInfo","getNUMARRAY","counts","ArrayList","getField","getWeighted","getNumericInfo","numarray","field","PartitionFieldStats","value","weighted"
+"extension",0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+"getExtension",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"getCounts",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"numericInfo",0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+"getNUMARRAY",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"counts",0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+"ArrayList",1,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"getField",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"getWeighted",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"getNumericInfo",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"numarray",0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+"field",0,0,0,0,0,0,0,1,0,0,0,0,1,0,0
+"PartitionFieldStats",1,0,0,1,0,1,0,0,0,0,1,1,0,0,1
+"value",0,0,0,1,0,1,0,0,0,0,0,1,0,0,1
+"weighted",0,0,0,0,0,0,0,0,1,0,0,0,1,0,0

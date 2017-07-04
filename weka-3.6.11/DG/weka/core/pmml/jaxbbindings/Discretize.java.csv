@@ -1,0 +1,16 @@
+,"extension","getExtension","defaultValue","dataType","getDataType","mapMissingTo","ArrayList","getField","getDiscretizeBin","getMapMissingTo","getDefaultValue","field","Discretize","discretizeBin","value"
+"extension",0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+"getExtension",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"defaultValue",0,0,0,0,0,0,0,0,0,0,1,0,1,0,0
+"dataType",0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+"getDataType",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"mapMissingTo",0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+"ArrayList",1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"getField",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"getDiscretizeBin",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"getMapMissingTo",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"getDefaultValue",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"field",0,0,0,0,0,0,0,1,0,0,0,0,1,0,0
+"Discretize",1,0,1,1,0,1,0,0,0,0,0,1,0,1,0
+"discretizeBin",0,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+"value",0,0,1,1,0,1,0,0,0,0,0,1,0,0,0

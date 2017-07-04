@@ -1,0 +1,11 @@
+,"fromValue","c","v","GAP","values","arg0","equals","toString","value","IllegalArgumentException"
+"fromValue",0,0,0,0,0,0,0,0,0,0
+"c",1,0,0,0,0,0,0,0,1,0
+"v",0,0,0,0,0,1,0,1,1,0
+"GAP",0,0,0,0,1,0,0,0,0,0
+"values",0,0,0,1,0,0,0,0,0,0
+"arg0",0,0,0,0,0,0,0,0,0,0
+"equals",0,0,0,0,0,0,0,0,1,0
+"toString",0,0,1,0,0,0,0,0,0,1
+"value",0,1,0,0,0,0,1,0,1,0
+"IllegalArgumentException",0,0,0,0,0,0,0,0,0,0

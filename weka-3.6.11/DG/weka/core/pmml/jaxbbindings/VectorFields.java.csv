@@ -1,0 +1,10 @@
+,"extension","getExtension","getNumberOfFields","getFieldRef","ArrayList","VectorFields","fieldRef","numberOfFields","value"
+"extension",0,1,0,0,0,1,0,0,0
+"getExtension",0,0,0,0,0,0,0,0,0
+"getNumberOfFields",0,0,0,0,0,0,0,0,0
+"getFieldRef",0,0,0,0,0,0,0,0,0
+"ArrayList",1,0,0,0,0,0,1,0,0
+"VectorFields",1,0,0,0,0,0,1,1,0
+"fieldRef",0,0,0,1,0,1,0,0,0
+"numberOfFields",0,0,1,0,0,1,0,0,0
+"value",0,0,0,0,0,0,0,1,0

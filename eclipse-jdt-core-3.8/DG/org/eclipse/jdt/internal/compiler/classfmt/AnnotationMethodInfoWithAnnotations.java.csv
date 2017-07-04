@@ -1,0 +1,16 @@
+,"AnnotationMethodInfo","AnnotationMethodInfoWithAnnotations","defaultValue","length","annotations","i","methodInfo","l","getAnnotations","toStringContent","arg0","reset","initialize","buffer","append"
+"AnnotationMethodInfo",0,0,0,0,0,0,0,0,0,1,0,1,1,0,0
+"AnnotationMethodInfoWithAnnotations",0,0,0,0,13,0,0,0,0,0,0,0,0,0,0
+"defaultValue",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"length",0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+"annotations",0,13,0,3,1,0,0,0,1,0,1,1,1,0,0
+"i",0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+"methodInfo",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"l",0,0,0,3,3,0,0,0,0,0,0,0,0,0,0
+"getAnnotations",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"toStringContent",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"arg0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"reset",1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"initialize",1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"buffer",0,0,0,0,0,0,0,0,0,0,0,0,0,1,2
+"append",0,0,0,0,0,0,0,0,0,0,0,0,0,2,0

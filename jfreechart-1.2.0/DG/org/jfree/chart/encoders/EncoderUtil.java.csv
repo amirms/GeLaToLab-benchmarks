@@ -1,0 +1,12 @@
+,"encode","image","ImageEncoderFactory","encodingAlpha","format","encodeAlpha","newInstance","imageEncoder","outputStream","bufferedImage","quality"
+"encode",4,0,0,0,0,0,0,8,0,0,0
+"image",0,0,0,0,0,0,0,0,0,8,0
+"ImageEncoderFactory",0,0,0,0,0,0,8,0,0,0,0
+"encodingAlpha",0,0,0,0,0,0,0,0,0,0,0
+"format",0,0,0,0,8,0,0,0,0,0,0
+"encodeAlpha",0,0,0,4,0,0,0,0,0,0,0
+"newInstance",0,0,8,0,0,0,0,8,0,0,0
+"imageEncoder",8,0,0,0,0,0,0,0,0,0,0
+"outputStream",0,0,0,0,0,0,0,0,4,0,0
+"bufferedImage",0,0,0,0,0,0,0,0,0,0,0
+"quality",0,0,0,0,0,0,0,0,0,0,4

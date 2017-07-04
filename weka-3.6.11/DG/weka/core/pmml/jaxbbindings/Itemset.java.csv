@@ -1,0 +1,14 @@
+,"extension","itemRef","getExtension","getItemRef","getSupport","ArrayList","getId","Itemset","numberOfItems","id","value","support","getNumberOfItems"
+"extension",0,0,1,0,0,0,0,1,0,0,0,0,0
+"itemRef",0,0,0,1,0,0,0,1,0,0,0,0,0
+"getExtension",0,0,0,0,0,0,0,0,0,0,0,0,0
+"getItemRef",0,0,0,0,0,0,0,0,0,0,0,0,0
+"getSupport",0,0,0,0,0,0,0,0,0,0,0,0,0
+"ArrayList",1,1,0,0,0,0,0,0,0,0,0,0,0
+"getId",0,0,0,0,0,0,0,0,0,0,0,0,0
+"Itemset",1,1,0,0,0,0,0,0,1,1,0,1,0
+"numberOfItems",0,0,0,0,0,0,0,1,0,0,0,0,1
+"id",0,0,0,0,0,0,1,1,0,0,0,0,0
+"value",0,0,0,0,0,0,0,0,1,1,0,1,0
+"support",0,0,0,0,1,0,0,1,0,0,0,0,0
+"getNumberOfItems",0,0,0,0,0,0,0,0,0,0,0,0,0

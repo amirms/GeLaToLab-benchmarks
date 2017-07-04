@@ -1,0 +1,12 @@
+,"that","ABSOLUTE","readResolve","RELATIVE","UnitType","obj","hashCode","arg0","equals","name","toString"
+"that",0,0,0,0,0,0,0,0,0,1,0
+"ABSOLUTE",0,0,1,0,2,1,0,0,0,0,0
+"readResolve",0,0,0,0,0,0,0,0,0,0,0
+"RELATIVE",0,0,1,0,2,1,0,0,0,0,0
+"UnitType",0,2,0,2,0,0,0,0,2,4,0
+"obj",1,0,0,0,0,0,0,0,0,0,0
+"hashCode",0,0,0,0,0,0,1,0,0,1,0
+"arg0",0,0,0,0,0,0,0,0,0,0,0
+"equals",0,0,0,0,2,0,0,0,0,1,0
+"name",1,0,0,0,4,0,1,1,1,1,1
+"toString",0,0,0,0,0,0,0,0,0,0,0

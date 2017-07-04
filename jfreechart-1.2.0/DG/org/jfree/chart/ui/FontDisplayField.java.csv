@@ -1,0 +1,11 @@
+,"getFontName","getSize","localizationResources","getDisplayFont","arg0","fontToString","FontDisplayField","displayFont","getString","font"
+"getFontName",0,0,0,0,0,1,0,0,0,1
+"getSize",0,0,0,0,0,1,0,0,0,1
+"localizationResources",0,0,0,0,0,0,0,0,1,0
+"getDisplayFont",0,0,0,0,0,0,0,0,0,0
+"arg0",0,0,0,0,0,0,0,0,0,0
+"fontToString",0,0,0,0,1,0,0,0,0,0
+"FontDisplayField",0,0,0,0,0,0,0,3,0,0
+"displayFont",0,0,0,1,0,0,3,0,0,1
+"getString",0,0,1,0,0,1,0,0,0,0
+"font",1,1,0,0,0,0,0,1,0,1

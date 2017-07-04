@@ -1,0 +1,16 @@
+,"VERIFIED_OK","ce","JavaModelException","IResourceStatus","getException","e","progressMonitor","run","BatchOperation","OPERATION_FAILED","JavaModelStatus","getStatus","runnable","verify","getCode"
+"VERIFIED_OK",0,0,0,0,0,0,0,0,0,0,1,0,0,1,0
+"ce",0,0,1,0,0,0,0,0,0,0,0,2,0,0,0
+"JavaModelException",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"IResourceStatus",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"getException",0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+"e",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"progressMonitor",0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+"run",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"BatchOperation",0,0,0,0,0,0,1,0,0,0,0,0,2,0,0
+"OPERATION_FAILED",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"JavaModelStatus",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"getStatus",0,2,0,0,1,0,0,0,0,0,0,0,0,0,1
+"runnable",0,0,0,0,0,0,0,1,2,0,0,0,1,0,0
+"verify",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"getCode",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0

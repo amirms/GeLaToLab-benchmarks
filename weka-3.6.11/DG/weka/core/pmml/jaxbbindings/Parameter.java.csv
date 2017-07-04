@@ -1,0 +1,12 @@
+,"extension","getExtension","getLabel","getName","ArrayList","name","Parameter","getReferencePoint","label","value","referencePoint"
+"extension",0,1,0,0,0,0,1,0,0,0,0
+"getExtension",0,0,0,0,0,0,0,0,0,0,0
+"getLabel",0,0,0,0,0,0,0,0,0,0,0
+"getName",0,0,0,0,0,0,0,0,0,0,0
+"ArrayList",1,0,0,0,0,0,0,0,0,0,0
+"name",0,0,0,1,0,0,1,0,0,0,0
+"Parameter",1,0,0,0,0,1,0,0,1,0,1
+"getReferencePoint",0,0,0,0,0,0,0,0,0,0,0
+"label",0,0,1,0,0,0,1,0,0,0,0
+"value",0,0,0,0,0,1,0,0,1,0,1
+"referencePoint",0,0,0,0,0,0,1,1,0,0,0

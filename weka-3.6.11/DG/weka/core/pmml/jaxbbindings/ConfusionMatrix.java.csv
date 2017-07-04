@@ -1,0 +1,10 @@
+,"extension","getExtension","getMatrix","ConfusionMatrix","classLabels","ArrayList","getClassLabels","matrix","value"
+"extension",0,1,0,1,0,0,0,0,0
+"getExtension",0,0,0,0,0,0,0,0,0
+"getMatrix",0,0,0,0,0,0,0,0,0
+"ConfusionMatrix",1,0,0,0,1,0,0,1,0
+"classLabels",0,0,0,1,0,0,1,0,0
+"ArrayList",1,0,0,0,0,0,0,0,0
+"getClassLabels",0,0,0,0,0,0,0,0,0
+"matrix",0,0,1,1,0,0,0,0,0
+"value",0,0,0,0,1,0,0,1,0

@@ -1,0 +1,9 @@
+,"initializationSource","getInitializationSource","getTypeSignature","Signature","typeName","SourceFieldElementInfo","getTypeName","createTypeSignature"
+"initializationSource",0,1,0,0,0,1,0,0
+"getInitializationSource",0,0,0,0,0,0,0,0
+"getTypeSignature",0,0,0,0,0,0,0,0
+"Signature",0,0,0,0,0,0,0,1
+"typeName",0,0,0,0,2,3,1,0
+"SourceFieldElementInfo",1,0,0,0,3,0,0,0
+"getTypeName",0,0,0,0,0,0,0,0
+"createTypeSignature",0,0,1,1,0,0,0,0

@@ -1,0 +1,12 @@
+,"Comment","ast","getAlternateRoot","root","ASTNode","isBlockComment","isDocComment","isLineComment","alternateRoot","BASE_NODE_SIZE","memSize"
+"Comment",0,0,0,0,0,1,1,1,2,0,0
+"ast",0,0,0,0,1,0,0,0,0,0,0
+"getAlternateRoot",0,0,0,0,0,0,0,0,0,0,0
+"root",0,0,0,0,0,0,0,0,1,0,0
+"ASTNode",0,0,0,0,0,0,0,0,0,0,0
+"isBlockComment",0,0,0,0,0,0,0,0,0,0,0
+"isDocComment",0,0,0,0,0,0,0,0,0,0,0
+"isLineComment",0,0,0,0,0,0,0,0,0,0,0
+"alternateRoot",2,0,1,0,0,0,0,0,0,0,0
+"BASE_NODE_SIZE",0,0,0,0,0,0,0,0,0,0,1
+"memSize",0,0,0,0,0,0,0,0,0,0,0

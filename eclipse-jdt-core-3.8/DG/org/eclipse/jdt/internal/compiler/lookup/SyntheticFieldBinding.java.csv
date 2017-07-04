@@ -1,0 +1,13 @@
+,"constant","tagBits","name","FieldBinding","SyntheticFieldBinding","index","DeprecatedAnnotationResolved","type","modifiers","TagBits","AnnotationResolved","declaringClass"
+"constant",0,0,0,1,0,0,0,0,0,0,0,0
+"tagBits",0,0,0,0,1,0,0,0,0,0,0,0
+"name",0,0,0,1,0,0,0,0,0,0,0,0
+"FieldBinding",0,0,0,0,0,0,0,0,0,0,0,0
+"SyntheticFieldBinding",0,1,0,0,0,1,0,0,0,0,0,0
+"index",0,0,0,0,1,1,0,0,0,0,0,0
+"DeprecatedAnnotationResolved",0,1,0,0,0,0,0,0,0,1,0,0
+"type",0,0,0,1,0,0,0,0,0,0,0,0
+"modifiers",0,0,0,1,0,0,0,0,0,0,0,0
+"TagBits",0,0,0,0,0,0,1,0,0,0,1,0
+"AnnotationResolved",0,1,0,0,0,0,0,0,0,1,0,0
+"declaringClass",0,0,0,1,0,0,0,0,0,0,0,0

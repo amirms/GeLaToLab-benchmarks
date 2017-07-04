@@ -1,0 +1,17 @@
+,"printStackTrace","Join","EventSetDescriptor","DataSourceListener","getBeanDescriptor","DataSource","esds","ex","weka","BeanDescriptor","beans","getEventSetDescriptors","gui","InstanceListener","JoinCustomizer","class"
+"printStackTrace",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"Join",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+"EventSetDescriptor",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+"DataSourceListener",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"getBeanDescriptor",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"DataSource",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+"esds",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"ex",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"weka",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"BeanDescriptor",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"beans",0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"getEventSetDescriptors",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"gui",0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0
+"InstanceListener",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"JoinCustomizer",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"class",0,1,4,1,0,2,0,0,0,2,0,0,0,1,1,0

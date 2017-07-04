@@ -1,0 +1,10 @@
+,"getSequenceReference","extension","getExtension","getTime","ArrayList","AntecedentSequence","sequenceReference","time","value"
+"getSequenceReference",0,0,0,0,0,0,0,0,0
+"extension",0,0,1,0,0,1,0,0,0
+"getExtension",0,0,0,0,0,0,0,0,0
+"getTime",0,0,0,0,0,0,0,0,0
+"ArrayList",0,1,0,0,0,0,0,0,0
+"AntecedentSequence",0,1,0,0,0,0,1,1,0
+"sequenceReference",1,0,0,0,0,1,0,0,0
+"time",0,0,0,1,0,1,0,0,0
+"value",0,0,0,0,0,0,1,1,0

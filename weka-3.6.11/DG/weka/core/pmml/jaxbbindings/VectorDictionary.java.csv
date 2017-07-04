@@ -1,0 +1,12 @@
+,"extension","VectorDictionary","getExtension","getVectorInstance","vectorFields","ArrayList","getVectorFields","vectorInstance","getNumberOfVectors","value","numberOfVectors"
+"extension",0,1,1,0,0,0,0,0,0,0,0
+"VectorDictionary",1,0,0,0,1,0,0,1,0,0,1
+"getExtension",0,0,0,0,0,0,0,0,0,0,0
+"getVectorInstance",0,0,0,0,0,0,0,0,0,0,0
+"vectorFields",0,1,0,0,0,0,1,0,0,0,0
+"ArrayList",1,0,0,0,0,0,0,1,0,0,0
+"getVectorFields",0,0,0,0,0,0,0,0,0,0,0
+"vectorInstance",0,1,0,1,0,0,0,0,0,0,0
+"getNumberOfVectors",0,0,0,0,0,0,0,0,0,0,0
+"value",0,0,0,0,1,0,0,0,0,0,1
+"numberOfVectors",0,1,0,0,0,0,0,0,1,0,0

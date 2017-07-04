@@ -1,0 +1,14 @@
+,"extension","getExtension","precision","getZeroThreshold","ArrayList","column","getField","zeroThreshold","VerificationField","getPrecision","field","getColumn","value"
+"extension",0,1,0,0,0,0,0,0,1,0,0,0,0
+"getExtension",0,0,0,0,0,0,0,0,0,0,0,0,0
+"precision",0,0,0,0,0,0,0,0,1,1,0,0,0
+"getZeroThreshold",0,0,0,0,0,0,0,0,0,0,0,0,0
+"ArrayList",1,0,0,0,0,0,0,0,0,0,0,0,0
+"column",0,0,0,0,0,0,0,0,1,0,0,1,0
+"getField",0,0,0,0,0,0,0,0,0,0,0,0,0
+"zeroThreshold",0,0,0,1,0,0,0,0,1,0,0,0,0
+"VerificationField",1,0,1,0,0,1,0,1,0,0,1,0,0
+"getPrecision",0,0,0,0,0,0,0,0,0,0,0,0,0
+"field",0,0,0,0,0,0,1,0,1,0,0,0,0
+"getColumn",0,0,0,0,0,0,0,0,0,0,0,0,0
+"value",0,0,1,0,0,1,0,1,0,0,1,0,0

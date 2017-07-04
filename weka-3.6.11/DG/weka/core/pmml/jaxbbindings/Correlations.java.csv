@@ -1,0 +1,12 @@
+,"extension","getExtension","correlationValues","getCorrelationValues","Correlations","ArrayList","correlationFields","value","correlationMethods","getCorrelationFields","getCorrelationMethods"
+"extension",0,1,0,0,1,0,0,0,0,0,0
+"getExtension",0,0,0,0,0,0,0,0,0,0,0
+"correlationValues",0,0,0,1,1,0,0,0,0,0,0
+"getCorrelationValues",0,0,0,0,0,0,0,0,0,0,0
+"Correlations",1,0,1,0,0,0,1,0,1,0,0
+"ArrayList",1,0,0,0,0,0,0,0,0,0,0
+"correlationFields",0,0,0,0,1,0,0,0,0,1,0
+"value",0,0,1,0,0,0,1,0,1,0,0
+"correlationMethods",0,0,0,0,1,0,0,0,0,0,1
+"getCorrelationFields",0,0,0,0,0,0,0,0,0,0,0
+"getCorrelationMethods",0,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,8 @@
+,"nameEnd","nameStart","getNameRange","start","end","ImportDeclarationElementInfo","SourceRange"
+"nameEnd",0,0,0,0,0,2,1
+"nameStart",0,0,0,0,0,3,2
+"getNameRange",0,0,0,0,0,0,0
+"start",0,1,0,0,0,0,0
+"end",1,0,0,0,0,0,0
+"ImportDeclarationElementInfo",2,3,0,0,0,0,0
+"SourceRange",0,0,1,0,0,0,0

@@ -1,0 +1,8 @@
+,"CorrelationFields","extension","getExtension","array","ArrayList","getArray","value"
+"CorrelationFields",0,1,0,1,0,0,0
+"extension",1,0,1,0,0,0,0
+"getExtension",0,0,0,0,0,0,0
+"array",1,0,0,0,0,1,0
+"ArrayList",0,1,0,0,0,0,0
+"getArray",0,0,0,0,0,0,0
+"value",0,0,0,1,0,0,0

@@ -1,0 +1,13 @@
+,"getStartPosition","node","cu","root","computeSourceRange","length","getExtendedStartPosition","getLength","getExtendedLength","SourceRange","getRoot","startPosition"
+"getStartPosition",0,1,0,0,0,0,0,0,0,1,0,0
+"node",1,2,0,0,0,0,0,1,0,0,1,0
+"cu",0,0,0,0,0,0,1,0,1,0,0,0
+"root",0,0,1,0,0,0,0,0,0,0,0,0
+"computeSourceRange",0,0,0,0,0,0,0,0,0,0,0,0
+"length",0,0,0,0,0,1,0,1,0,2,0,0
+"getExtendedStartPosition",0,0,1,0,0,0,0,0,0,1,0,0
+"getLength",0,1,0,0,0,0,0,0,0,1,0,0
+"getExtendedLength",0,0,1,0,0,0,0,0,0,1,0,0
+"SourceRange",0,0,0,0,2,2,0,0,0,0,0,2
+"getRoot",0,1,0,1,0,0,0,0,0,0,0,0
+"startPosition",1,0,0,0,0,0,0,0,0,2,0,1

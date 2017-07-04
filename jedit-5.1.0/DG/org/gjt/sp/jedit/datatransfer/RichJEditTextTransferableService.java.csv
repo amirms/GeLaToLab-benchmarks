@@ -1,0 +1,9 @@
+,"getName","getBuffer","RichTextTransferable","text","getMode","textArea","accept","getTransferable"
+"getName",0,0,1,0,1,0,0,0
+"getBuffer",0,0,0,0,1,1,0,0
+"RichTextTransferable",0,0,0,0,0,0,0,1
+"text",0,0,1,0,0,0,0,0
+"getMode",1,1,0,0,0,0,0,0
+"textArea",0,1,0,0,0,0,1,0
+"accept",0,0,0,0,0,0,0,0
+"getTransferable",0,0,0,0,0,0,0,0

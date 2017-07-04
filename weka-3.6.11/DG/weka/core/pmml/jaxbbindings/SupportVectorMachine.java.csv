@@ -1,0 +1,16 @@
+,"getSupportVectors","extension","getExtension","ArrayList","SupportVectorMachine","threshold","getAlternateTargetCategory","getCoefficients","getTargetCategory","alternateTargetCategory","targetCategory","coefficients","getThreshold","value","supportVectors"
+"getSupportVectors",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"extension",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+"getExtension",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"ArrayList",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"SupportVectorMachine",0,1,0,0,0,1,0,0,0,1,1,1,0,0,1
+"threshold",0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+"getAlternateTargetCategory",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"getCoefficients",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"getTargetCategory",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"alternateTargetCategory",0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+"targetCategory",0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+"coefficients",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+"getThreshold",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"value",0,0,0,0,0,1,0,0,0,1,1,1,0,0,1
+"supportVectors",1,0,0,0,1,0,0,0,0,0,0,0,0,0,0

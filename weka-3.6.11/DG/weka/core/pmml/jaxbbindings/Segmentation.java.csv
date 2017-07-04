@@ -1,0 +1,10 @@
+,"extension","getExtension","Segmentation","segment","multipleModelMethod","ArrayList","getMultipleModelMethod","getSegment","value"
+"extension",0,1,1,0,0,0,0,0,0
+"getExtension",0,0,0,0,0,0,0,0,0
+"Segmentation",1,0,0,1,1,0,0,0,0
+"segment",0,0,1,0,0,0,0,1,0
+"multipleModelMethod",0,0,1,0,0,0,1,0,0
+"ArrayList",1,0,0,1,0,0,0,0,0
+"getMultipleModelMethod",0,0,0,0,0,0,0,0,0
+"getSegment",0,0,0,0,0,0,0,0,0
+"value",0,0,0,0,1,0,0,0,0

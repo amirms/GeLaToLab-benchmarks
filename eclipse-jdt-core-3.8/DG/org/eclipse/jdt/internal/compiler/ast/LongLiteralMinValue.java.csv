@@ -1,0 +1,13 @@
+,"LongConstant","fromValue","constant","LongLiteral","LongLiteralMinValue","start","Long","reducedForm","end","MIN_VALUE","value","token"
+"LongConstant",0,1,0,0,0,0,0,0,0,0,0,0
+"fromValue",1,0,1,0,0,0,0,0,0,0,0,0
+"constant",0,0,0,0,1,0,0,0,0,0,0,0
+"LongLiteral",0,0,0,0,0,0,0,0,0,0,0,0
+"LongLiteralMinValue",0,0,1,0,0,0,0,0,0,0,0,0
+"start",0,0,0,1,0,0,0,0,0,0,0,0
+"Long",0,0,0,0,0,0,0,0,0,1,0,0
+"reducedForm",0,0,0,1,0,0,0,0,0,0,0,0
+"end",0,0,0,1,0,0,0,0,0,0,0,0
+"MIN_VALUE",0,0,0,0,0,0,1,0,0,0,1,0
+"value",0,0,0,0,0,0,0,0,0,0,0,0
+"token",0,0,0,1,0,0,0,0,0,0,0,0

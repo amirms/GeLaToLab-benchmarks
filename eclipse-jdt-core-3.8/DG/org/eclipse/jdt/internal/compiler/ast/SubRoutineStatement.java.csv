@@ -1,0 +1,15 @@
+,"sub","ExceptionLabel","max","SubRoutineStatement","placeStart","length","i","codeStream","anyExceptionLabel","enterDeclaredExceptionHandlers","enterAnyExceptionHandler","placeEnd","subroutines","place"
+"sub",0,0,0,0,0,0,0,0,0,1,1,0,0,0
+"ExceptionLabel",0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"max",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"SubRoutineStatement",0,0,0,0,0,0,0,0,7,0,0,0,0,0
+"placeStart",0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"length",0,0,1,0,0,0,0,0,0,0,0,0,1,0
+"i",0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"codeStream",0,1,0,0,0,0,0,2,0,0,0,0,0,0
+"anyExceptionLabel",0,0,0,7,1,0,0,0,0,0,1,1,0,1
+"enterDeclaredExceptionHandlers",1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"enterAnyExceptionHandler",1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"placeEnd",0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"subroutines",1,0,0,0,0,1,0,0,0,0,0,0,0,0
+"place",0,0,0,0,0,0,0,0,1,0,0,0,0,0

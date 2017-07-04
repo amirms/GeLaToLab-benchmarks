@@ -1,0 +1,12 @@
+,"FoldHandler","getClass","getName","getFoldModes","hashCode","getFoldHandler","equals","name","toString","o","foldHandlerProvider"
+"FoldHandler",0,0,0,0,0,0,0,1,0,0,0
+"getClass",0,0,0,0,1,0,2,0,0,1,0
+"getName",0,0,0,0,0,0,0,0,0,0,0
+"getFoldModes",0,0,0,1,0,0,0,0,0,0,1
+"hashCode",0,1,0,0,1,0,0,0,0,0,0
+"getFoldHandler",0,0,0,0,0,1,0,0,0,0,1
+"equals",0,0,0,0,0,0,0,0,0,0,0
+"name",1,0,1,0,0,0,0,2,1,0,0
+"toString",0,0,0,0,0,0,0,0,0,0,0
+"o",0,1,0,0,0,0,0,0,0,0,0
+"foldHandlerProvider",0,0,0,1,0,1,0,0,0,0,0

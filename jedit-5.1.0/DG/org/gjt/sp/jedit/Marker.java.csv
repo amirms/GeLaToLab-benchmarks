@@ -1,0 +1,11 @@
+,"shortcut","getPosition","offset","pos","getOffset","createPosition","position","Marker","buffer","getShortcut"
+"shortcut",2,0,0,0,0,0,0,2,0,1
+"getPosition",0,0,0,0,0,0,0,0,0,0
+"offset",0,0,0,0,0,0,0,0,0,0
+"pos",0,1,1,1,0,0,0,2,0,0
+"getOffset",0,1,0,1,0,0,2,0,0,0
+"createPosition",0,0,0,0,0,0,1,0,1,0
+"position",0,1,0,1,2,0,0,0,0,0
+"Marker",2,0,0,2,0,0,0,0,1,0
+"buffer",0,0,0,0,0,1,0,1,1,0
+"getShortcut",0,0,0,0,0,0,0,0,0,0

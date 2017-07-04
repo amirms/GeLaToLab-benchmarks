@@ -1,0 +1,12 @@
+,"ChartFrame","JScrollPane","WindowConstants","ChartPanel","JFrame","chartPanel","arg0","getChartPanel","title","chart","DISPOSE_ON_CLOSE"
+"ChartFrame",0,0,0,0,0,4,0,0,0,0,0
+"JScrollPane",0,0,0,0,0,0,1,0,0,0,0
+"WindowConstants",0,0,0,0,0,0,0,0,0,0,1
+"ChartPanel",0,0,0,0,0,1,0,0,0,0,0
+"JFrame",0,0,0,0,0,0,0,0,0,0,0
+"chartPanel",4,1,0,0,0,0,1,1,0,0,0
+"arg0",0,0,0,0,0,0,0,0,0,0,0
+"getChartPanel",0,0,0,0,0,0,0,0,0,0,0
+"title",1,0,0,0,1,0,0,0,0,0,0
+"chart",1,0,0,1,0,0,0,0,0,0,0
+"DISPOSE_ON_CLOSE",0,0,1,0,0,0,1,0,0,0,0

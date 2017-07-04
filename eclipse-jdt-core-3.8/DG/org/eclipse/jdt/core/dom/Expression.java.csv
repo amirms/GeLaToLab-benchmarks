@@ -1,0 +1,11 @@
+,"resolveTypeBinding","resolveUnboxing","ast","expression","Expression","getBindingResolver","resolveBoxing","resolveExpressionType","ASTNode","resolveConstantExpressionValue"
+"resolveTypeBinding",0,0,0,0,0,0,0,0,0,0
+"resolveUnboxing",0,1,0,0,0,1,0,0,0,0
+"ast",0,0,0,0,4,4,0,0,1,0
+"expression",0,0,0,0,0,0,0,0,0,0
+"Expression",0,0,4,4,0,0,0,0,0,0
+"getBindingResolver",0,1,4,0,0,0,1,1,0,1
+"resolveBoxing",0,0,0,0,0,1,1,0,0,0
+"resolveExpressionType",1,0,0,0,0,1,0,0,0,0
+"ASTNode",0,0,0,0,0,0,0,0,0,0
+"resolveConstantExpressionValue",0,0,0,0,0,1,0,0,0,1

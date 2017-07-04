@@ -1,0 +1,14 @@
+,"ModelVerification","fieldCount","extension","getExtension","recordCount","ArrayList","verificationFields","getVerificationFields","getRecordCount","value","getFieldCount","inlineTable","getInlineTable"
+"ModelVerification",0,1,1,0,1,0,1,0,0,0,0,1,0
+"fieldCount",1,0,0,0,0,0,0,0,0,0,1,0,0
+"extension",1,0,0,1,0,0,0,0,0,0,0,0,0
+"getExtension",0,0,0,0,0,0,0,0,0,0,0,0,0
+"recordCount",1,0,0,0,0,0,0,0,1,0,0,0,0
+"ArrayList",0,0,1,0,0,0,0,0,0,0,0,0,0
+"verificationFields",1,0,0,0,0,0,0,1,0,0,0,0,0
+"getVerificationFields",0,0,0,0,0,0,0,0,0,0,0,0,0
+"getRecordCount",0,0,0,0,0,0,0,0,0,0,0,0,0
+"value",0,1,0,0,1,0,1,0,0,0,0,1,0
+"getFieldCount",0,0,0,0,0,0,0,0,0,0,0,0,0
+"inlineTable",1,0,0,0,0,0,0,0,0,0,0,0,1
+"getInlineTable",0,0,0,0,0,0,0,0,0,0,0,0,0

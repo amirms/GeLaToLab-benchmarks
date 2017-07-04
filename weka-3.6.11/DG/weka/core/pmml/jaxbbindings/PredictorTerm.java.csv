@@ -1,0 +1,12 @@
+,"PredictorTerm","extension","getExtension","getName","getFieldRef","ArrayList","coefficient","name","fieldRef","getCoefficient","value"
+"PredictorTerm",0,1,0,0,0,0,1,1,1,0,0
+"extension",1,0,1,0,0,0,0,0,0,0,0
+"getExtension",0,0,0,0,0,0,0,0,0,0,0
+"getName",0,0,0,0,0,0,0,0,0,0,0
+"getFieldRef",0,0,0,0,0,0,0,0,0,0,0
+"ArrayList",0,1,0,0,0,0,0,0,1,0,0
+"coefficient",1,0,0,0,0,0,0,0,0,1,0
+"name",1,0,0,1,0,0,0,0,0,0,0
+"fieldRef",1,0,0,0,1,0,0,0,0,0,0
+"getCoefficient",0,0,0,0,0,0,0,0,0,0,0
+"value",0,0,0,0,0,0,1,1,0,0,0

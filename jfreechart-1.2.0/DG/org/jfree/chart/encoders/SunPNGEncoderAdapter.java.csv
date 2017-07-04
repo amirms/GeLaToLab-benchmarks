@@ -1,0 +1,13 @@
+,"encode","arg2","arg1","toByteArray","arg0","PNG","ByteArrayOutputStream","outputStream","write","bufferedImage","ImageFormat","ImageIO"
+"encode",0,0,0,0,0,0,0,0,0,0,0,0
+"arg2",0,0,0,0,0,0,0,0,0,0,0,0
+"arg1",0,0,0,0,0,0,0,0,0,0,0,0
+"toByteArray",1,0,0,0,0,0,0,1,0,0,0,0
+"arg0",0,0,0,0,0,0,0,0,0,0,0,0
+"PNG",0,0,1,0,0,0,0,0,0,0,1,0
+"ByteArrayOutputStream",0,0,0,0,0,0,0,1,0,0,0,0
+"outputStream",0,1,0,1,0,0,0,1,0,0,0,0
+"write",0,0,0,0,0,0,0,0,0,0,0,1
+"bufferedImage",0,0,0,0,1,0,0,0,0,1,0,0
+"ImageFormat",0,0,0,0,0,1,0,0,0,0,0,0
+"ImageIO",0,0,0,0,0,0,0,0,1,0,0,0

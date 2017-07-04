@@ -1,0 +1,10 @@
+,"extension","getExtension","Delimiter","delimiter","gap","ArrayList","getGap","value","getDelimiter"
+"extension",0,1,1,0,0,0,0,0,0
+"getExtension",0,0,0,0,0,0,0,0,0
+"Delimiter",1,0,0,1,1,0,0,0,0
+"delimiter",0,0,1,0,0,0,0,0,1
+"gap",0,0,1,0,0,0,1,0,0
+"ArrayList",1,0,0,0,0,0,0,0,0
+"getGap",0,0,0,0,0,0,0,0,0
+"value",0,0,0,1,1,0,0,0,0
+"getDelimiter",0,0,0,0,0,0,0,0,0

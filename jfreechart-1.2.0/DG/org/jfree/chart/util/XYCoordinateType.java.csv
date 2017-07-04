@@ -1,0 +1,12 @@
+,"readResolve","DATA","RELATIVE","obj","arg0","equals","name","toString","INDEX","XYCoordinateType","order"
+"readResolve",0,0,0,0,0,0,0,0,0,0,0
+"DATA",1,0,0,1,0,0,0,0,0,2,0
+"RELATIVE",1,0,0,1,0,0,0,0,0,2,0
+"obj",0,0,0,0,0,0,0,0,0,0,1
+"arg0",0,0,0,0,0,0,0,0,0,0,0
+"equals",0,0,0,0,0,0,1,0,0,3,0
+"name",0,0,0,0,0,1,1,1,0,3,0
+"toString",0,0,0,0,1,0,0,0,0,0,1
+"INDEX",1,0,0,1,0,0,0,0,0,2,0
+"XYCoordinateType",0,2,2,0,0,3,3,0,2,0,0
+"order",0,0,0,0,0,0,0,1,0,0,0

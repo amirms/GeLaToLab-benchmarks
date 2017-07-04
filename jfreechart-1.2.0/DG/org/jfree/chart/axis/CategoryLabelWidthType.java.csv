@@ -1,0 +1,11 @@
+,"CategoryLabelWidthType","readResolve","t","obj","CATEGORY","arg0","equals","name","toString","RANGE"
+"CategoryLabelWidthType",0,0,0,0,2,0,2,3,0,2
+"readResolve",0,0,0,0,0,0,0,0,0,0
+"t",0,0,0,0,0,0,0,0,1,0
+"obj",0,0,1,0,0,0,0,0,0,0
+"CATEGORY",2,1,0,1,0,0,0,0,0,0
+"arg0",0,0,0,0,0,0,0,0,0,0
+"equals",2,0,0,0,0,0,0,1,0,0
+"name",3,0,0,0,0,0,1,1,1,0
+"toString",0,0,1,0,0,1,0,0,0,0
+"RANGE",2,1,0,1,0,0,0,0,0,0

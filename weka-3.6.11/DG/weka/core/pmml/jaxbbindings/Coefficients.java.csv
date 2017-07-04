@@ -1,0 +1,12 @@
+,"extension","getExtension","absoluteValue","getNumberOfCoefficients","ArrayList","coefficient","numberOfCoefficients","Coefficients","getCoefficient","getAbsoluteValue","value"
+"extension",0,1,0,0,0,0,0,1,0,0,0
+"getExtension",0,0,0,0,0,0,0,0,0,0,0
+"absoluteValue",0,0,0,0,0,0,0,1,0,1,0
+"getNumberOfCoefficients",0,0,0,0,0,0,0,0,0,0,0
+"ArrayList",1,0,0,0,0,1,0,0,0,0,0
+"coefficient",0,0,0,0,0,0,0,1,1,0,0
+"numberOfCoefficients",0,0,0,1,0,0,0,1,0,0,0
+"Coefficients",1,0,1,0,0,1,1,0,0,0,0
+"getCoefficient",0,0,0,0,0,0,0,0,0,0,0
+"getAbsoluteValue",0,0,0,0,0,0,0,0,0,0,0
+"value",0,0,1,0,0,0,1,0,0,0,0

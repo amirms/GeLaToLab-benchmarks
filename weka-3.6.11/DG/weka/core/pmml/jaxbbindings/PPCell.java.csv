@@ -1,0 +1,13 @@
+,"predictorName","getTargetCategory","getParameterName","getValue","extension","targetCategory","getExtension","getPredictorName","ArrayList","PPCell","parameterName","value"
+"predictorName",0,0,0,0,0,0,0,1,0,1,0,0
+"getTargetCategory",0,0,0,0,0,0,0,0,0,0,0,0
+"getParameterName",0,0,0,0,0,0,0,0,0,0,0,0
+"getValue",0,0,0,0,0,0,0,0,0,0,0,0
+"extension",0,0,0,0,0,0,1,0,0,1,0,0
+"targetCategory",0,1,0,0,0,0,0,0,0,1,0,0
+"getExtension",0,0,0,0,0,0,0,0,0,0,0,0
+"getPredictorName",0,0,0,0,0,0,0,0,0,0,0,0
+"ArrayList",0,0,0,0,1,0,0,0,0,0,0,0
+"PPCell",1,0,0,0,1,1,0,0,0,0,1,1
+"parameterName",0,0,1,0,0,0,0,0,0,1,0,0
+"value",1,0,0,1,0,1,0,0,0,1,1,1

@@ -1,0 +1,12 @@
+,"DateTickMarkPosition","readResolve","obj","arg0","equals","name","toString","START","END","position","MIDDLE"
+"DateTickMarkPosition",0,0,0,0,3,3,0,2,2,0,2
+"readResolve",0,0,0,0,0,0,0,0,0,0,0
+"obj",0,0,0,0,0,0,0,0,0,1,0
+"arg0",0,0,0,0,0,0,0,0,0,0,0
+"equals",3,0,0,0,0,1,0,0,0,0,0
+"name",3,0,0,0,1,1,1,0,0,0,0
+"toString",0,0,0,1,0,0,0,0,0,1,0
+"START",2,1,1,0,0,0,0,0,0,0,0
+"END",2,1,1,0,0,0,0,0,0,0,0
+"position",0,0,0,0,0,0,1,0,0,0,0
+"MIDDLE",2,1,1,0,0,0,0,0,0,0,0

@@ -1,0 +1,15 @@
+,"supportedDataFlavor","JEditRichText","jEditRichTextDataFlavor","getTransferData","UnsupportedFlavorException","mode","flavor","isDataFlavorSupported","JEditDataFlavor","arg0","equals","RichTextTransferable","text","getTransferDataFlavors"
+"supportedDataFlavor",0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"JEditRichText",0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"jEditRichTextDataFlavor",0,0,0,0,0,0,0,0,1,0,1,0,0,0
+"getTransferData",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"UnsupportedFlavorException",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"mode",0,1,0,0,0,1,0,0,0,0,0,1,0,0
+"flavor",0,0,0,0,1,0,1,0,0,1,0,0,0,0
+"isDataFlavorSupported",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"JEditDataFlavor",0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"arg0",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"equals",0,0,1,0,0,0,0,1,0,0,0,0,0,0
+"RichTextTransferable",0,0,0,0,0,1,0,0,0,0,0,0,1,0
+"text",0,1,0,0,0,0,0,0,0,0,0,1,1,0
+"getTransferDataFlavors",0,0,0,0,0,0,0,0,0,0,0,0,0,0

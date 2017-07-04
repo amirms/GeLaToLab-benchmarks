@@ -1,0 +1,15 @@
+,"extension","TargetValue","getExtension","defaultValue","ArrayList","priorProbability","getDefaultValue","displayValue","getValue","getPartition","partition","getDisplayValue","value","getPriorProbability"
+"extension",0,1,1,0,0,0,0,0,0,0,0,0,0,0
+"TargetValue",1,0,0,1,0,1,0,1,0,0,1,0,1,0
+"getExtension",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"defaultValue",0,1,0,0,0,0,1,0,0,0,0,0,0,0
+"ArrayList",1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"priorProbability",0,1,0,0,0,0,0,0,0,0,0,0,0,1
+"getDefaultValue",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"displayValue",0,1,0,0,0,0,0,0,0,0,0,1,0,0
+"getValue",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"getPartition",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"partition",0,1,0,0,0,0,0,0,0,1,0,0,0,0
+"getDisplayValue",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"value",0,1,0,1,0,1,0,1,1,0,1,0,1,0
+"getPriorProbability",0,0,0,0,0,0,0,0,0,0,0,0,0,0

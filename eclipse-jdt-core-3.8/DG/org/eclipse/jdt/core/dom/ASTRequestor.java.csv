@@ -1,0 +1,11 @@
+,"result","bindingKeys","IBinding","length","ASTRequestor","compilationUnitResolver","i","createBinding","createBindings","key"
+"result",0,0,0,0,0,0,0,0,1,0
+"bindingKeys",0,0,0,1,0,0,0,0,0,1
+"IBinding",1,0,0,0,0,0,0,0,0,0
+"length",0,1,1,1,0,0,0,0,0,0
+"ASTRequestor",0,0,0,0,0,2,0,0,0,0
+"compilationUnitResolver",0,0,0,0,2,0,0,1,0,0
+"i",2,1,0,0,0,0,0,0,0,0
+"createBinding",1,0,0,0,0,1,0,0,0,0
+"createBindings",0,0,0,0,0,0,0,0,0,0
+"key",0,0,0,0,0,0,0,0,0,0

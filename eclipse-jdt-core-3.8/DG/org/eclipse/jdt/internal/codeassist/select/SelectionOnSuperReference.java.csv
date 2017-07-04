@@ -1,0 +1,12 @@
+,"output","sourceEnd","resolveType","isValidBinding","SelectionNodeFound","pos","printExpression","scope","binding","SuperReference","append"
+"output",1,0,0,0,0,0,0,0,0,0,1
+"sourceEnd",0,0,0,0,0,0,0,0,0,1,0
+"resolveType",0,0,0,0,0,0,0,0,1,1,0
+"isValidBinding",0,0,0,0,0,0,0,0,1,0,0
+"SelectionNodeFound",0,0,0,0,0,0,0,0,0,0,0
+"pos",0,0,0,0,0,0,0,0,0,1,0
+"printExpression",0,0,0,0,0,0,0,0,0,1,1
+"scope",0,0,0,0,0,0,0,1,0,0,0
+"binding",0,0,0,1,1,0,0,0,0,0,0
+"SuperReference",0,0,1,0,0,0,1,0,0,0,0
+"append",1,0,0,0,0,0,2,0,0,0,0

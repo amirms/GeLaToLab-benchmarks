@@ -1,0 +1,10 @@
+,"getTargetCategory","getMultivariateStat","extension","targetCategory","getExtension","multivariateStat","ArrayList","value","MultivariateStats"
+"getTargetCategory",0,0,0,0,0,0,0,0,0
+"getMultivariateStat",0,0,0,0,0,0,0,0,0
+"extension",0,0,0,0,1,0,0,0,1
+"targetCategory",1,0,0,0,0,0,0,0,1
+"getExtension",0,0,0,0,0,0,0,0,0
+"multivariateStat",0,1,0,0,0,0,0,0,1
+"ArrayList",0,0,1,0,0,1,0,0,0
+"value",0,0,0,1,0,0,0,0,0
+"MultivariateStats",0,0,1,1,0,1,0,0,0

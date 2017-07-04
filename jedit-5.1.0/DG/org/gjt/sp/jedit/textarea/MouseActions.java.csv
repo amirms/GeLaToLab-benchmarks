@@ -1,0 +1,11 @@
+,"evt","propertyManager","getProperty","modStr","getActionForEvent","name","variant","getModifierString","KeyEventTranslator","MouseActions"
+"evt",2,0,0,0,0,0,0,0,0,0
+"propertyManager",0,1,2,0,0,0,0,0,0,1
+"getProperty",0,2,0,0,2,0,0,0,0,0
+"modStr",0,0,0,0,0,0,0,0,0,0
+"getActionForEvent",0,0,0,0,0,0,0,0,0,0
+"name",0,0,0,0,0,3,0,0,0,1
+"variant",0,0,0,0,0,2,0,0,0,0
+"getModifierString",0,0,0,1,0,1,0,0,2,0
+"KeyEventTranslator",0,0,0,0,0,0,0,2,0,0
+"MouseActions",0,1,0,0,0,1,0,0,0,0

@@ -1,0 +1,13 @@
+,"result","PlotOrientation","orientation","readResolve","VERTICAL","obj","hashCode","arg0","equals","name","toString","HORIZONTAL"
+"result",0,0,0,1,0,0,0,0,0,0,0,0
+"PlotOrientation",0,0,0,0,2,0,0,0,2,4,0,2
+"orientation",0,0,0,0,0,0,0,0,0,0,1,0
+"readResolve",0,0,0,0,0,0,0,0,0,0,0,0
+"VERTICAL",1,2,0,0,0,1,0,0,0,0,0,0
+"obj",0,0,1,0,0,0,0,0,0,0,0,0
+"hashCode",0,0,0,0,0,0,1,0,0,1,0,0
+"arg0",0,0,0,0,0,0,0,0,0,0,0,0
+"equals",0,2,0,0,0,0,0,0,0,1,0,0
+"name",0,4,0,0,0,0,1,0,1,1,1,0
+"toString",0,0,1,0,0,0,0,1,0,0,0,0
+"HORIZONTAL",1,2,0,0,0,1,0,0,0,0,0,0

@@ -1,0 +1,8 @@
+,"getValue","col","getCol","MatCell","row","getRow","value"
+"getValue",0,0,0,0,0,0,0
+"col",0,0,1,1,0,0,0
+"getCol",0,0,0,0,0,0,0
+"MatCell",0,1,0,0,1,0,1
+"row",0,0,0,1,0,1,0
+"getRow",0,0,0,0,0,0,0
+"value",1,1,0,1,1,0,1

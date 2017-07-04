@@ -1,0 +1,12 @@
+,"that","readResolve","ASCENDING","obj","hashCode","arg0","equals","name","DESCENDING","SortOrder","toString"
+"that",0,0,0,0,0,0,0,0,0,0,1
+"readResolve",0,0,0,0,0,0,0,0,0,0,0
+"ASCENDING",0,1,0,1,0,0,0,0,0,2,0
+"obj",1,0,0,0,0,0,0,0,0,0,0
+"hashCode",0,0,0,0,1,0,0,1,0,0,0
+"arg0",0,0,0,0,0,0,0,0,0,0,0
+"equals",0,0,0,0,0,0,0,1,0,2,0
+"name",0,0,0,0,1,0,1,1,0,4,1
+"DESCENDING",0,1,0,1,0,0,0,0,0,2,0
+"SortOrder",0,0,2,0,0,0,2,4,2,0,0
+"toString",1,0,0,0,0,1,0,0,0,0,0

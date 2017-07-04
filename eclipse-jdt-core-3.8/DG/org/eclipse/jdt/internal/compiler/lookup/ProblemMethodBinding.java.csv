@@ -1,0 +1,16 @@
+,"Binding","ProblemMethodBinding","length","thrownExceptions","closestMatch","ProblemReasons","declaringClass","args","NO_EXCEPTIONS","NO_PARAMETERS","selector","problemId","parameters","Ambiguous","problemReason"
+"Binding",0,0,0,0,0,0,0,0,2,2,0,0,0,0,0
+"ProblemMethodBinding",0,0,0,2,1,0,2,0,0,0,2,0,2,0,3
+"length",0,0,0,0,0,0,0,2,0,0,0,0,2,0,0
+"thrownExceptions",0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"closestMatch",0,1,0,0,1,0,1,0,0,0,0,0,0,0,0
+"ProblemReasons",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"declaringClass",0,2,0,0,1,0,2,0,0,0,0,0,0,0,0
+"args",0,1,2,0,0,0,0,0,0,0,0,0,4,0,0
+"NO_EXCEPTIONS",2,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+"NO_PARAMETERS",2,0,0,0,0,0,0,0,0,0,0,0,2,0,0
+"selector",0,3,0,0,0,0,0,0,0,0,2,0,0,0,0
+"problemId",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"parameters",0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ambiguous",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"problemReason",0,4,0,0,0,0,0,0,0,0,0,1,0,0,2

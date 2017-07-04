@@ -1,0 +1,14 @@
+,"numAttributes","classIndex","instances","nParent","iNode","RevisionUtils","addParent","iAttribute","_Instances","getParentSet","extract","bayesNet","getRevision"
+"numAttributes",0,0,1,0,0,0,0,0,0,0,0,0,0
+"classIndex",0,0,2,1,0,0,0,0,0,0,0,0,0
+"instances",1,2,0,0,0,0,0,0,1,0,0,0,0
+"nParent",0,0,0,0,0,0,0,0,0,0,0,0,0
+"iNode",0,0,0,0,0,0,0,0,0,0,0,0,0
+"RevisionUtils",0,0,0,0,0,0,0,0,0,0,1,0,0
+"addParent",0,0,0,0,0,0,0,0,0,1,0,0,0
+"iAttribute",0,0,0,0,1,0,0,0,0,0,0,0,0
+"_Instances",0,0,0,0,0,0,0,0,0,0,0,0,0
+"getParentSet",0,0,0,0,0,0,1,0,0,0,0,1,0
+"extract",0,0,0,0,0,1,0,0,0,0,0,0,1
+"bayesNet",0,0,0,0,0,0,0,0,0,1,0,0,0
+"getRevision",0,0,0,0,0,0,0,0,0,0,0,0,0

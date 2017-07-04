@@ -1,0 +1,15 @@
+,"percentFormatter","generateLabelString","column","formatter","labelFormat","DEFAULT_LABEL_FORMAT_STRING","AbstractCategoryItemLabelGenerator","obj","equals","getInstance","row","dataset","NumberFormat","generateLabel"
+"percentFormatter",0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"generateLabelString",0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"column",0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"formatter",0,0,0,0,0,0,3,0,0,0,0,0,0,0
+"labelFormat",0,0,0,0,0,0,3,0,0,0,0,0,0,0
+"DEFAULT_LABEL_FORMAT_STRING",0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"AbstractCategoryItemLabelGenerator",0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"obj",0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"equals",0,0,0,0,0,0,1,0,1,0,0,0,0,0
+"getInstance",0,0,0,0,0,0,1,0,0,0,0,0,1,0
+"row",0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"dataset",0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"NumberFormat",0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"generateLabel",0,0,0,0,0,0,0,0,0,0,0,0,0,0

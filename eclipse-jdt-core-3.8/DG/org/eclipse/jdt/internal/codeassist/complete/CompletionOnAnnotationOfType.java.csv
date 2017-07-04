@@ -1,0 +1,14 @@
+,"annotation","sourceEnd","indent","typeName","annotations","sourceStart","Annotation","output","CompletionOnAnnotationOfType","print","compilationResult","name","TypeDeclaration"
+"annotation",0,2,0,0,0,0,1,0,0,0,0,0,0
+"sourceEnd",2,1,0,0,0,1,0,0,1,0,0,0,0
+"indent",0,0,1,0,0,0,0,0,0,0,0,0,0
+"typeName",0,0,0,0,0,0,0,0,0,0,0,1,0
+"annotations",0,0,0,0,0,0,0,0,2,1,0,0,0
+"sourceStart",0,0,0,0,0,0,0,0,1,0,0,0,0
+"Annotation",0,0,0,0,1,0,0,0,0,0,0,0,0
+"output",0,0,0,0,0,0,0,1,0,0,0,0,0
+"CompletionOnAnnotationOfType",0,1,0,0,2,1,0,0,0,0,0,1,0
+"print",0,0,0,0,1,0,0,0,0,1,0,0,0
+"compilationResult",0,0,0,0,0,0,0,0,0,0,0,0,1
+"name",0,0,0,0,0,0,0,0,1,0,0,0,0
+"TypeDeclaration",0,0,0,0,0,0,0,0,0,0,0,0,0

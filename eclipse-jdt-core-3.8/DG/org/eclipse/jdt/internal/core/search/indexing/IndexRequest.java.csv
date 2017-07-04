@@ -1,0 +1,16 @@
+,"isCancelled","manager","UPDATING_STATE","IndexRequest","jobWasCancelled","getJobFamily","IndexManager","updatedIndexState","segment","equals","projectNameOrJarPath","toString","aboutToUpdateIndex","containerPath","belongsTo"
+"isCancelled",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"manager",0,1,0,3,1,0,0,0,0,0,0,0,1,0,0
+"UPDATING_STATE",0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+"IndexRequest",1,3,0,0,0,0,0,0,0,0,0,0,0,6,0
+"jobWasCancelled",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"getJobFamily",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"IndexManager",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"updatedIndexState",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"segment",0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+"equals",0,0,0,0,0,0,0,0,0,0,2,0,0,0,2
+"projectNameOrJarPath",0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+"toString",0,0,0,0,0,1,0,0,0,1,0,0,0,2,0
+"aboutToUpdateIndex",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"containerPath",0,0,0,6,1,0,0,0,1,0,0,2,1,1,0
+"belongsTo",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

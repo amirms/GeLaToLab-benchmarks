@@ -1,0 +1,15 @@
+,"offset","structOffset","u2At","getConstantValue","ClassFileAttribute","ConstantValueAttribute","index","constantPoolEntry","classFileBytes","constantPool","constantValueIndex","reference","getConstantValueIndex","decodeEntry"
+"offset",0,1,0,0,1,0,0,0,0,0,0,0,0,0
+"structOffset",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"u2At",0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"getConstantValue",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"ClassFileAttribute",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"ConstantValueAttribute",0,0,0,0,0,0,0,2,0,0,3,0,0,0
+"index",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"constantPoolEntry",0,0,0,1,0,2,0,0,0,0,0,0,0,0
+"classFileBytes",0,0,0,0,1,0,0,0,0,0,0,1,0,0
+"constantPool",0,0,0,0,1,0,0,0,0,0,0,0,0,1
+"constantValueIndex",0,0,0,0,0,3,1,0,0,0,0,0,1,0
+"reference",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"getConstantValueIndex",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"decodeEntry",0,0,0,0,0,0,0,1,0,1,0,0,0,0

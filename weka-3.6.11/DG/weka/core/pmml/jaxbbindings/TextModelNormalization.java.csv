@@ -1,0 +1,12 @@
+,"extension","localTermWeights","getExtension","getGlobalTermWeights","getLocalTermWeights","TextModelNormalization","ArrayList","documentNormalization","getDocumentNormalization","globalTermWeights","value"
+"extension",0,0,1,0,0,1,0,0,0,0,0
+"localTermWeights",0,0,0,0,1,1,0,0,0,0,0
+"getExtension",0,0,0,0,0,0,0,0,0,0,0
+"getGlobalTermWeights",0,0,0,0,0,0,0,0,0,0,0
+"getLocalTermWeights",0,0,0,0,0,0,0,0,0,0,0
+"TextModelNormalization",1,1,0,0,0,0,0,1,0,1,0
+"ArrayList",1,0,0,0,0,0,0,0,0,0,0
+"documentNormalization",0,0,0,0,0,1,0,0,1,0,0
+"getDocumentNormalization",0,0,0,0,0,0,0,0,0,0,0
+"globalTermWeights",0,0,0,1,0,1,0,0,0,0,0
+"value",0,1,0,0,0,0,0,1,0,1,0

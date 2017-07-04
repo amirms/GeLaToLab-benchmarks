@@ -1,0 +1,14 @@
+,"getInterval","totalSquaresSum","extension","getExtension","getNUMARRAY","ArrayList","totalValuesSum","numarray","getTotalSquaresSum","interval","value","getTotalValuesSum","ContStats"
+"getInterval",0,0,0,0,0,0,0,0,0,0,0,0,0
+"totalSquaresSum",0,0,0,0,0,0,0,0,1,0,0,0,1
+"extension",0,0,0,1,0,0,0,0,0,0,0,0,1
+"getExtension",0,0,0,0,0,0,0,0,0,0,0,0,0
+"getNUMARRAY",0,0,0,0,0,0,0,0,0,0,0,0,0
+"ArrayList",0,0,1,0,0,0,0,1,0,1,0,0,0
+"totalValuesSum",0,0,0,0,0,0,0,0,0,0,0,1,1
+"numarray",0,0,0,0,1,0,0,0,0,0,0,0,1
+"getTotalSquaresSum",0,0,0,0,0,0,0,0,0,0,0,0,0
+"interval",1,0,0,0,0,0,0,0,0,0,0,0,1
+"value",0,1,0,0,0,0,1,0,0,0,0,0,0
+"getTotalValuesSum",0,0,0,0,0,0,0,0,0,0,0,0,0
+"ContStats",0,1,1,0,0,0,1,1,0,1,0,0,0

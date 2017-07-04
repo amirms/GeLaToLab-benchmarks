@@ -1,0 +1,6 @@
+,"IErrorHandlingPolicy","proceedOnFirstError","proceedWithAllProblems","exitOnFirstError","exitAfterAllProblems"
+"IErrorHandlingPolicy",0,1,1,1,1
+"proceedOnFirstError",0,0,0,0,0
+"proceedWithAllProblems",0,0,0,0,0
+"exitOnFirstError",0,0,0,0,0
+"exitAfterAllProblems",0,0,0,0,0

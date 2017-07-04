@@ -1,0 +1,12 @@
+,"getDecision","extension","businessProblem","getExtension","decision","getBusinessProblem","ArrayList","Decisions","description","value","getDescription"
+"getDecision",0,0,0,0,0,0,0,0,0,0,0
+"extension",0,0,0,1,0,0,0,1,0,0,0
+"businessProblem",0,0,0,0,0,1,0,1,0,0,0
+"getExtension",0,0,0,0,0,0,0,0,0,0,0
+"decision",1,0,0,0,0,0,0,1,0,0,0
+"getBusinessProblem",0,0,0,0,0,0,0,0,0,0,0
+"ArrayList",0,1,0,0,1,0,0,0,0,0,0
+"Decisions",0,1,1,0,1,0,0,0,1,0,0
+"description",0,0,0,0,0,0,0,1,0,0,1
+"value",0,0,1,0,0,0,0,0,1,0,0
+"getDescription",0,0,0,0,0,0,0,0,0,0,0

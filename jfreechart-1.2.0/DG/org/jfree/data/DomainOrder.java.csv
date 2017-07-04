@@ -1,0 +1,13 @@
+,"that","readResolve","DomainOrder","ASCENDING","obj","hashCode","arg0","equals","name","DESCENDING","toString","NONE"
+"that",0,0,0,0,0,0,0,0,0,0,1,0
+"readResolve",0,0,0,0,0,0,0,0,0,0,0,0
+"DomainOrder",0,0,0,2,0,0,0,3,4,2,0,2
+"ASCENDING",0,1,2,0,1,0,0,0,0,0,0,0
+"obj",1,0,0,0,0,0,0,0,0,0,0,0
+"hashCode",0,0,0,0,0,1,0,0,1,0,0,0
+"arg0",0,0,0,0,0,0,0,0,0,0,0,0
+"equals",0,0,3,0,0,0,0,0,1,0,0,0
+"name",0,0,4,0,0,1,0,1,1,0,1,0
+"DESCENDING",0,1,2,0,1,0,0,0,0,0,0,0
+"toString",1,0,0,0,0,0,1,0,0,0,0,0
+"NONE",0,1,2,0,1,0,0,0,0,0,0,0

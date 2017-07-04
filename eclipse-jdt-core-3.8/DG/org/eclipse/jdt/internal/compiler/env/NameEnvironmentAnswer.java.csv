@@ -1,0 +1,17 @@
+,"NameEnvironmentAnswer","otherAnswer","sourceTypes","ignoreIfBetter","getCompilationUnit","isCompilationUnit","getAccessRestriction","accessRestriction","getProblemId","compilationUnit","isBinaryType","isSourceType","getBinaryType","isBetter","getSourceTypes","binaryType"
+"NameEnvironmentAnswer",0,0,3,0,0,0,0,8,0,3,0,0,0,0,0,3
+"otherAnswer",0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+"sourceTypes",3,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0
+"ignoreIfBetter",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+"getCompilationUnit",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"isCompilationUnit",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"getAccessRestriction",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"accessRestriction",8,2,0,2,0,0,1,3,2,0,0,0,0,1,0,0
+"getProblemId",0,0,0,0,0,0,0,2,0,0,0,0,0,2,0,0
+"compilationUnit",3,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0
+"isBinaryType",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"isSourceType",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"getBinaryType",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"isBetter",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"getSourceTypes",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"binaryType",3,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1

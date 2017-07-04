@@ -1,0 +1,9 @@
+,"exit","ApplicationFrame","getWindow","JFrame","arg0","title","event","System"
+"exit",0,0,0,0,0,0,0,1
+"ApplicationFrame",0,0,0,0,1,0,0,0
+"getWindow",0,0,0,0,0,0,1,0
+"JFrame",0,0,0,0,0,0,0,0
+"arg0",0,0,0,0,0,0,0,0
+"title",0,0,0,1,0,0,0,0
+"event",0,0,1,0,0,0,0,0
+"System",1,0,0,0,0,0,0,0

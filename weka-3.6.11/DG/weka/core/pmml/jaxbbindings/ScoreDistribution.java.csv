@@ -1,0 +1,13 @@
+,"ScoreDistribution","getValue","extension","getExtension","probability","getProbability","confidence","recordCount","ArrayList","getRecordCount","value","getConfidence"
+"ScoreDistribution",0,0,1,0,1,0,1,1,0,0,1,0
+"getValue",0,0,0,0,0,0,0,0,0,0,0,0
+"extension",1,0,0,1,0,0,0,0,0,0,0,0
+"getExtension",0,0,0,0,0,0,0,0,0,0,0,0
+"probability",1,0,0,0,0,1,0,0,0,0,0,0
+"getProbability",0,0,0,0,0,0,0,0,0,0,0,0
+"confidence",1,0,0,0,0,0,0,0,0,0,0,1
+"recordCount",1,0,0,0,0,0,0,0,0,1,0,0
+"ArrayList",0,0,1,0,0,0,0,0,0,0,0,0
+"getRecordCount",0,0,0,0,0,0,0,0,0,0,0,0
+"value",1,1,0,0,1,0,1,1,0,0,1,0
+"getConfidence",0,0,0,0,0,0,0,0,0,0,0,0

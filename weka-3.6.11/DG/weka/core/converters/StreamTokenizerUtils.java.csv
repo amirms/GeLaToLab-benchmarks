@@ -1,0 +1,15 @@
+,"TT_EOL","RevisionUtils","theMsg","IOException","TT_WORD","tokenizer","extract","nextToken","ttype","equals","sval","toString","StreamTokenizer","getRevision"
+"TT_EOL",0,0,0,0,0,0,0,0,0,0,0,0,2,0
+"RevisionUtils",0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"theMsg",0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"IOException",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TT_WORD",0,0,0,0,0,0,0,0,2,0,0,0,4,0
+"tokenizer",0,0,0,0,0,0,0,2,11,0,2,1,0,0
+"extract",0,1,0,0,0,0,0,0,0,0,0,0,0,1
+"nextToken",0,0,0,0,0,2,0,0,0,0,0,0,0,0
+"ttype",0,0,0,0,0,11,0,0,0,0,0,0,0,0
+"equals",0,0,0,0,0,0,0,0,0,0,2,0,0,0
+"sval",0,0,0,0,0,2,0,0,0,2,0,0,0,0
+"toString",0,0,0,1,0,1,0,0,0,0,0,0,0,0
+"StreamTokenizer",2,0,0,0,4,0,0,0,0,0,0,0,0,0
+"getRevision",0,0,0,0,0,0,0,0,0,0,0,0,0,0

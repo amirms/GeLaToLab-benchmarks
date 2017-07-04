@@ -1,0 +1,11 @@
+,"FocusAdapter","pe","getText","equals","KeyAdapter","arg0","getAsText","JTextField","m_Editor","setAsText"
+"FocusAdapter",0,0,0,0,0,1,0,0,0,0
+"pe",0,0,0,0,0,0,2,0,1,0
+"getText",0,0,0,0,0,1,0,0,0,0
+"equals",0,0,0,0,0,0,1,1,0,0
+"KeyAdapter",0,0,0,0,0,1,0,0,0,0
+"arg0",0,0,0,0,0,0,0,0,0,0
+"getAsText",0,2,0,1,0,1,0,1,1,0
+"JTextField",0,0,0,0,0,0,0,0,0,0
+"m_Editor",0,0,0,0,0,0,1,0,0,1
+"setAsText",0,0,0,0,0,0,0,0,1,0

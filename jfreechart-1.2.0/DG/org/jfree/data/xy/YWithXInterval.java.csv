@@ -1,0 +1,10 @@
+,"that","getY","getXLow","obj","xHigh","YWithXInterval","y","xLow","getXHigh"
+"that",0,0,0,0,1,0,1,1,0
+"getY",0,0,0,0,0,0,0,0,0
+"getXLow",0,0,0,0,0,0,0,0,0
+"obj",1,0,0,0,0,0,0,0,0
+"xHigh",1,0,0,0,1,3,0,0,1
+"YWithXInterval",0,0,0,0,3,0,3,3,0
+"y",1,1,0,0,0,3,1,0,0
+"xLow",1,0,1,0,0,3,0,1,0
+"getXHigh",0,0,0,0,0,0,0,0,0

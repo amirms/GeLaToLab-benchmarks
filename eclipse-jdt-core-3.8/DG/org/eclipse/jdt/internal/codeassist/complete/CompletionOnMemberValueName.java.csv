@@ -1,0 +1,11 @@
+,"output","print","sourceEnd","MemberValuePair","arg0","name","CompletionOnMemberValueName","sourceStart","append","token"
+"output",0,1,0,0,0,0,0,0,3,0
+"print",0,0,0,0,0,0,0,0,0,0
+"sourceEnd",0,0,0,1,0,0,0,0,0,0
+"MemberValuePair",0,0,0,0,0,0,0,0,0,0
+"arg0",0,0,0,0,0,0,0,0,0,0
+"name",0,0,0,0,1,0,1,0,0,0
+"CompletionOnMemberValueName",0,0,0,0,0,1,0,0,0,0
+"sourceStart",0,0,0,1,0,0,0,0,0,0
+"append",3,0,0,0,0,0,0,0,0,0
+"token",0,0,0,1,0,0,0,0,0,0

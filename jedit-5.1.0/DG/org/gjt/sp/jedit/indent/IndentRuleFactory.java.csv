@@ -1,0 +1,16 @@
+,"regexp","unindentThisLine","indentNextLine","indentCloseBracket","indentOpenBracket","OpenBracketIndentRule","CloseBracketIndentRule","unalignedOpenBracket","Increase","indentNextLines","Decrease","unalignedCloseBracket","bracket","unindentNextLines","RegexpIndentRule"
+"regexp",0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+"unindentThisLine",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"indentNextLine",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"indentCloseBracket",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"indentOpenBracket",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"OpenBracketIndentRule",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+"CloseBracketIndentRule",0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+"unalignedOpenBracket",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Increase",0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+"indentNextLines",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Decrease",0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+"unalignedCloseBracket",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"bracket",0,0,0,0,0,2,2,0,0,0,0,0,0,0,0
+"unindentNextLines",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"RegexpIndentRule",0,1,1,0,0,0,0,0,0,1,0,0,0,1,0

@@ -1,0 +1,10 @@
+,"factory","ProblemFactory","get","factories","getProblemFactory","DefaultProblemFactory","locale","key","put"
+"factory",0,0,0,0,1,0,0,0,0
+"ProblemFactory",1,0,0,0,0,0,0,0,0
+"get",1,0,0,1,0,0,0,0,0
+"factories",0,0,1,0,0,0,0,0,1
+"getProblemFactory",0,0,0,0,0,0,0,0,0
+"DefaultProblemFactory",0,0,0,0,0,0,0,0,0
+"locale",0,1,0,0,0,1,0,2,0
+"key",0,0,0,0,0,0,0,0,0
+"put",0,0,0,1,0,0,0,0,0

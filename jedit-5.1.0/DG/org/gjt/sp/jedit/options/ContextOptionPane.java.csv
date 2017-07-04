@@ -1,0 +1,17 @@
+,"jEdit","getProperty","_init","c","setSelected","AbstractContextOptionPane","getContextMenu","menu","getBooleanProperty","JCheckBox","includeOptionsLink","arg0","setProperty","isSelected","setBooleanProperty","value"
+"jEdit",0,3,0,0,0,0,0,0,1,0,0,0,1,0,1,0
+"getProperty",3,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0
+"_init",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"c",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"setSelected",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"AbstractContextOptionPane",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"getContextMenu",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"menu",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"getBooleanProperty",1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"JCheckBox",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"includeOptionsLink",0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0
+"arg0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"setProperty",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"isSelected",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+"setBooleanProperty",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"value",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

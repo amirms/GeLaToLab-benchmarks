@@ -1,0 +1,10 @@
+,"add","extension","getExtension","MiningSchema","miningField","field","arg0","ArrayList","getMiningFields"
+"add",0,0,0,0,1,0,0,0,0
+"extension",0,0,1,1,0,0,0,0,0
+"getExtension",0,0,0,0,0,0,0,0,0
+"MiningSchema",0,1,0,0,2,0,0,0,0
+"miningField",1,0,0,2,0,0,0,0,1
+"field",0,0,0,0,0,0,1,0,0
+"arg0",0,0,0,0,0,0,0,0,0
+"ArrayList",0,1,0,0,2,0,0,0,0
+"getMiningFields",0,0,0,0,0,0,0,0,0

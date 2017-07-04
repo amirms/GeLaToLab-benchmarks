@@ -1,0 +1,14 @@
+,"getStandardDeviation","extension","getExtension","max","getMax","ArrayList","Time","min","getMin","mean","getMean","value","standardDeviation"
+"getStandardDeviation",0,0,0,0,0,0,0,0,0,0,0,0,0
+"extension",0,0,1,0,0,0,1,0,0,0,0,0,0
+"getExtension",0,0,0,0,0,0,0,0,0,0,0,0,0
+"max",0,0,0,0,1,0,1,0,0,0,0,0,0
+"getMax",0,0,0,0,0,0,0,0,0,0,0,0,0
+"ArrayList",0,1,0,0,0,0,0,0,0,0,0,0,0
+"Time",0,1,0,1,0,0,0,1,0,1,0,0,1
+"min",0,0,0,0,0,0,1,0,1,0,0,0,0
+"getMin",0,0,0,0,0,0,0,0,0,0,0,0,0
+"mean",0,0,0,0,0,0,1,0,0,0,1,0,0
+"getMean",0,0,0,0,0,0,0,0,0,0,0,0,0
+"value",0,0,0,1,0,0,0,1,0,1,0,0,1
+"standardDeviation",1,0,0,0,0,0,1,0,0,0,0,0,0

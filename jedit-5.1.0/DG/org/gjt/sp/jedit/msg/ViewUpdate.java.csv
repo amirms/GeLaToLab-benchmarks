@@ -1,0 +1,9 @@
+,"ViewUpdate","paramString","view","what","getSource","EBMessage","getWhat","getView"
+"ViewUpdate",0,0,0,1,0,0,0,0
+"paramString",0,1,0,0,0,1,0,0
+"view",0,0,0,0,0,1,0,0
+"what",1,1,0,1,0,0,1,0
+"getSource",0,0,0,0,0,0,0,1
+"EBMessage",0,1,0,0,0,0,0,0
+"getWhat",0,0,0,0,0,0,0,0
+"getView",0,0,0,0,0,0,0,0

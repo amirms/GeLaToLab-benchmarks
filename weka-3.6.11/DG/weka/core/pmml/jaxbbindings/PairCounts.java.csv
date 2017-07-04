@@ -1,0 +1,9 @@
+,"getValue","extension","getExtension","PairCounts","ArrayList","targetValueCounts","value","getTargetValueCounts"
+"getValue",0,0,0,0,0,0,0,0
+"extension",0,0,1,1,0,0,0,0
+"getExtension",0,0,0,0,0,0,0,0
+"PairCounts",0,1,0,0,0,1,1,0
+"ArrayList",0,1,0,0,0,0,0,0
+"targetValueCounts",0,0,0,1,0,0,0,1
+"value",1,0,0,1,0,1,1,0
+"getTargetValueCounts",0,0,0,0,0,0,0,0

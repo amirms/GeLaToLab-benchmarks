@@ -1,0 +1,12 @@
+,"parent","infoCache","getImport","ImportContainer","arg0","get","isOnDemand","getElementInfo","importName","AssistImportContainer","AssistImportDeclaration"
+"parent",0,0,0,1,0,0,0,0,0,0,0
+"infoCache",0,1,0,0,0,1,0,0,0,3,1
+"getImport",0,0,0,0,0,0,0,0,0,0,0
+"ImportContainer",0,0,0,0,0,0,0,0,0,0,0
+"arg0",0,0,0,0,0,0,0,0,0,0,0
+"get",0,1,0,0,0,0,0,1,0,0,0
+"isOnDemand",0,0,0,0,0,0,0,0,0,0,1
+"getElementInfo",0,0,0,0,0,0,0,0,0,0,0
+"importName",0,0,0,0,0,0,0,0,0,0,1
+"AssistImportContainer",0,3,0,0,1,0,0,0,0,0,1
+"AssistImportDeclaration",0,0,1,0,0,0,0,0,0,0,0

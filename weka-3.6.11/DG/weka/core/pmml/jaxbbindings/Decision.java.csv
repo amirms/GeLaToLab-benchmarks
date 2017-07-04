@@ -1,0 +1,11 @@
+,"displayValue","getValue","extension","getExtension","getDisplayValue","ArrayList","description","getDescription","value","Decision"
+"displayValue",0,0,0,0,1,0,0,0,0,1
+"getValue",0,0,0,0,0,0,0,0,0,0
+"extension",0,0,0,1,0,0,0,0,0,1
+"getExtension",0,0,0,0,0,0,0,0,0,0
+"getDisplayValue",0,0,0,0,0,0,0,0,0,0
+"ArrayList",0,0,1,0,0,0,0,0,0,0
+"description",0,0,0,0,0,0,0,1,0,1
+"getDescription",0,0,0,0,0,0,0,0,0,0
+"value",1,1,0,0,0,0,1,0,1,1
+"Decision",1,0,1,0,0,0,1,0,1,0

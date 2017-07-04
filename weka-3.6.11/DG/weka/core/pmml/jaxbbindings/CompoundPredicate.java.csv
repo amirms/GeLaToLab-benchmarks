@@ -1,0 +1,10 @@
+,"getBooleanOperator","extension","getExtension","ArrayList","getSimplePredicateOrCompoundPredicateOrSimpleSetPredicate","simplePredicateOrCompoundPredicateOrSimpleSetPredicate","booleanOperator","CompoundPredicate","value"
+"getBooleanOperator",0,0,0,0,0,0,0,0,0
+"extension",0,0,1,0,0,0,0,1,0
+"getExtension",0,0,0,0,0,0,0,0,0
+"ArrayList",0,1,0,0,0,1,0,0,0
+"getSimplePredicateOrCompoundPredicateOrSimpleSetPredicate",0,0,0,0,0,0,0,0,0
+"simplePredicateOrCompoundPredicateOrSimpleSetPredicate",0,0,0,0,1,0,0,1,0
+"booleanOperator",1,0,0,0,0,0,0,1,0
+"CompoundPredicate",0,1,0,0,0,1,1,0,0
+"value",0,0,0,0,0,0,1,0,0

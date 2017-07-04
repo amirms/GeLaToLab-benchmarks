@@ -1,0 +1,9 @@
+,"getOptype","optype","getName","dataType","getDataType","name","value","ParameterField"
+"getOptype",0,0,0,0,0,0,0,0
+"optype",1,0,0,0,0,0,0,1
+"getName",0,0,0,0,0,0,0,0
+"dataType",0,0,0,0,1,0,0,1
+"getDataType",0,0,0,0,0,0,0,0
+"name",0,0,1,0,0,0,0,1
+"value",0,1,0,1,0,1,0,0
+"ParameterField",0,1,0,1,0,1,0,0

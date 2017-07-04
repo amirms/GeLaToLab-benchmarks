@@ -1,0 +1,9 @@
+,"line","start","FormatJavadocNode","end","toString","position","buffer","append"
+"line",0,0,2,0,0,0,0,0
+"start",0,0,1,0,0,0,0,0
+"FormatJavadocNode",0,0,0,0,1,0,0,0
+"end",0,0,1,0,0,0,0,0
+"toString",0,0,1,0,0,0,0,0
+"position",0,0,2,0,0,0,0,0
+"buffer",0,0,0,0,0,0,1,1
+"append",0,0,0,0,0,0,1,0

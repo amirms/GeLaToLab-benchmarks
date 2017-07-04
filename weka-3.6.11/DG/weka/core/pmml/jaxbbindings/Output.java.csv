@@ -1,0 +1,10 @@
+,"add","extension","getExtension","field","Output","arg0","ArrayList","getOutputFields","outputField"
+"add",0,0,0,0,0,0,0,0,1
+"extension",0,0,1,0,1,0,0,0,0
+"getExtension",0,0,0,0,0,0,0,0,0
+"field",0,0,0,0,0,1,0,0,0
+"Output",0,1,0,0,0,0,0,0,2
+"arg0",0,0,0,0,0,0,0,0,0
+"ArrayList",0,1,0,0,0,0,0,0,2
+"getOutputFields",0,0,0,0,0,0,0,0,0
+"outputField",1,0,0,0,2,0,0,1,0

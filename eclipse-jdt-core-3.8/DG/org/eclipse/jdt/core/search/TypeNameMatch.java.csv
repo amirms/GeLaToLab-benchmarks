@@ -1,0 +1,16 @@
+,"ancestorType","IJavaElement","outerType","getPackageFragment","getSimpleTypeName","getAncestor","getTypeQualifiedName","getTypeContainerName","getElementName","getPackageFragmentRoot","getType","PACKAGE_FRAGMENT_ROOT","getDeclaringType","getPackageName","getFullyQualifiedName"
+"ancestorType",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"IJavaElement",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"outerType",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"getPackageFragment",0,0,0,0,0,0,0,0,2,0,2,0,0,0,0
+"getSimpleTypeName",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"getAncestor",0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+"getTypeQualifiedName",0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+"getTypeContainerName",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"getElementName",0,0,0,2,1,0,0,1,0,0,1,0,0,1,0
+"getPackageFragmentRoot",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"getType",0,0,0,2,0,1,1,0,1,0,0,0,1,0,1
+"PACKAGE_FRAGMENT_ROOT",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"getDeclaringType",0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+"getPackageName",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"getFullyQualifiedName",0,0,1,0,0,0,0,1,0,0,1,0,0,0,1

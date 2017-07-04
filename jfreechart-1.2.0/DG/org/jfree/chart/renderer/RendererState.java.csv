@@ -1,0 +1,8 @@
+,"RendererState","owner","result","getInfo","getOwner","info","getEntityCollection"
+"RendererState",0,0,0,0,0,4,0
+"owner",0,0,0,0,0,0,1
+"result",0,0,0,0,0,0,1
+"getInfo",0,0,0,0,0,0,0
+"getOwner",0,1,0,0,0,1,0
+"info",4,0,0,1,1,1,0
+"getEntityCollection",0,1,1,0,0,0,0

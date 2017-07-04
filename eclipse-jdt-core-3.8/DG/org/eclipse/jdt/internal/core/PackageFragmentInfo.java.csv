@@ -1,0 +1,15 @@
+,"length","computeFolderNonJavaResources","resources","underlyingResource","containsJavaResources","PackageFragmentRootInfo","getNonJavaResources","fullInclusionPatternChars","NO_NON_JAVA_RESOURCES","PackageFragmentInfo","children","fullExclusionPatternChars","rootHandle","nonJavaResources"
+"length",0,0,0,0,1,0,0,0,0,0,1,0,0,0
+"computeFolderNonJavaResources",0,0,0,0,0,1,0,0,0,0,0,0,0,1
+"resources",0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"underlyingResource",0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"containsJavaResources",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"PackageFragmentRootInfo",0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"getNonJavaResources",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"fullInclusionPatternChars",0,1,0,0,0,0,0,0,0,0,0,0,1,0
+"NO_NON_JAVA_RESOURCES",0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"PackageFragmentInfo",0,0,0,0,0,0,0,0,0,0,1,0,0,6
+"children",1,0,0,0,0,0,0,0,0,1,0,0,0,0
+"fullExclusionPatternChars",0,1,0,0,0,0,0,0,0,0,0,0,1,0
+"rootHandle",0,1,0,0,0,0,0,1,0,0,0,1,0,0
+"nonJavaResources",0,0,0,0,0,0,1,0,0,6,0,0,0,0

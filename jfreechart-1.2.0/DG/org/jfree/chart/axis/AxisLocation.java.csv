@@ -1,0 +1,15 @@
+,"AxisLocation","readResolve","TOP_OR_LEFT","BOTTOM_OR_RIGHT","result","obj","arg0","equals","BOTTOM_OR_LEFT","name","TOP_OR_RIGHT","location","getOpposite","toString"
+"AxisLocation",0,0,4,4,0,0,0,4,4,3,4,1,0,0
+"readResolve",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TOP_OR_LEFT",4,1,0,0,1,1,0,0,0,0,0,0,0,0
+"BOTTOM_OR_RIGHT",4,1,0,0,1,1,0,0,0,0,0,0,0,0
+"result",0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"obj",0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"arg0",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"equals",4,0,0,0,0,0,0,0,0,1,0,0,0,0
+"BOTTOM_OR_LEFT",4,1,0,0,1,1,0,0,0,0,0,0,0,0
+"name",3,0,0,0,0,0,0,1,0,1,0,0,0,1
+"TOP_OR_RIGHT",4,1,0,0,1,1,0,0,0,0,0,0,0,0
+"location",0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"getOpposite",0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"toString",0,0,0,0,0,0,1,0,0,0,0,1,0,0

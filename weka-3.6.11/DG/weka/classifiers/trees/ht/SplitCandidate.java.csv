@@ -1,0 +1,15 @@
+,"m_splitTest","m_splitMerit","comp","compare","postSplitDists","numSplits","merit","compareTo","m_postSplitClassDistributions","Double","size","splitTest","arg1","arg0"
+"m_splitTest",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"m_splitMerit",0,0,1,0,0,0,0,0,0,0,0,0,1,1
+"comp",0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"compare",0,0,0,0,0,0,0,1,0,1,0,0,0,0
+"postSplitDists",0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"numSplits",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"merit",0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"compareTo",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"m_postSplitClassDistributions",0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Double",0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"size",0,0,0,0,0,1,0,0,1,0,0,0,0,0
+"splitTest",1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"arg1",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"arg0",0,0,0,0,0,0,0,0,0,0,0,0,0,0

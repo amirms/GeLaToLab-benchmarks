@@ -1,0 +1,13 @@
+,"args","getTitle","SimpleCLIPanel","BorderLayout","JFrame","showPanel","arg0","panel","ScriptingPanel","getImage","DISPOSE_ON_CLOSE","getIcon"
+"args",1,0,0,0,0,0,0,0,0,0,0,0
+"getTitle",0,0,0,0,0,0,1,1,0,0,0,0
+"SimpleCLIPanel",0,0,0,0,0,0,0,2,0,0,0,0
+"BorderLayout",0,0,0,0,0,0,1,0,0,0,0,0
+"JFrame",0,0,0,0,0,0,0,0,0,0,1,0
+"showPanel",0,0,0,0,0,0,0,0,1,0,0,0
+"arg0",0,0,0,0,0,0,0,0,0,0,0,0
+"panel",0,1,0,0,0,0,1,0,0,0,0,1
+"ScriptingPanel",0,0,0,0,0,1,0,0,0,0,0,0
+"getImage",0,0,0,0,0,0,1,0,0,0,0,1
+"DISPOSE_ON_CLOSE",0,0,0,0,1,0,1,0,0,0,0,0
+"getIcon",0,0,0,0,0,0,0,1,0,1,0,0

@@ -1,0 +1,12 @@
+,"extension","getExtension","fieldName","BayesInput","getDerivedField","pairCounts","ArrayList","derivedField","getFieldName","value","getPairCounts"
+"extension",0,1,0,1,0,0,0,0,0,0,0
+"getExtension",0,0,0,0,0,0,0,0,0,0,0
+"fieldName",0,0,0,1,0,0,0,0,1,0,0
+"BayesInput",1,0,1,0,0,1,0,1,0,0,0
+"getDerivedField",0,0,0,0,0,0,0,0,0,0,0
+"pairCounts",0,0,0,1,0,0,0,0,0,0,1
+"ArrayList",1,0,0,0,0,1,0,0,0,0,0
+"derivedField",0,0,0,1,1,0,0,0,0,0,0
+"getFieldName",0,0,0,0,0,0,0,0,0,0,0
+"value",0,0,1,0,0,0,0,1,0,0,0
+"getPairCounts",0,0,0,0,0,0,0,0,0,0,0

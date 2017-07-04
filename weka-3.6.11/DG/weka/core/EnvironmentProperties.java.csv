@@ -1,0 +1,11 @@
+,"result","getProperty","m_env","arg0","Environment","getSystemWide","Properties","key","props","getVariableValue"
+"result",0,1,0,0,0,0,0,0,0,0
+"getProperty",1,0,0,0,0,0,1,0,0,0
+"m_env",0,0,0,0,0,0,0,0,0,1
+"arg0",0,0,0,0,0,0,0,0,0,0
+"Environment",0,0,0,0,0,1,0,0,0,0
+"getSystemWide",0,0,1,0,1,0,0,0,0,0
+"Properties",0,1,0,0,0,0,0,0,0,0
+"key",0,0,0,1,0,0,0,1,0,0
+"props",0,0,0,0,0,0,1,0,0,0
+"getVariableValue",1,0,1,0,0,0,0,0,0,0

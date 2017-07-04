@@ -1,0 +1,8 @@
+,"next","getClass","iterateOverMe","iterator","createIterator","hasNext","IllegalArgumentException"
+"next",1,0,0,1,0,0,0
+"getClass",0,0,1,0,0,0,1
+"iterateOverMe",0,1,1,0,2,0,0
+"iterator",1,0,0,0,0,1,0
+"createIterator",0,0,0,1,0,0,0
+"hasNext",0,0,0,1,0,1,0
+"IllegalArgumentException",0,0,0,0,0,0,0

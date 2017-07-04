@@ -1,0 +1,12 @@
+,"getStartPosition","coverage","node","TrackedNodePosition","TextEdit","getOffset","isEmpty","getTextEdits","getLength","getCoverage","group"
+"getStartPosition",2,0,2,0,0,0,0,0,0,0,0
+"coverage",0,0,0,0,0,1,0,0,1,0,0
+"node",2,0,1,5,0,0,0,0,2,0,0
+"TrackedNodePosition",0,0,5,0,0,0,0,0,0,0,5
+"TextEdit",0,0,0,0,0,0,0,0,0,2,0
+"getOffset",1,1,0,0,0,0,0,0,0,0,0
+"isEmpty",0,0,0,0,0,0,0,0,0,0,2
+"getTextEdits",0,0,0,0,0,0,0,0,0,2,2
+"getLength",0,1,2,0,0,0,0,0,3,0,0
+"getCoverage",0,2,0,0,2,0,0,0,0,0,0
+"group",0,0,0,5,0,0,2,2,0,0,1

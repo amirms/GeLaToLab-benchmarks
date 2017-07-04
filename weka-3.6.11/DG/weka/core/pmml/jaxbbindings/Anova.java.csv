@@ -1,0 +1,10 @@
+,"extension","getTarget","getExtension","ArrayList","anovaRow","Anova","getAnovaRow","value","target"
+"extension",0,0,1,0,0,1,0,0,0
+"getTarget",0,0,0,0,0,0,0,0,0
+"getExtension",0,0,0,0,0,0,0,0,0
+"ArrayList",1,0,0,0,1,0,0,0,0
+"anovaRow",0,0,0,0,0,1,1,0,0
+"Anova",1,0,0,0,1,0,0,0,1
+"getAnovaRow",0,0,0,0,0,0,0,0,0
+"value",0,0,0,0,0,0,0,0,1
+"target",0,1,0,0,0,1,0,0,0

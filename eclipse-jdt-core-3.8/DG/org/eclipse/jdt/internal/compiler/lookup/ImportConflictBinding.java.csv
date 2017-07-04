@@ -1,0 +1,13 @@
+,"reference","readableName","ImportConflictBinding","concatWith","conflictingTypeBinding","array","methodBinding","toString","String","ImportBinding","compoundName","CharOperation"
+"reference",0,0,0,0,0,0,0,0,0,1,0,0
+"readableName",0,0,0,0,0,0,0,0,1,0,0,0
+"ImportConflictBinding",0,0,0,0,1,0,0,0,0,0,1,0
+"concatWith",0,1,0,0,0,0,0,0,0,0,0,1
+"conflictingTypeBinding",0,0,1,0,1,0,0,0,0,0,0,0
+"array",0,0,0,0,0,0,0,0,0,0,0,0
+"methodBinding",0,0,0,0,0,0,0,0,0,1,0,0
+"toString",0,0,0,0,0,0,0,0,0,0,0,0
+"String",0,0,0,0,0,0,0,1,0,0,0,0
+"ImportBinding",0,0,0,0,0,0,0,0,0,0,0,0
+"compoundName",0,0,1,0,0,1,0,0,0,1,0,0
+"CharOperation",0,0,0,1,0,0,0,0,0,0,0,0

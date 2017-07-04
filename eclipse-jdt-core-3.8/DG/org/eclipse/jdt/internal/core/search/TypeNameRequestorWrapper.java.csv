@@ -1,0 +1,9 @@
+,"path","simpleTypeName","TypeNameRequestorWrapper","enclosingTypeNames","packageName","modifiers","requestor","acceptType"
+"path",1,0,0,0,0,0,0,0
+"simpleTypeName",0,1,0,0,0,0,0,0
+"TypeNameRequestorWrapper",0,0,0,0,0,0,2,0
+"enclosingTypeNames",0,0,0,1,0,0,0,0
+"packageName",0,0,0,0,1,0,0,0
+"modifiers",0,0,0,0,0,1,0,0
+"requestor",0,0,2,0,0,0,1,1
+"acceptType",0,0,0,0,0,0,1,0

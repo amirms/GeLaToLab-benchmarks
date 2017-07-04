@@ -1,0 +1,14 @@
+,"xCoordinates","boundaryValues","boundaryValueMeans","extension","getExtension","getBoundaryValues","ArrayList","getXCoordinates","LiftGraph","yCoordinates","value","getYCoordinates","getBoundaryValueMeans"
+"xCoordinates",0,0,0,0,0,0,0,1,1,0,0,0,0
+"boundaryValues",0,0,0,0,0,1,0,0,1,0,0,0,0
+"boundaryValueMeans",0,0,0,0,0,0,0,0,1,0,0,0,1
+"extension",0,0,0,0,1,0,0,0,1,0,0,0,0
+"getExtension",0,0,0,0,0,0,0,0,0,0,0,0,0
+"getBoundaryValues",0,0,0,0,0,0,0,0,0,0,0,0,0
+"ArrayList",0,0,0,1,0,0,0,0,0,0,0,0,0
+"getXCoordinates",0,0,0,0,0,0,0,0,0,0,0,0,0
+"LiftGraph",1,1,1,1,0,0,0,0,0,1,0,0,0
+"yCoordinates",0,0,0,0,0,0,0,0,1,0,0,1,0
+"value",1,1,1,0,0,0,0,0,0,1,0,0,0
+"getYCoordinates",0,0,0,0,0,0,0,0,0,0,0,0,0
+"getBoundaryValueMeans",0,0,0,0,0,0,0,0,0,0,0,0,0

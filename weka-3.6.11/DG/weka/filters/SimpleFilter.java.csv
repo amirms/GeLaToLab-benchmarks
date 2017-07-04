@@ -1,0 +1,8 @@
+,"instanceInfo","determineOutputFormat","Filter","setInputFormat","inputFormat","hasImmediateOutputFormat","outputFormat"
+"instanceInfo",1,0,0,0,1,0,0
+"determineOutputFormat",0,0,0,0,0,0,1
+"Filter",0,0,0,1,0,0,0
+"setInputFormat",0,0,1,0,0,0,0
+"inputFormat",0,0,0,0,0,0,0
+"hasImmediateOutputFormat",0,0,0,1,0,0,0
+"outputFormat",0,0,0,0,0,0,0

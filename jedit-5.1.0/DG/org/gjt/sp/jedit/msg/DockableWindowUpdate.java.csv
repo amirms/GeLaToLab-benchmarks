@@ -1,0 +1,9 @@
+,"paramString","what","wm","DockableWindowUpdate","dockable","getDockable","EBMessage","getWhat"
+"paramString",1,0,0,0,0,0,1,0
+"what",1,1,0,1,0,0,0,1
+"wm",0,0,0,0,0,0,1,0
+"DockableWindowUpdate",0,1,0,0,1,0,0,0
+"dockable",1,0,0,1,1,1,0,0
+"getDockable",0,0,0,0,0,0,0,0
+"EBMessage",1,0,0,0,0,0,0,0
+"getWhat",0,0,0,0,0,0,0,0

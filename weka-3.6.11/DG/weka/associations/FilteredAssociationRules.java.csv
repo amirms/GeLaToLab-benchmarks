@@ -1,0 +1,11 @@
+,"filter","m_filter","m_wrappedRules","getWrappedRules","AssociationRules","getNumRules","producer","rules","getRules","setRules"
+"filter",0,3,0,0,0,0,0,0,0,0
+"m_filter",0,0,0,0,0,0,0,0,0,0
+"m_wrappedRules",0,0,0,1,0,1,0,0,1,1
+"getWrappedRules",0,0,0,0,0,0,0,0,0,0
+"AssociationRules",0,0,0,0,0,0,0,0,0,0
+"getNumRules",0,0,1,0,0,1,0,0,0,0
+"producer",0,0,0,0,2,0,0,0,0,0
+"rules",0,0,4,0,0,0,0,1,0,0
+"getRules",0,0,1,0,0,0,0,0,1,0
+"setRules",0,0,1,0,0,0,0,0,0,0

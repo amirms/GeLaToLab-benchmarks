@@ -1,0 +1,14 @@
+,"m_SpecialElement","m_Counter","RevisionUtils","special","result","extract","size","arg0","get","vector","m_Vector","nextElement","getRevision"
+"m_SpecialElement",0,0,0,0,0,0,0,0,0,0,0,0,0
+"m_Counter",0,0,0,0,0,0,0,1,0,0,0,0,0
+"RevisionUtils",0,0,0,0,0,1,0,0,0,0,0,0,0
+"special",1,0,0,0,0,0,0,0,0,0,0,0,0
+"result",0,0,0,0,0,0,0,0,0,0,0,1,0
+"extract",0,0,1,0,0,0,0,0,0,0,0,0,1
+"size",0,0,0,0,0,0,0,0,0,0,1,0,0
+"arg0",0,0,0,0,0,0,0,0,0,0,0,0,0
+"get",0,0,0,0,1,0,0,0,0,0,1,0,0
+"vector",0,0,0,0,0,0,0,0,0,0,2,0,0
+"m_Vector",0,0,0,0,0,0,1,0,1,0,0,0,0
+"nextElement",0,0,0,0,0,0,0,0,0,0,0,0,0
+"getRevision",0,0,0,0,0,0,0,0,0,0,0,0,0

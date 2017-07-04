@@ -1,0 +1,12 @@
+,"extension","file","getName","toLowerCase","arg0","name","endsWith","description","ExtensionFileFilter","getDescription","isDirectory"
+"extension",1,0,0,0,1,0,0,0,2,0,0
+"file",0,0,1,0,0,0,0,0,0,0,1
+"getName",0,1,0,1,0,0,0,0,0,0,0
+"toLowerCase",0,0,1,0,0,1,0,0,0,0,0
+"arg0",0,0,0,0,0,0,0,0,0,0,0
+"name",0,0,0,0,0,0,1,0,0,0,0
+"endsWith",0,0,0,0,0,1,0,0,0,0,0
+"description",0,0,0,0,0,0,0,1,2,1,0
+"ExtensionFileFilter",2,0,0,0,0,0,0,2,0,0,0
+"getDescription",0,0,0,0,0,0,0,0,0,0,0
+"isDirectory",0,1,0,0,0,0,0,0,0,0,0

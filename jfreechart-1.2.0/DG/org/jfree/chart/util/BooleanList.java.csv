@@ -1,0 +1,10 @@
+,"b","obj","hashCode","get","equals","index","AbstractObjectList","getBoolean","object"
+"b",0,0,0,0,0,0,0,0,1
+"obj",0,1,0,0,0,0,0,0,0
+"hashCode",0,0,1,0,0,0,1,0,0
+"get",0,0,0,0,0,0,0,1,0
+"equals",0,0,0,0,1,0,1,0,0
+"index",0,0,0,0,0,2,0,0,0
+"AbstractObjectList",0,0,1,0,1,0,0,0,0
+"getBoolean",0,0,0,0,0,0,0,0,0
+"object",0,0,0,0,0,0,0,0,0

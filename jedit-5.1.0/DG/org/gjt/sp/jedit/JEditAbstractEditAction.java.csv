@@ -1,0 +1,9 @@
+,"args","getName","newName","JEditAbstractEditAction","arg","name","toString","newArgs"
+"args",0,0,0,1,0,0,0,0
+"getName",0,0,0,0,0,0,0,0
+"newName",0,0,0,0,0,1,0,0
+"JEditAbstractEditAction",1,0,0,0,0,2,0,0
+"arg",0,0,0,0,1,0,0,0
+"name",0,1,0,2,0,2,1,0
+"toString",0,0,0,0,0,0,0,0
+"newArgs",2,0,0,0,0,0,0,0

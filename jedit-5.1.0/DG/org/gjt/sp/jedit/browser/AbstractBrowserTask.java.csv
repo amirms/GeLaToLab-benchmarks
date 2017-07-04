@@ -1,0 +1,16 @@
+,"MyTaskListener","vfs","instance","session","listener","AbstractBrowserTask","addTaskListener","runInDispatchThread","path","runnable","TaskManager","awtTask","browser","ThreadUtilities","removeTaskListener"
+"MyTaskListener",0,0,0,0,2,0,0,0,0,1,0,0,0,0,0
+"vfs",0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+"instance",0,0,0,0,0,0,1,0,0,0,2,0,0,0,1
+"session",0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+"listener",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"AbstractBrowserTask",0,1,0,1,0,0,0,0,1,0,0,0,1,0,0
+"addTaskListener",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"runInDispatchThread",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"path",0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+"runnable",1,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+"TaskManager",0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+"awtTask",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"browser",0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+"ThreadUtilities",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"removeTaskListener",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0

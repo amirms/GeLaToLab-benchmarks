@@ -1,0 +1,12 @@
+,"extension","getExtension","fieldValueCount","getFieldValue","COUNTTABLETYPE","ArrayList","getFieldValueCount","fieldValue","sample","value","getSample"
+"extension",0,1,0,0,1,0,0,0,0,0,0
+"getExtension",0,0,0,0,0,0,0,0,0,0,0
+"fieldValueCount",0,0,0,0,1,0,1,0,0,0,0
+"getFieldValue",0,0,0,0,0,0,0,0,0,0,0
+"COUNTTABLETYPE",1,0,1,0,0,0,0,1,1,0,0
+"ArrayList",1,0,1,0,0,0,0,1,0,0,0
+"getFieldValueCount",0,0,0,0,0,0,0,0,0,0,0
+"fieldValue",0,0,0,1,1,0,0,0,0,0,0
+"sample",0,0,0,0,1,0,0,0,0,0,1
+"value",0,0,0,0,0,0,0,0,1,0,0
+"getSample",0,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,8 @@
+,"extension","getExtension","getSeqId","ArrayList","value","seqId","SequenceReference"
+"extension",0,1,0,0,0,0,1
+"getExtension",0,0,0,0,0,0,0
+"getSeqId",0,0,0,0,0,0,0
+"ArrayList",1,0,0,0,0,0,0
+"value",0,0,0,0,0,1,0
+"seqId",0,0,1,0,0,0,1
+"SequenceReference",1,0,0,0,0,1,0

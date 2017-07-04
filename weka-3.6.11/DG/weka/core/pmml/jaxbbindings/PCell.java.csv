@@ -1,0 +1,14 @@
+,"getParameterName","df","extension","getExtension","getDf","ArrayList","parameterName","getTargetCategory","targetCategory","PCell","getBeta","value","beta"
+"getParameterName",0,0,0,0,0,0,0,0,0,0,0,0,0
+"df",0,1,0,0,1,0,0,0,0,2,0,0,0
+"extension",0,0,0,1,0,0,0,0,0,1,0,0,0
+"getExtension",0,0,0,0,0,0,0,0,0,0,0,0,0
+"getDf",0,0,0,0,0,0,0,0,0,0,0,0,0
+"ArrayList",0,0,1,0,0,0,0,0,0,0,0,0,0
+"parameterName",1,0,0,0,0,0,1,0,0,2,0,0,0
+"getTargetCategory",0,0,0,0,0,0,0,0,0,0,0,0,0
+"targetCategory",0,0,0,0,0,0,0,1,1,2,0,0,0
+"PCell",0,2,1,0,0,0,2,0,2,0,0,0,2
+"getBeta",0,0,0,0,0,0,0,0,0,0,0,0,0
+"value",0,1,0,0,0,0,1,0,1,0,0,0,1
+"beta",0,0,0,0,0,0,0,0,0,2,1,0,1

@@ -1,0 +1,10 @@
+,"path","VFSPathSelected","getSource","getPath","EBMessage","source","getView","isDirectory","isDir"
+"path",1,1,0,1,0,0,0,0,0
+"VFSPathSelected",1,0,0,0,0,0,0,0,1
+"getSource",0,0,0,0,0,0,1,0,0
+"getPath",0,0,0,0,0,0,0,0,0
+"EBMessage",0,0,0,0,0,0,0,0,0
+"source",0,0,0,0,1,0,0,0,0
+"getView",0,0,0,0,0,0,0,0,0
+"isDirectory",0,0,0,0,0,0,0,0,1
+"isDir",0,1,0,0,0,0,0,1,0

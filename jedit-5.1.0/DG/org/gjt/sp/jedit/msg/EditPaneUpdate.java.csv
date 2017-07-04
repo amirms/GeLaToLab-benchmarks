@@ -1,0 +1,9 @@
+,"paramString","what","getSource","editPane","EBMessage","EditPaneUpdate","getWhat","getEditPane"
+"paramString",1,0,0,0,1,0,0,0
+"what",1,1,0,0,0,1,1,0
+"getSource",0,0,0,0,0,0,0,1
+"editPane",0,0,0,0,1,0,0,0
+"EBMessage",1,0,0,0,0,0,0,0
+"EditPaneUpdate",0,1,0,0,0,0,0,0
+"getWhat",0,0,0,0,0,0,0,0
+"getEditPane",0,0,0,0,0,0,0,0

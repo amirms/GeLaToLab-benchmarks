@@ -1,0 +1,10 @@
+,"DeclarationOfAccessedFieldsPattern","SimpleSet","FieldPattern","knownFields","mustResolve","IJavaSearchConstants","REFERENCES","R_PATTERN_MATCH","enclosingElement"
+"DeclarationOfAccessedFieldsPattern",0,0,0,1,1,0,0,0,1
+"SimpleSet",0,0,0,1,0,0,0,0,0
+"FieldPattern",0,0,0,0,0,0,0,0,0
+"knownFields",1,0,0,0,0,0,0,0,0
+"mustResolve",1,0,0,0,0,0,0,0,0
+"IJavaSearchConstants",0,0,0,0,0,0,1,0,0
+"REFERENCES",0,0,1,0,0,1,0,0,0
+"R_PATTERN_MATCH",0,0,1,0,0,0,0,0,0
+"enclosingElement",1,0,0,0,0,0,0,0,1

@@ -1,0 +1,14 @@
+,"Node","getContent","recordCount","ArrayList","getId","content","getDefaultChild","score","defaultChild","getRecordCount","id","getScore","value"
+"Node",0,0,1,0,0,1,0,1,1,0,1,0,0
+"getContent",0,0,0,0,0,0,0,0,0,0,0,0,0
+"recordCount",1,0,0,0,0,0,0,0,0,1,0,0,0
+"ArrayList",0,0,0,0,0,1,0,0,0,0,0,0,0
+"getId",0,0,0,0,0,0,0,0,0,0,0,0,0
+"content",1,1,0,0,0,0,0,0,0,0,0,0,0
+"getDefaultChild",0,0,0,0,0,0,0,0,0,0,0,0,0
+"score",1,0,0,0,0,0,0,0,0,0,0,1,0
+"defaultChild",1,0,0,0,0,0,1,0,0,0,0,0,0
+"getRecordCount",0,0,0,0,0,0,0,0,0,0,0,0,0
+"id",1,0,0,0,1,0,0,0,0,0,0,0,0
+"getScore",0,0,0,0,0,0,0,0,0,0,0,0,0
+"value",0,0,1,0,0,0,0,1,1,0,1,0,0

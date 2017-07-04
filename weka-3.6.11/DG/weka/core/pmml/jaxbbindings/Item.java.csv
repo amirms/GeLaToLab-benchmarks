@@ -1,0 +1,13 @@
+,"Item","getValue","extension","getExtension","mappedValue","getWeight","ArrayList","weight","getId","getMappedValue","id","value"
+"Item",0,0,1,0,1,0,0,1,0,0,1,1
+"getValue",0,0,0,0,0,0,0,0,0,0,0,0
+"extension",1,0,0,1,0,0,0,0,0,0,0,0
+"getExtension",0,0,0,0,0,0,0,0,0,0,0,0
+"mappedValue",1,0,0,0,0,0,0,0,0,1,0,0
+"getWeight",0,0,0,0,0,0,0,0,0,0,0,0
+"ArrayList",0,0,1,0,0,0,0,0,0,0,0,0
+"weight",1,0,0,0,0,1,0,0,0,0,0,0
+"getId",0,0,0,0,0,0,0,0,0,0,0,0
+"getMappedValue",0,0,0,0,0,0,0,0,0,0,0,0
+"id",1,0,0,0,0,0,0,0,1,0,0,0
+"value",1,1,0,0,1,0,0,1,0,0,1,1

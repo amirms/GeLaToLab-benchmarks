@@ -1,0 +1,13 @@
+,"getNodeFile","split","nodeFile","getAbsolutePath","paths","equals","arg0","length","toString","fileSep","HyperSearchFolderNode","showFullPath"
+"getNodeFile",0,0,0,0,0,0,0,0,0,0,0,0
+"split",0,0,0,1,1,0,0,0,0,0,0,0
+"nodeFile",1,0,1,2,0,0,0,0,0,0,1,0
+"getAbsolutePath",0,1,2,0,0,0,0,0,1,0,0,0
+"paths",0,0,0,0,0,0,0,1,1,0,0,0
+"equals",0,0,0,0,0,0,0,0,0,1,0,0
+"arg0",0,0,0,0,0,0,0,0,0,0,0,0
+"length",0,0,0,0,2,0,0,0,0,0,0,0
+"toString",0,0,0,0,0,0,0,0,0,0,0,0
+"fileSep",0,0,0,0,0,1,1,0,0,0,0,0
+"HyperSearchFolderNode",0,0,1,0,0,0,0,0,0,0,0,1
+"showFullPath",0,0,0,0,0,0,0,0,0,0,1,1

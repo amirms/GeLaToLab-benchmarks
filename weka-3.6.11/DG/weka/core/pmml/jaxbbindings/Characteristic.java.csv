@@ -1,0 +1,14 @@
+,"extension","baselineScore","getExtension","getName","Characteristic","ArrayList","getReasonCode","getAttribute","getBaselineScore","name","attribute","reasonCode","value"
+"extension",0,0,1,0,1,0,0,0,0,0,0,0,0
+"baselineScore",0,0,0,0,1,0,0,0,1,0,0,0,0
+"getExtension",0,0,0,0,0,0,0,0,0,0,0,0,0
+"getName",0,0,0,0,0,0,0,0,0,0,0,0,0
+"Characteristic",1,1,0,0,0,0,0,0,0,1,1,1,0
+"ArrayList",1,0,0,0,0,0,0,0,0,0,1,0,0
+"getReasonCode",0,0,0,0,0,0,0,0,0,0,0,0,0
+"getAttribute",0,0,0,0,0,0,0,0,0,0,0,0,0
+"getBaselineScore",0,0,0,0,0,0,0,0,0,0,0,0,0
+"name",0,0,0,1,1,0,0,0,0,0,0,0,0
+"attribute",0,0,0,0,1,0,0,1,0,0,0,0,0
+"reasonCode",0,0,0,0,1,0,1,0,0,0,0,0,0
+"value",0,1,0,0,0,0,0,0,0,1,0,1,0

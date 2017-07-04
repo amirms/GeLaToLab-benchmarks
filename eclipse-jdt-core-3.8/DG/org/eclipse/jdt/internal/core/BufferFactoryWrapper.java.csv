@@ -1,0 +1,14 @@
+,"owner","factory","other","workingCopy","createBuffer","BufferFactoryWrapper","WorkingCopyOwner","obj","hashCode","equals","arg0","create","toString"
+"owner",0,0,0,0,0,0,0,0,0,0,0,0,0
+"factory",0,1,2,0,1,9,0,0,1,2,1,0,1
+"other",0,2,0,0,0,0,0,0,0,0,0,0,0
+"workingCopy",1,0,0,1,0,0,0,0,0,0,0,0,0
+"createBuffer",0,1,0,0,2,0,1,0,0,0,0,0,0
+"BufferFactoryWrapper",0,8,0,0,0,0,0,0,0,0,0,1,0
+"WorkingCopyOwner",0,0,0,0,1,0,0,0,0,0,0,0,0
+"obj",0,0,1,0,0,0,0,0,0,0,0,0,0
+"hashCode",0,1,0,0,0,0,0,0,1,0,0,0,0
+"equals",0,1,0,0,0,0,0,0,0,1,0,0,0
+"arg0",0,0,0,0,0,0,0,0,0,0,0,0,0
+"create",0,0,0,0,0,0,0,0,0,0,0,0,0
+"toString",0,0,0,0,0,0,0,0,0,0,0,0,0

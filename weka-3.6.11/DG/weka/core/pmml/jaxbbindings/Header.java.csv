@@ -1,0 +1,16 @@
+,"getApplication","annotation","extension","copyright","getExtension","getCopyright","ArrayList","description","getDescription","Header","application","getAnnotation","getTimestamp","value","timestamp"
+"getApplication",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"annotation",0,0,0,0,0,0,0,0,0,1,0,1,0,0,0
+"extension",0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+"copyright",0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+"getExtension",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"getCopyright",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"ArrayList",0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+"description",0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+"getDescription",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Header",0,1,1,1,0,0,0,1,0,0,1,0,0,0,1
+"application",1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"getAnnotation",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"getTimestamp",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"value",0,0,0,1,0,0,0,1,0,0,1,0,0,0,1
+"timestamp",0,0,0,0,0,0,0,0,0,1,0,0,1,0,0

@@ -1,0 +1,14 @@
+,"endsWithIgnoreCase","getProperty","getLineSeparator","length","start","regionMatches","System","arg2","arg4","arg1","end","startsWithIgnoreCase","base"
+"endsWithIgnoreCase",0,0,0,0,0,0,0,0,0,0,0,0,0
+"getProperty",0,0,1,0,0,0,1,0,0,0,0,0,0
+"getLineSeparator",0,0,0,0,0,0,0,0,0,0,0,0,0
+"length",0,0,0,0,2,0,0,0,2,2,3,0,3
+"start",0,0,0,2,0,0,0,1,0,0,0,0,0
+"regionMatches",1,0,0,0,0,0,0,0,0,0,0,1,2
+"System",0,1,0,0,0,0,0,0,0,0,0,0,0
+"arg2",0,0,0,0,0,0,0,0,0,0,0,0,0
+"arg4",0,0,0,0,0,0,0,0,0,0,0,0,0
+"arg1",0,0,0,0,0,0,0,0,0,0,0,0,0
+"end",0,0,0,3,0,0,0,1,0,0,0,0,0
+"startsWithIgnoreCase",0,0,0,0,0,0,0,0,0,0,0,0,0
+"base",0,0,0,3,0,2,0,0,0,0,0,0,0

@@ -1,0 +1,17 @@
+,"raisedException","preciseTypes","TypeBinding","length","i","type","modifiers","declaration","System","LocalVariableBinding","isArgument","arg4","arraycopy","arg0","getPreciseTypes","CatchParameterBinding"
+"raisedException",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"preciseTypes",0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,6
+"TypeBinding",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"length",0,2,1,1,0,0,0,0,0,0,0,1,0,0,0,0
+"i",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"type",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"modifiers",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"declaration",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"System",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"LocalVariableBinding",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"isArgument",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"arg4",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"arraycopy",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"arg0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"getPreciseTypes",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"CatchParameterBinding",0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,9 @@
+,"m_textTitle","getTextTitle","textTitle","getText","source","text","EventObject","m_text"
+"m_textTitle",0,1,0,0,0,0,0,0
+"getTextTitle",0,0,0,0,0,0,0,0
+"textTitle",1,0,0,0,0,0,0,0
+"getText",0,0,0,0,0,0,0,0
+"source",0,0,0,0,0,0,1,0
+"text",0,0,0,0,0,0,0,1
+"EventObject",0,0,0,0,0,0,0,0
+"m_text",0,0,0,1,0,0,0,0

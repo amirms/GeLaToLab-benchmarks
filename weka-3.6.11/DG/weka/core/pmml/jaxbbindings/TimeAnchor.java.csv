@@ -1,0 +1,16 @@
+,"offset","TimeAnchor","displayName","getOffset","ArrayList","type","getStepsize","timeException","getDisplayName","getType","getTimeCycle","getTimeException","value","timeCycle","stepsize"
+"offset",0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+"TimeAnchor",1,0,1,0,0,1,0,1,0,0,0,0,0,1,1
+"displayName",0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+"getOffset",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"ArrayList",0,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+"type",0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+"getStepsize",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"timeException",0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+"getDisplayName",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"getType",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"getTimeCycle",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"getTimeException",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"value",1,0,1,0,0,1,0,0,0,0,0,0,0,0,1
+"timeCycle",0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+"stepsize",0,1,0,0,0,0,1,0,0,0,0,0,0,0,0

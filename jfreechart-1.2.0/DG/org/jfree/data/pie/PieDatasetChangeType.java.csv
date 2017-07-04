@@ -1,0 +1,12 @@
+,"result","pdct","ADD","readResolve","obj","hashCode","arg0","equals","name","PieDatasetChangeType","toString"
+"result",0,0,0,1,0,0,0,0,0,0,0
+"pdct",0,0,0,0,0,0,0,0,0,0,1
+"ADD",1,0,0,0,1,0,0,0,0,2,0
+"readResolve",0,0,0,0,0,0,0,0,0,0,0
+"obj",0,1,0,0,0,0,0,0,0,0,0
+"hashCode",0,0,0,0,0,1,0,0,1,0,0
+"arg0",0,0,0,0,0,0,0,0,0,0,0
+"equals",0,0,0,0,0,0,0,0,1,1,0
+"name",0,0,0,0,0,1,0,1,1,4,1
+"PieDatasetChangeType",0,0,2,0,0,0,0,1,4,0,0
+"toString",0,1,0,0,0,0,1,0,0,0,0

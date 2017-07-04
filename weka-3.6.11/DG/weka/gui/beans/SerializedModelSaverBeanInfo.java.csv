@@ -1,0 +1,11 @@
+,"esds","weka","BeanDescriptor","beans","SerializedModelSaver","getEventSetDescriptors","gui","SerializedModelSaverCustomizer","class","getBeanDescriptor"
+"esds",0,0,0,0,0,1,0,0,0,0
+"weka",0,0,0,0,0,0,1,0,0,0
+"BeanDescriptor",0,0,0,0,0,0,0,0,0,1
+"beans",0,0,0,0,1,0,1,0,0,0
+"SerializedModelSaver",0,0,0,1,0,0,0,0,1,0
+"getEventSetDescriptors",0,0,0,0,0,0,0,0,0,0
+"gui",0,1,0,1,0,0,0,0,0,0
+"SerializedModelSaverCustomizer",0,0,0,0,0,0,0,0,1,0
+"class",0,0,2,0,1,0,0,1,0,0
+"getBeanDescriptor",0,0,0,0,0,0,0,0,0,0

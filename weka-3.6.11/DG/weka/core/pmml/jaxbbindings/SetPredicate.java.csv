@@ -1,0 +1,14 @@
+,"extension","getExtension","SetPredicate","ArrayList","getField","getArray","getId","operator","field","array","id","value","getOperator"
+"extension",0,1,1,0,0,0,0,0,0,0,0,0,0
+"getExtension",0,0,0,0,0,0,0,0,0,0,0,0,0
+"SetPredicate",1,0,0,0,0,0,0,1,1,1,1,0,0
+"ArrayList",1,0,0,0,0,0,0,0,0,0,0,0,0
+"getField",0,0,0,0,0,0,0,0,0,0,0,0,0
+"getArray",0,0,0,0,0,0,0,0,0,0,0,0,0
+"getId",0,0,0,0,0,0,0,0,0,0,0,0,0
+"operator",0,0,1,0,0,0,0,0,0,0,0,0,1
+"field",0,0,1,0,1,0,0,0,0,0,0,0,0
+"array",0,0,1,0,0,1,0,0,0,0,0,0,0
+"id",0,0,1,0,0,0,1,0,0,0,0,0,0
+"value",0,0,0,0,0,0,0,1,1,1,1,0,0
+"getOperator",0,0,0,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,14 @@
+,"CompilationUnit","getFullPath","Util","getResourceContentsAsCharArray","CharOperation","file","contents","getPath","getContents","toString","location","ResourceCompilationUnit","NO_CHAR"
+"CompilationUnit",0,0,0,0,0,0,0,0,0,0,0,0,0
+"getFullPath",0,0,0,0,0,1,0,0,0,1,0,0,0
+"Util",0,0,0,1,0,0,0,0,0,0,0,0,0
+"getResourceContentsAsCharArray",0,0,1,0,0,0,0,0,1,0,0,0,0
+"CharOperation",0,0,0,0,0,0,0,0,0,0,0,0,1
+"file",0,1,0,1,0,1,0,0,0,0,0,2,0
+"contents",0,0,0,0,0,0,0,0,1,0,0,2,0
+"getPath",1,0,0,0,0,0,0,0,0,0,1,0,0
+"getContents",0,0,0,0,0,0,0,0,0,0,0,0,0
+"toString",1,1,0,0,0,0,0,0,0,0,0,0,0
+"location",1,0,0,0,0,0,0,1,0,0,0,0,0
+"ResourceCompilationUnit",0,0,0,0,0,2,2,0,0,0,0,0,0
+"NO_CHAR",0,0,0,0,1,0,0,0,1,0,0,0,0

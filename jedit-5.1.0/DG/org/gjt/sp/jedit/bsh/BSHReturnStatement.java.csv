@@ -1,0 +1,11 @@
+,"Primitive","jjtGetChild","eval","BSHReturnStatement","kind","ReturnControl","id","VOID","value","SimpleNode"
+"Primitive",0,0,0,0,0,0,0,1,0,0
+"jjtGetChild",0,0,0,0,0,0,0,0,1,0
+"eval",0,0,0,0,0,0,0,0,0,0
+"BSHReturnStatement",0,0,0,0,0,1,0,0,0,0
+"kind",0,0,0,0,0,1,0,0,0,0
+"ReturnControl",0,0,1,0,0,0,0,0,0,0
+"id",0,0,0,0,0,0,0,0,0,1
+"VOID",1,0,0,0,0,0,0,0,1,0
+"value",0,0,0,0,0,1,0,0,0,0
+"SimpleNode",0,0,0,0,0,0,0,0,0,0

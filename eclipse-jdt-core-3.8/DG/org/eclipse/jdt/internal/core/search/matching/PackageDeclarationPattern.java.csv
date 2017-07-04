@@ -1,0 +1,10 @@
+,"PackageDeclarationPattern","output","print","pkgName","arg0","matchRule","JavaSearchPattern","append","PKG_DECL_PATTERN"
+"PackageDeclarationPattern",0,0,0,3,0,0,0,0,0
+"output",0,1,0,0,0,0,0,4,0
+"print",0,0,1,0,0,0,1,0,0
+"pkgName",3,0,0,1,1,0,0,0,0
+"arg0",0,0,0,0,0,0,0,0,0
+"matchRule",0,0,0,0,0,0,1,0,0
+"JavaSearchPattern",0,0,1,0,0,0,0,0,0
+"append",0,4,0,0,0,0,0,0,0
+"PKG_DECL_PATTERN",0,0,0,0,0,0,1,0,0

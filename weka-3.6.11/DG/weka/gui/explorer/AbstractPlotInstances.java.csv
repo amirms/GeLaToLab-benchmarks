@@ -1,0 +1,16 @@
+,"listOptions","getInstances","m_Instances","getPlotInstances","createPlotData","getPlotData","String","canPlot","numInstances","elements","m_PlotInstances","name","getOptions","Vector","value"
+"listOptions",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"getInstances",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"m_Instances",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"getPlotInstances",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"createPlotData",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"getPlotData",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"String",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"canPlot",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"numInstances",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+"elements",1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"m_PlotInstances",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"name",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"getOptions",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Vector",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"value",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0

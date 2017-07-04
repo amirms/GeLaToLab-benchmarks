@@ -1,0 +1,13 @@
+,"maxTime","getValue","extension","getExtension","getLabel","BaselineStratum","getMaxTime","getBaselineCell","ArrayList","label","value","baselineCell"
+"maxTime",0,0,0,0,0,1,1,0,0,0,0,0
+"getValue",0,0,0,0,0,0,0,0,0,0,0,0
+"extension",0,0,0,1,0,1,0,0,0,0,0,0
+"getExtension",0,0,0,0,0,0,0,0,0,0,0,0
+"getLabel",0,0,0,0,0,0,0,0,0,0,0,0
+"BaselineStratum",1,0,1,0,0,0,0,0,0,1,1,1
+"getMaxTime",0,0,0,0,0,0,0,0,0,0,0,0
+"getBaselineCell",0,0,0,0,0,0,0,0,0,0,0,0
+"ArrayList",0,0,1,0,0,0,0,0,0,0,0,1
+"label",0,0,0,0,1,1,0,0,0,0,0,0
+"value",1,1,0,0,0,1,0,0,0,1,1,0
+"baselineCell",0,0,0,0,0,1,0,1,0,0,0,0

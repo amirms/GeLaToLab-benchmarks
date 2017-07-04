@@ -1,0 +1,9 @@
+,"parent","TypeParameter","infoCache","arg0","get","name","getElementInfo","AssistTypeParameter"
+"parent",0,1,0,0,0,0,0,0
+"TypeParameter",0,0,0,0,0,0,0,0
+"infoCache",0,0,1,0,1,0,0,2
+"arg0",0,0,0,0,0,0,0,0
+"get",0,0,1,0,0,0,1,0
+"name",0,1,0,0,0,0,0,0
+"getElementInfo",0,0,0,0,0,0,0,0
+"AssistTypeParameter",0,0,2,1,0,0,0,0

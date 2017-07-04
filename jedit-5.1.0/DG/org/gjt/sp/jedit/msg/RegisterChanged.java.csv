@@ -1,0 +1,11 @@
+,"getRegisterName","paramString","getRegisterValue","name","EBMessage","toString","source","Registers","registerName","getRegister"
+"getRegisterName",0,0,0,0,0,0,0,0,0,0
+"paramString",0,1,0,0,1,0,0,0,0,0
+"getRegisterValue",0,0,0,0,0,0,0,0,0,0
+"name",0,0,0,0,0,0,0,0,1,0
+"EBMessage",0,1,0,0,0,0,0,0,0,0
+"toString",0,0,1,0,0,0,0,0,0,1
+"source",0,0,0,0,1,0,0,0,0,0
+"Registers",0,0,0,0,0,0,0,0,0,1
+"registerName",1,1,0,1,0,0,0,0,0,0
+"getRegister",0,0,0,0,0,1,0,1,0,0

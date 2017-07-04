@@ -1,0 +1,10 @@
+,"getInterval","extension","getExtension","ArrayList","interval","binValue","getBinValue","DiscretizeBin","value"
+"getInterval",0,0,0,0,0,0,0,0,0
+"extension",0,0,1,0,0,0,0,1,0
+"getExtension",0,0,0,0,0,0,0,0,0
+"ArrayList",0,1,0,0,0,0,0,0,0
+"interval",1,0,0,0,0,0,0,1,0
+"binValue",0,0,0,0,0,0,1,1,0
+"getBinValue",0,0,0,0,0,0,0,0,0
+"DiscretizeBin",0,1,0,0,1,1,0,0,0
+"value",0,0,0,0,1,1,0,0,0

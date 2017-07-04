@@ -1,0 +1,10 @@
+,"SimpleSet","knownMethods","MethodPattern","DeclarationOfReferencedMethodsPattern","mustResolve","IJavaSearchConstants","REFERENCES","R_PATTERN_MATCH","enclosingElement"
+"SimpleSet",0,1,0,0,0,0,0,0,0
+"knownMethods",0,0,0,1,0,0,0,0,0
+"MethodPattern",0,0,0,0,0,0,0,0,0
+"DeclarationOfReferencedMethodsPattern",0,1,0,0,1,0,0,0,1
+"mustResolve",0,0,0,1,0,0,0,0,0
+"IJavaSearchConstants",0,0,0,0,0,0,1,0,0
+"REFERENCES",0,0,1,0,0,1,0,0,0
+"R_PATTERN_MATCH",0,0,1,0,0,0,0,0,0
+"enclosingElement",0,0,0,1,0,0,0,0,1

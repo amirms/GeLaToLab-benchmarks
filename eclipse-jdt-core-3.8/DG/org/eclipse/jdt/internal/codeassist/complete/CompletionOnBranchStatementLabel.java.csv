@@ -1,0 +1,16 @@
+,"e","indent","kind","CompletionOnBranchStatementLabel","label","l","BranchStatement","possibleLabels","output","printStatement","CompletionNodeFound","s","scope","arg0","append"
+"e",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"indent",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"kind",0,0,1,2,0,0,0,0,0,0,0,0,0,0,0
+"CompletionOnBranchStatementLabel",0,0,2,0,1,0,0,1,0,0,1,0,0,0,0
+"label",0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+"l",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"BranchStatement",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"possibleLabels",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+"output",0,0,0,0,0,0,0,0,1,0,0,0,0,0,5
+"printStatement",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"CompletionNodeFound",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"s",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"scope",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"arg0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"append",0,0,0,0,0,0,0,0,5,1,0,0,0,0,0

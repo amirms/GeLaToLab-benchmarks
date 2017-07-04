@@ -1,0 +1,12 @@
+,"standardError","getValue","getIndex","getTimestamp","getTime","index","time","value","TimeValue","getStandardError","timestamp"
+"standardError",0,0,0,0,0,0,0,0,1,1,0
+"getValue",0,0,0,0,0,0,0,0,0,0,0
+"getIndex",0,0,0,0,0,0,0,0,0,0,0
+"getTimestamp",0,0,0,0,0,0,0,0,0,0,0
+"getTime",0,0,0,0,0,0,0,0,0,0,0
+"index",0,0,1,0,0,0,0,0,1,0,0
+"time",0,0,0,0,1,0,0,0,1,0,0
+"value",1,1,0,0,0,1,1,1,1,0,1
+"TimeValue",1,0,0,0,0,1,1,1,0,0,1
+"getStandardError",0,0,0,0,0,0,0,0,0,0,0
+"timestamp",0,0,0,1,0,0,0,0,1,0,0

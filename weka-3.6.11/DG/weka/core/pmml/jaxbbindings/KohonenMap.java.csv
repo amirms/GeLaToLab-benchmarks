@@ -1,0 +1,12 @@
+,"extension","getExtension","getCoord3","getCoord2","KohonenMap","getCoord1","ArrayList","coord1","value","coord2","coord3"
+"extension",0,1,0,0,1,0,0,0,0,0,0
+"getExtension",0,0,0,0,0,0,0,0,0,0,0
+"getCoord3",0,0,0,0,0,0,0,0,0,0,0
+"getCoord2",0,0,0,0,0,0,0,0,0,0,0
+"KohonenMap",1,0,0,0,0,0,0,1,0,1,1
+"getCoord1",0,0,0,0,0,0,0,0,0,0,0
+"ArrayList",1,0,0,0,0,0,0,0,0,0,0
+"coord1",0,0,0,0,1,1,0,0,0,0,0
+"value",0,0,0,0,0,0,0,1,0,1,1
+"coord2",0,0,0,1,1,0,0,0,0,0,0
+"coord3",0,0,1,0,1,0,0,0,0,0,0

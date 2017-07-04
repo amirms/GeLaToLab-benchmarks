@@ -1,0 +1,13 @@
+,"ChartChangeEventType","that","readResolve","NEW_DATASET","obj","hashCode","arg0","equals","name","toString","GENERAL","DATASET_UPDATED"
+"ChartChangeEventType",0,0,0,2,0,0,0,3,4,0,2,2
+"that",0,0,0,0,0,0,0,0,0,1,0,0
+"readResolve",0,0,0,0,0,0,0,0,0,0,0,0
+"NEW_DATASET",2,0,1,0,1,0,0,0,0,0,0,0
+"obj",0,1,0,0,0,0,0,0,0,0,0,0
+"hashCode",0,0,0,0,0,1,0,0,1,0,0,0
+"arg0",0,0,0,0,0,0,0,0,0,0,0,0
+"equals",3,0,0,0,0,0,0,0,1,0,0,0
+"name",4,0,0,0,0,1,0,1,1,1,0,0
+"toString",0,1,0,0,0,0,1,0,0,0,0,0
+"GENERAL",2,0,1,0,1,0,0,0,0,0,0,0
+"DATASET_UPDATED",2,0,1,0,1,0,0,0,0,0,0,0

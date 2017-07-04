@@ -1,0 +1,17 @@
+,"classStart","resolveType","printExpression","completionIdentifier","targetType","type","CompletionOnClassLiteralAccess","output","print","CompletionNodeFound","t","pos","arg0","scope","ClassLiteralAccess","append"
+"classStart",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"resolveType",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"printExpression",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"completionIdentifier",0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+"targetType",0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+"type",0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+"CompletionOnClassLiteralAccess",1,0,0,1,1,1,0,0,0,1,0,0,0,0,0,0
+"output",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+"print",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+"CompletionNodeFound",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"t",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"pos",1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"arg0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"scope",0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+"ClassLiteralAccess",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"append",0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,4

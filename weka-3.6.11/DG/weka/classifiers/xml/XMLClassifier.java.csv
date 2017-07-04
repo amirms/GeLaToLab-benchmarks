@@ -1,0 +1,13 @@
+,"XMLBasicSerialization","weka","c","extract","m_Properties","clear","classifiers","RevisionUtils","Classifier","addAllowed","class","getRevision"
+"XMLBasicSerialization",0,0,0,0,0,1,0,0,0,0,0,0
+"weka",0,0,0,0,0,0,2,0,0,0,0,0
+"c",0,0,0,0,0,0,0,0,0,0,0,0
+"extract",0,0,0,0,0,0,0,1,0,0,0,1
+"m_Properties",0,0,0,0,0,0,0,0,0,2,0,0
+"clear",1,0,0,0,0,0,0,0,0,0,0,0
+"classifiers",0,2,0,0,0,0,0,0,2,0,0,0
+"RevisionUtils",0,0,0,1,0,0,0,0,0,0,0,0
+"Classifier",0,0,0,0,0,0,2,0,0,0,2,0
+"addAllowed",0,0,0,0,2,0,0,0,0,0,0,0
+"class",0,0,2,0,0,0,0,0,2,0,0,0
+"getRevision",0,0,0,0,0,0,0,0,0,0,0,0

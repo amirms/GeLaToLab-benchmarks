@@ -1,0 +1,9 @@
+,"t","getIndex1","index1","changeType","getIndex2","index2","getChangeType","SeriesChangeInfo"
+"t",0,0,0,1,0,0,0,0
+"getIndex1",0,0,0,0,0,0,0,0
+"index1",0,1,1,0,0,0,0,2
+"changeType",0,0,0,0,0,0,1,2
+"getIndex2",0,0,0,0,0,0,0,0
+"index2",0,0,0,0,1,1,0,2
+"getChangeType",0,0,0,0,0,0,0,0
+"SeriesChangeInfo",0,0,2,2,0,2,0,0
