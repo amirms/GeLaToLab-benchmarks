@@ -1,0 +1,11 @@
+,"next","isAllWhitespace","iterator","isAllText","isEmpty","EMPTYIT","iter","hasNext","content","alltext"
+"next",1,0,0,0,0,0,1,0,0,0
+"isAllWhitespace",0,0,0,0,0,0,0,0,0,0
+"iterator",0,0,0,0,0,0,1,0,1,0
+"isAllText",0,0,0,0,0,0,0,0,0,0
+"isEmpty",0,0,0,0,0,0,0,0,1,0
+"EMPTYIT",0,0,0,0,0,0,1,0,0,0
+"iter",1,0,0,0,0,0,0,1,0,0
+"hasNext",0,0,0,0,0,0,1,1,0,0
+"content",0,0,1,0,1,0,0,0,0,0
+"alltext",0,1,0,1,0,0,0,0,0,0

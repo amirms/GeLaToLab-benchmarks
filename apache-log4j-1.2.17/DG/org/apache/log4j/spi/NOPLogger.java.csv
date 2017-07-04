@@ -1,0 +1,15 @@
+,"parent","level","repo","Logger","repository","getAllAppenders","OFF","elements","name","getEffectiveLevel","NOPLogger","Level","getChainedPriority","Vector"
+"parent",0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"level",0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"repo",0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"Logger",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"repository",0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"getAllAppenders",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"OFF",0,1,0,0,0,0,0,0,0,1,0,2,0,0
+"elements",0,0,0,0,0,1,0,0,0,0,0,0,0,1
+"name",0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"getEffectiveLevel",0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"NOPLogger",2,1,0,0,1,0,0,0,0,0,0,0,0,0
+"Level",0,0,0,0,0,0,2,0,0,0,0,0,0,0
+"getChainedPriority",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Vector",0,0,0,0,0,0,0,1,0,0,0,0,0,0

@@ -1,0 +1,14 @@
+,"getAttributeType","valueOf","values","length","typeName","index","ENUMERATION","byIndex","UNDECLARED","str","trim","charAt","IllegalDataException"
+"getAttributeType",0,0,0,0,0,0,0,0,0,0,0,0,0
+"valueOf",1,0,0,0,0,0,0,0,0,0,0,0,0
+"values",0,0,0,2,0,0,0,1,0,0,0,0,0
+"length",0,0,2,0,1,0,0,0,0,0,0,0,1
+"typeName",0,0,0,1,0,0,0,0,0,1,1,0,0
+"index",0,0,1,0,0,0,0,0,0,0,0,0,2
+"ENUMERATION",1,0,0,0,0,0,0,0,0,0,0,0,0
+"byIndex",0,0,0,0,0,0,0,0,0,0,0,0,0
+"UNDECLARED",2,0,0,0,0,0,0,0,0,0,0,0,0
+"str",0,0,0,0,0,0,0,0,0,0,0,0,0
+"trim",0,0,0,0,1,0,0,0,0,0,0,1,0
+"charAt",0,0,0,0,0,0,0,0,0,0,1,0,0
+"IllegalDataException",0,0,0,0,0,0,0,0,0,0,0,0,0

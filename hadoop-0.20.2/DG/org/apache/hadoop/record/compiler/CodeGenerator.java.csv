@@ -1,0 +1,11 @@
+,"gen","CGenerator","arg1","arg0","get","generators","CppGenerator","JavaGenerator","lang","put"
+"gen",0,0,1,0,0,0,0,0,0,0
+"CGenerator",1,0,0,0,0,0,0,0,0,0
+"arg1",0,0,0,0,0,0,0,0,0,0
+"arg0",0,0,0,0,0,0,0,0,0,0
+"get",0,0,0,0,1,1,0,0,0,0
+"generators",0,0,0,0,1,0,0,0,0,1
+"CppGenerator",1,0,0,0,0,0,0,0,0,0
+"JavaGenerator",1,0,0,0,0,0,0,0,0,0
+"lang",0,0,0,2,0,0,0,0,0,0
+"put",0,0,0,0,0,1,0,0,0,0

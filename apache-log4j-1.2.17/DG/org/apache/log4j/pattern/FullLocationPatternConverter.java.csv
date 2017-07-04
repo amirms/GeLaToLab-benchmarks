@@ -1,0 +1,10 @@
+,"output","getLocationInformation","locationInfo","arg0","INSTANCE","newInstance","event","fullInfo","append"
+"output",0,0,0,0,0,0,0,0,1
+"getLocationInformation",0,0,1,0,0,0,1,0,0
+"locationInfo",0,0,0,0,0,0,0,1,0
+"arg0",0,0,0,0,0,0,0,0,0
+"INSTANCE",0,0,0,0,0,1,0,0,0
+"newInstance",0,0,0,0,0,0,0,0,0
+"event",0,1,0,0,0,0,0,0,0
+"fullInfo",0,0,1,1,0,0,0,0,0
+"append",1,0,0,0,0,0,0,0,0

@@ -1,0 +1,16 @@
+,"createXMLReader","classLoader","instance","e","setNamespaceAware","newInstance","dtdvalidate","factoryClassName","JDOMException","newSAXParser","isValidating","validating","setValidating","getXMLReader","SAXParserFactory"
+"createXMLReader",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"classLoader",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"instance",0,0,0,0,1,0,0,0,0,1,0,0,1,0,0
+"e",0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+"setNamespaceAware",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"newInstance",0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+"dtdvalidate",0,0,0,0,0,0,0,0,0,0,0,2,0,0,0
+"factoryClassName",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"JDOMException",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"newSAXParser",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+"isValidating",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"validating",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"setValidating",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"getXMLReader",1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"SAXParserFactory",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0

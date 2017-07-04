@@ -1,0 +1,13 @@
+,"NOPLoggerRepository","getCurrentCategories","elements","name","NOPLogger","getLogger","Level","getThreshold","getCurrentLoggers","getRootLogger","Vector","OFF"
+"NOPLoggerRepository",0,0,0,0,3,0,0,0,0,0,0,0
+"getCurrentCategories",0,0,0,0,0,0,0,0,0,0,0,0
+"elements",0,0,0,0,0,0,0,0,1,0,1,0
+"name",0,0,0,0,2,0,0,0,0,0,0,0
+"NOPLogger",0,0,0,0,0,2,0,0,0,1,0,0
+"getLogger",0,0,0,0,0,0,0,0,0,0,0,0
+"Level",0,0,0,0,0,0,0,0,0,0,0,1
+"getThreshold",0,0,0,0,0,0,0,0,0,0,0,0
+"getCurrentLoggers",0,1,0,0,0,0,0,0,0,0,0,0
+"getRootLogger",0,0,0,0,0,0,0,0,0,0,0,0
+"Vector",0,0,1,0,0,0,0,0,0,0,0,0
+"OFF",0,0,0,0,0,0,1,1,0,0,0,0

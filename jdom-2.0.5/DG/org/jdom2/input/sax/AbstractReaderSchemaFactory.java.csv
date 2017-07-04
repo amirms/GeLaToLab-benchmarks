@@ -1,0 +1,13 @@
+,"schema","createXMLReader","saxfac","e","AbstractReaderSchemaFactory","fac","setNamespaceAware","setValidating","getXMLReader","JDOMException","newSAXParser","setSchema"
+"schema",1,0,0,0,0,0,0,0,0,0,0,0
+"createXMLReader",0,0,0,0,0,0,0,0,0,0,0,0
+"saxfac",0,0,0,0,0,0,1,1,0,0,1,1
+"e",0,0,0,0,0,0,0,0,0,2,0,0
+"AbstractReaderSchemaFactory",0,0,0,0,0,0,0,0,0,1,0,0
+"fac",0,0,1,0,0,0,0,0,0,0,0,0
+"setNamespaceAware",0,0,1,0,0,0,0,0,0,0,0,0
+"setValidating",0,0,1,0,0,0,0,0,0,0,0,0
+"getXMLReader",0,1,0,0,0,0,0,0,0,0,1,0
+"JDOMException",0,0,0,0,0,0,0,0,0,0,0,0
+"newSAXParser",0,0,1,0,0,0,0,0,1,0,0,0
+"setSchema",0,0,1,0,0,0,0,0,0,0,0,0

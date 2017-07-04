@@ -1,0 +1,7 @@
+,"println","_defaultMonitor","dispose","defaultMonitor","System","out"
+"println",0,0,0,0,0,1
+"_defaultMonitor",0,0,1,0,0,0
+"dispose",0,1,0,0,0,0
+"defaultMonitor",0,1,0,0,0,0
+"System",0,0,0,0,0,1
+"out",1,0,0,0,1,0

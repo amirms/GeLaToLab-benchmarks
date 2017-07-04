@@ -1,0 +1,8 @@
+,"schema","classLoader","AbstractReaderSchemaFactory","classloader","newInstance","factoryClassName","SAXParserFactory"
+"schema",0,0,2,0,0,0,0
+"classLoader",0,0,0,0,0,0,0
+"AbstractReaderSchemaFactory",0,0,0,0,0,0,0
+"classloader",0,1,0,0,0,0,0
+"newInstance",0,0,2,0,0,0,2
+"factoryClassName",0,0,0,0,0,1,0
+"SAXParserFactory",0,0,0,0,2,0,0

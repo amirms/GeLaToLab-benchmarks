@@ -1,0 +1,14 @@
+,"contextName","factory","init","period","Integer","parseInt","AbstractMetricsContext","getAttribute","PERIOD_PROPERTY","periodStr","arg0","attributeName","MetricsException"
+"contextName",1,0,0,0,0,0,0,0,0,0,0,0,0
+"factory",0,1,0,0,0,0,0,0,0,0,0,0,0
+"init",0,0,0,0,0,0,1,0,0,0,0,0,0
+"period",0,0,0,1,0,0,0,0,0,0,0,0,0
+"Integer",0,0,0,0,0,1,0,0,0,0,0,0,0
+"parseInt",0,0,0,1,1,0,0,0,0,0,0,0,0
+"AbstractMetricsContext",0,0,1,0,0,0,0,0,0,0,0,0,0
+"getAttribute",0,0,0,0,0,0,0,0,0,1,0,0,0
+"PERIOD_PROPERTY",0,0,0,0,0,0,0,0,0,0,0,1,0
+"periodStr",0,0,0,0,0,0,0,0,0,0,1,0,1
+"arg0",0,0,0,0,0,0,0,0,0,0,0,0,0
+"attributeName",0,0,0,0,0,0,0,0,0,0,0,0,0
+"MetricsException",0,0,0,0,0,0,0,0,0,0,0,0,0

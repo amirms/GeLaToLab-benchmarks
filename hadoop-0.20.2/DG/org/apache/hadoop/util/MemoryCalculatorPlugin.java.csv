@@ -1,0 +1,12 @@
+,"LinuxMemoryCalculatorPlugin","getProperty","getMemoryCalculatorPlugin","conf","newInstance","theClass","ReflectionUtils","osName","clazz","System","startsWith"
+"LinuxMemoryCalculatorPlugin",0,0,1,0,0,0,0,0,0,0,0
+"getProperty",0,0,0,0,0,0,0,1,0,1,0
+"getMemoryCalculatorPlugin",0,0,0,0,0,0,0,0,0,0,0
+"conf",0,0,0,1,0,0,0,0,0,0,0
+"newInstance",0,0,1,0,0,0,1,0,0,0,0
+"theClass",0,0,0,0,0,0,0,0,0,0,0
+"ReflectionUtils",0,0,0,0,1,0,0,0,0,0,0
+"osName",0,0,0,0,0,0,0,0,0,0,1
+"clazz",0,0,0,0,0,1,0,0,0,0,0
+"System",0,1,0,0,0,0,0,0,0,0,0
+"startsWith",0,0,0,0,0,0,0,1,0,0,0

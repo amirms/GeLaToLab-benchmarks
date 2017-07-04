@@ -1,0 +1,11 @@
+,"LocatedElement","col","prefix","line","Element","name","namespace","getLine","getColumn","uri"
+"LocatedElement",0,1,0,1,0,0,0,0,0,0
+"col",1,1,0,0,0,0,0,0,1,0
+"prefix",0,0,0,0,1,0,0,0,0,0
+"line",1,0,0,1,0,0,0,1,0,0
+"Element",0,0,0,0,0,0,0,0,0,0
+"name",0,0,0,0,4,0,0,0,0,0
+"namespace",0,0,0,0,1,0,0,0,0,0
+"getLine",0,0,0,0,0,0,0,0,0,0
+"getColumn",0,0,0,0,0,0,0,0,0,0
+"uri",0,0,0,0,2,0,0,0,0,0

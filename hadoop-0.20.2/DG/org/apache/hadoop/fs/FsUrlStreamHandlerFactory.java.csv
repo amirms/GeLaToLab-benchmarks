@@ -1,0 +1,17 @@
+,"getClass","handler","Configuration","FsUrlStreamHandlerFactory","containsKey","conf","FsUrlStreamHandler","put","protocol","known","arg1","arg0","get","name","protocols","createURLStreamHandler"
+"getClass",0,0,0,0,0,3,0,0,0,1,0,0,0,0,0,0
+"handler",0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1
+"Configuration",0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+"FsUrlStreamHandlerFactory",0,2,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+"containsKey",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"conf",3,0,1,6,0,0,2,0,0,0,0,0,0,0,0,0
+"FsUrlStreamHandler",0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"put",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"protocol",0,0,0,0,0,0,0,0,0,0,0,3,0,1,0,0
+"known",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"arg1",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"arg0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"get",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"name",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"protocols",0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0
+"createURLStreamHandler",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

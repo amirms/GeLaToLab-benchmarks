@@ -1,0 +1,9 @@
+,"col","data","line","getLine","getColumn","LocatedProcessingInstruction","ProcessingInstruction","target"
+"col",1,0,0,0,1,1,0,0
+"data",0,0,0,0,0,0,2,0
+"line",0,0,1,1,0,1,0,0
+"getLine",0,0,0,0,0,0,0,0
+"getColumn",0,0,0,0,0,0,0,0
+"LocatedProcessingInstruction",1,0,1,0,0,0,0,0
+"ProcessingInstruction",0,0,0,0,0,0,0,0
+"target",0,0,0,0,0,0,3,0

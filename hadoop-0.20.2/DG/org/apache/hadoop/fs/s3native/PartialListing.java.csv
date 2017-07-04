@@ -1,0 +1,8 @@
+,"priorLastKey","files","getPriorLastKey","PartialListing","getFiles","getCommonPrefixes","commonPrefixes"
+"priorLastKey",1,0,1,1,0,0,0
+"files",0,1,0,1,1,0,0
+"getPriorLastKey",0,0,0,0,0,0,0
+"PartialListing",1,1,0,0,0,0,1
+"getFiles",0,0,0,0,0,0,0
+"getCommonPrefixes",0,0,0,0,0,0,0
+"commonPrefixes",0,0,0,1,0,1,1

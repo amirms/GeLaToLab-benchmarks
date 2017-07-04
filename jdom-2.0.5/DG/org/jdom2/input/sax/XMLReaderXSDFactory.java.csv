@@ -1,0 +1,15 @@
+,"SchemaFactory","systemid","classLoader","sources","classloader","newInstance","schemaLanguage","xsdschemas","factoryClassName","XMLConstants","W3C_XML_SCHEMA_NS_URI","getSchemaFactory","SAXParserFactory","AbstractReaderXSDFactory"
+"SchemaFactory",0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"systemid",0,0,0,0,0,0,0,0,0,0,0,0,0,6
+"classLoader",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"sources",0,0,0,0,0,0,0,0,0,0,0,0,0,2
+"classloader",0,0,4,0,0,0,0,0,0,0,0,0,0,0
+"newInstance",1,0,0,0,0,0,0,0,0,0,0,1,8,8
+"schemaLanguage",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"xsdschemas",0,0,0,0,0,0,0,0,0,0,0,0,0,8
+"factoryClassName",0,0,0,0,0,0,0,0,4,0,0,0,0,0
+"XMLConstants",0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"W3C_XML_SCHEMA_NS_URI",0,0,0,0,0,0,1,0,0,1,0,0,0,0
+"getSchemaFactory",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"SAXParserFactory",0,0,0,0,0,8,0,0,0,0,0,0,0,0
+"AbstractReaderXSDFactory",0,0,0,0,0,0,0,0,0,0,0,0,0,0

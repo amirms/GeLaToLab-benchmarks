@@ -1,0 +1,13 @@
+,"filter","StringBuilder","obj","hashCode","arg0","equals","getBaseFilter","NegateFilter","toString","matches","content","append"
+"filter",1,0,0,1,0,1,1,1,1,1,0,0
+"StringBuilder",0,0,0,0,0,0,0,0,0,0,0,1
+"obj",0,0,0,0,1,0,0,0,0,0,0,0
+"hashCode",1,0,0,1,0,0,0,0,0,0,0,0
+"arg0",0,0,0,0,0,0,0,0,0,0,0,0
+"equals",1,0,0,0,0,1,0,0,0,0,0,0
+"getBaseFilter",0,0,0,0,0,0,0,0,0,0,0,0
+"NegateFilter",1,0,0,0,0,0,0,0,0,0,0,0
+"toString",1,0,0,0,1,0,0,0,1,0,0,1
+"matches",1,0,0,0,0,0,0,0,0,0,0,0
+"content",1,0,0,0,0,0,0,0,0,0,1,0
+"append",0,1,0,0,0,0,0,0,1,0,0,4

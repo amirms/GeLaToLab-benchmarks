@@ -1,0 +1,7 @@
+,"getPlatformName","println","arg0","platformName","System","out"
+"getPlatformName",0,0,0,0,0,0
+"println",0,0,0,0,0,1
+"arg0",0,0,0,0,0,0
+"platformName",1,0,1,0,0,0
+"System",0,0,0,0,0,1
+"out",0,1,0,0,1,0

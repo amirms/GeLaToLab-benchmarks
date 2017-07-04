@@ -1,0 +1,6 @@
+,"getNumber","number","MetricValue","isIncrement","isAbsolute"
+"getNumber",0,0,0,0,0
+"number",1,1,1,0,0
+"MetricValue",0,1,0,1,0
+"isIncrement",0,0,1,2,1
+"isAbsolute",0,0,0,0,0

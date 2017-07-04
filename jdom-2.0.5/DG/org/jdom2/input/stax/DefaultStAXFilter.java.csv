@@ -1,0 +1,9 @@
+,"includeComment","includeText","pruneComment","pruneCDATA","comment","text","includeCDATA","pruneText"
+"includeComment",0,0,0,0,0,0,0,0
+"includeText",0,0,0,0,0,0,0,0
+"pruneComment",0,0,0,0,0,0,0,0
+"pruneCDATA",0,0,0,0,0,0,0,0
+"comment",1,0,1,0,0,0,0,0
+"text",0,1,0,1,0,0,1,1
+"includeCDATA",0,0,0,0,0,0,0,0
+"pruneText",0,0,0,0,0,0,0,0

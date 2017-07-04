@@ -1,0 +1,12 @@
+,"ConsoleAppender","newAppender","addAppender","resetConfiguration","root","PatternLayout","appender","getRootLogger","TTCC_CONVERSION_PATTERN","Logger","LogManager"
+"ConsoleAppender",0,1,0,0,0,0,0,0,0,0,0
+"newAppender",0,0,0,0,0,0,0,0,0,0,0
+"addAppender",0,0,0,0,2,0,0,0,0,0,0
+"resetConfiguration",0,0,0,0,0,0,0,0,0,0,1
+"root",0,0,2,0,0,0,0,0,0,0,0
+"PatternLayout",1,0,0,0,0,0,0,0,1,0,0
+"appender",0,1,0,0,0,0,0,0,0,0,0
+"getRootLogger",0,0,0,0,2,0,0,0,0,2,0
+"TTCC_CONVERSION_PATTERN",0,0,0,0,0,2,0,0,0,0,0
+"Logger",0,0,0,0,0,0,0,2,0,0,0
+"LogManager",0,0,0,1,0,0,0,0,0,0,0

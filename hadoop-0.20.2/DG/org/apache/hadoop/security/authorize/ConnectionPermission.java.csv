@@ -1,0 +1,15 @@
+,"getName","ConnectionPermission","permission","that","protocol","obj","hashCode","equals","arg0","Permission","VersionedProtocol","toString","implies","class"
+"getName",0,0,0,0,2,0,0,0,0,1,0,1,0,0
+"ConnectionPermission",0,0,0,0,2,0,0,0,0,0,0,0,0,0
+"permission",0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"that",0,0,0,0,2,0,0,0,0,0,0,0,0,0
+"protocol",2,2,0,2,1,0,1,3,1,0,0,0,0,0
+"obj",0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"hashCode",0,0,0,0,1,0,1,0,0,0,0,0,0,0
+"equals",0,0,0,0,2,0,0,0,0,0,0,0,1,0
+"arg0",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Permission",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"VersionedProtocol",0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"toString",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"implies",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"class",0,0,0,0,0,0,0,0,1,0,1,0,0,0

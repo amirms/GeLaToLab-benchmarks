@@ -1,0 +1,10 @@
+,"temp","CRC","getGlobalCRC","getFinalCRC","crc32Table","inCh","globalCrc","newCrc","globalCrcShadow"
+"temp",1,0,0,0,4,0,0,0,0
+"CRC",0,0,0,0,1,0,2,0,0
+"getGlobalCRC",0,0,0,0,0,0,0,0,0
+"getFinalCRC",0,0,0,0,0,0,0,0,0
+"crc32Table",0,1,0,0,0,0,1,0,1
+"inCh",2,0,0,0,0,0,0,0,0
+"globalCrc",1,2,1,1,0,0,1,0,1
+"newCrc",0,0,0,0,0,0,1,0,0
+"globalCrcShadow",1,0,0,0,0,0,1,0,1

@@ -1,0 +1,14 @@
+,"abbreviate","NameAbbreviator","length","pattern","buf","nameStart","name","options","abbreviator","style","getAbbreviator","getDefaultAbbreviator","LoggingEventPatternConverter"
+"abbreviate",0,0,0,0,0,0,0,0,1,0,0,0,0
+"NameAbbreviator",0,0,0,0,0,0,0,0,0,0,1,1,0
+"length",0,0,0,0,0,0,0,1,0,0,0,0,0
+"pattern",0,0,0,0,0,0,0,0,0,0,0,0,0
+"buf",0,0,0,0,1,0,0,0,0,0,0,0,0
+"nameStart",0,0,0,0,0,1,0,0,0,0,0,0,0
+"name",0,0,0,0,0,0,0,0,0,0,0,0,1
+"options",0,0,1,1,0,0,0,0,0,0,0,0,0
+"abbreviator",1,0,0,0,0,0,0,0,0,0,0,0,0
+"style",0,0,0,0,0,0,0,0,0,0,0,0,1
+"getAbbreviator",0,1,0,0,0,0,0,0,1,0,0,0,0
+"getDefaultAbbreviator",0,1,0,0,0,0,0,0,1,0,0,0,0
+"LoggingEventPatternConverter",0,0,0,0,0,0,0,0,0,0,0,0,0

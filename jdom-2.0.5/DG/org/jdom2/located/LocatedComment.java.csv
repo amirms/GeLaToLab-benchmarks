@@ -1,0 +1,8 @@
+,"LocatedComment","Comment","col","line","getLine","getColumn","text"
+"LocatedComment",0,0,1,1,0,0,0
+"Comment",0,0,0,0,0,0,0
+"col",1,0,1,0,0,1,0
+"line",1,0,0,1,1,0,0
+"getLine",0,0,0,0,0,0,0
+"getColumn",0,0,0,0,0,0,0
+"text",0,1,0,0,0,0,0

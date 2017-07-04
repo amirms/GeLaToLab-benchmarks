@@ -1,0 +1,14 @@
+,"TransformerFactory","StreamResult","styleSheet","StreamSource","transformer","newInstance","out","transform","newTransformer","xml","arg1","arg0","tFactory"
+"TransformerFactory",0,0,0,0,0,1,0,0,0,0,0,0,0
+"StreamResult",0,0,0,0,0,0,0,0,0,0,1,0,0
+"styleSheet",0,0,0,1,0,0,0,0,0,0,0,0,0
+"StreamSource",0,0,0,0,0,0,0,0,0,0,0,2,0
+"transformer",0,0,0,0,0,0,0,1,0,0,0,0,0
+"newInstance",1,0,0,0,0,0,0,0,0,0,0,0,1
+"out",0,1,0,0,0,0,0,0,0,0,0,0,0
+"transform",0,0,0,0,1,0,0,0,0,0,0,0,0
+"newTransformer",0,0,0,0,1,0,0,0,0,0,0,0,1
+"xml",0,0,0,1,0,0,0,0,0,0,0,0,0
+"arg1",0,0,0,0,0,0,0,0,0,0,0,0,0
+"arg0",0,0,0,0,0,0,0,0,0,0,0,0,0
+"tFactory",0,0,0,0,0,0,0,0,1,0,0,0,0

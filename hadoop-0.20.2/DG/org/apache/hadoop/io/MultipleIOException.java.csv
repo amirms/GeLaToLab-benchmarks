@@ -1,0 +1,9 @@
+,"getExceptions","size","get","isEmpty","createIOException","IOException","MultipleIOException","exceptions"
+"getExceptions",0,0,0,0,0,0,0,0
+"size",0,0,0,0,0,1,0,2
+"get",0,0,0,0,1,0,0,1
+"isEmpty",0,0,0,0,0,0,0,1
+"createIOException",0,0,0,0,0,0,0,0
+"IOException",0,0,0,0,0,0,0,0
+"MultipleIOException",0,0,0,0,1,0,0,1
+"exceptions",1,2,1,1,0,1,2,1

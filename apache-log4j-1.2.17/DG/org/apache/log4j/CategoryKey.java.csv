@@ -1,0 +1,10 @@
+,"rArg","getClass","CategoryKey","hashCache","hashCode","arg0","equals","name","class"
+"rArg",0,1,0,0,0,1,0,0,0
+"getClass",1,0,0,0,0,0,0,0,0
+"CategoryKey",0,0,0,0,0,0,0,1,1
+"hashCache",0,0,0,0,1,0,0,0,0
+"hashCode",0,0,0,1,0,0,0,1,0
+"arg0",0,0,0,0,0,0,0,0,0
+"equals",0,0,0,0,0,0,1,1,0
+"name",0,0,1,0,1,0,1,1,0
+"class",0,0,1,0,0,0,0,0,0

@@ -1,0 +1,8 @@
+,"protocol","getServiceKey","ConnectionPermission","getPermission","Service","permission","key"
+"protocol",0,0,1,0,0,0,0
+"getServiceKey",0,0,0,0,0,0,0
+"ConnectionPermission",0,0,0,0,0,1,0
+"getPermission",0,0,0,0,0,0,0
+"Service",0,0,0,0,0,1,1
+"permission",0,0,0,1,1,0,0
+"key",0,1,0,0,1,0,1

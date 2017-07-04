@@ -1,0 +1,9 @@
+,"reason","StringBuilder","data","arg0","toString","construct","append","IllegalArgumentException"
+"reason",0,0,0,1,0,0,0,1
+"StringBuilder",0,0,0,0,0,0,2,0
+"data",0,0,0,2,0,0,0,0
+"arg0",0,0,0,0,0,0,0,0
+"toString",0,0,0,0,0,0,2,2
+"construct",0,0,0,2,0,0,0,0
+"append",0,2,0,0,2,0,20,0
+"IllegalArgumentException",0,0,0,0,0,0,0,0

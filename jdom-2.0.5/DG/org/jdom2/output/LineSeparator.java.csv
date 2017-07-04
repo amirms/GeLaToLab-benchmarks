@@ -1,0 +1,12 @@
+,"getProperty","getDefaultLineSeparator","JDOMConstants","get","prop","property","SystemProperty","LineSeparator","value","JDOM2_PROPERTY_LINE_SEPARATOR","System"
+"getProperty",0,1,0,0,0,0,0,0,0,0,1
+"getDefaultLineSeparator",0,0,0,0,0,0,0,0,0,0,0
+"JDOMConstants",0,0,0,0,0,0,0,0,0,1,0
+"get",0,0,0,0,1,0,1,0,0,0,0
+"prop",0,1,0,0,0,0,0,0,0,0,0
+"property",0,0,0,0,0,0,0,0,0,0,0
+"SystemProperty",0,0,0,1,0,0,0,0,0,0,0
+"LineSeparator",0,0,0,0,0,0,0,0,1,0,0
+"value",0,0,0,0,0,0,0,1,2,0,0
+"JDOM2_PROPERTY_LINE_SEPARATOR",0,0,1,0,0,1,0,0,0,0,0
+"System",1,0,0,0,0,0,0,0,0,0,0

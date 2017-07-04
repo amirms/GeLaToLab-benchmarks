@@ -1,0 +1,11 @@
+,"getLevel","LINE_SEP","setLength","sbuf","arg0","format","toString","event","getRenderedMessage","append"
+"getLevel",0,0,0,0,0,0,1,1,0,0
+"LINE_SEP",0,0,0,0,1,0,0,0,0,0
+"setLength",0,0,0,1,0,0,0,0,0,0
+"sbuf",0,0,1,0,0,0,1,0,0,4
+"arg0",0,0,0,0,0,0,0,0,0,0
+"format",0,0,0,0,0,0,0,0,0,0
+"toString",1,0,0,1,1,1,0,0,0,0
+"event",1,0,0,0,0,0,0,0,1,0
+"getRenderedMessage",0,0,0,0,1,0,0,1,0,0
+"append",0,0,0,4,0,0,0,0,0,0

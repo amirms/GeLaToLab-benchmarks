@@ -1,0 +1,8 @@
+,"setName","runnable","Daemon","arg0","getRunnable","Thread","group"
+"setName",0,0,2,0,0,0,0
+"runnable",0,2,2,2,1,2,0
+"Daemon",2,2,0,0,0,0,0
+"arg0",0,0,0,0,0,0,0
+"getRunnable",0,0,0,0,0,0,0
+"Thread",0,0,0,0,0,0,0
+"group",0,0,0,0,0,1,0

@@ -1,0 +1,7 @@
+,"Configuration","openConnection","conf","FsUrlStreamHandler","url","FsUrlConnection"
+"Configuration",0,0,1,0,0,0
+"openConnection",0,0,0,0,0,0
+"conf",0,0,1,2,0,1
+"FsUrlStreamHandler",0,0,2,0,0,0
+"url",0,0,0,0,0,1
+"FsUrlConnection",0,1,0,0,0,0

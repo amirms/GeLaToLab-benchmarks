@@ -1,0 +1,16 @@
+,"getResourceAsURL","getName","_name","InputStreamReader","resource","in","reader","getResourceAsStream","Resource","getInputStream","getInputStreamReader","getURL","ResourceUtils","name","object"
+"getResourceAsURL",0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+"getName",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"_name",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"InputStreamReader",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"resource",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"in",0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+"reader",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"getResourceAsStream",0,0,0,0,0,2,0,0,0,0,0,0,2,0,0
+"Resource",0,0,0,0,3,0,0,0,0,0,0,0,0,0,3
+"getInputStream",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"getInputStreamReader",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"getURL",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"ResourceUtils",1,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+"name",0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+"object",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

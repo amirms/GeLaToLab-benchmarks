@@ -1,0 +1,10 @@
+,"next","rec","iterator","genJavaCode","options","rlist","iter","destDir","hasNext"
+"next",0,1,0,0,0,0,1,0,0
+"rec",0,0,0,1,0,0,0,0,0
+"iterator",0,0,0,0,0,1,0,0,0
+"genJavaCode",0,1,0,0,0,0,0,0,0
+"options",0,0,0,0,1,0,0,0,0
+"rlist",0,0,1,0,0,0,0,0,0
+"iter",1,0,1,0,0,0,0,0,1
+"destDir",0,0,0,0,0,0,0,1,0
+"hasNext",0,0,0,0,0,0,1,0,0

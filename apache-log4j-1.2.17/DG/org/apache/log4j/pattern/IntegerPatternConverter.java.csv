@@ -1,0 +1,9 @@
+,"obj","arg0","Long","INSTANCE","newInstance","toString","toAppendTo","append"
+"obj",0,1,0,0,0,1,0,0
+"arg0",0,0,0,0,0,0,0,0
+"Long",0,0,0,0,0,1,0,0
+"INSTANCE",0,0,0,0,1,0,0,0
+"newInstance",0,0,0,0,0,0,0,0
+"toString",1,2,1,0,0,0,0,0
+"toAppendTo",0,0,0,0,0,0,0,2
+"append",0,0,0,0,0,0,2,0

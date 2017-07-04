@@ -1,0 +1,11 @@
+,"configFileResource","configURL","getResource","resource","arg0","configure","IOException","DefaultLF5Configurator","class","PropertyConfigurator"
+"configFileResource",0,1,0,0,0,0,0,0,0,0
+"configURL",0,0,0,0,0,0,0,0,0,0
+"getResource",1,0,0,0,0,0,0,0,1,0
+"resource",0,0,0,0,1,0,1,0,0,0
+"arg0",0,0,0,0,0,0,0,0,0,0
+"configure",0,0,0,0,0,0,0,0,0,1
+"IOException",0,0,0,0,0,0,0,0,0,0
+"DefaultLF5Configurator",0,0,0,0,0,0,0,0,1,0
+"class",0,0,1,0,0,0,0,1,0,0
+"PropertyConfigurator",0,0,0,0,0,1,0,0,0,0

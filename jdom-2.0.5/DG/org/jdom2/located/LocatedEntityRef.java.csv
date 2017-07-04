@@ -1,0 +1,10 @@
+,"col","systemID","line","name","getLine","getColumn","LocatedEntityRef","EntityRef","publicID"
+"col",1,0,0,0,0,1,1,0,0
+"systemID",0,0,0,0,0,0,0,2,0
+"line",0,0,1,0,1,0,1,0,0
+"name",0,0,0,0,0,0,0,3,0
+"getLine",0,0,0,0,0,0,0,0,0
+"getColumn",0,0,0,0,0,0,0,0,0
+"LocatedEntityRef",1,0,1,0,0,0,0,0,0
+"EntityRef",0,0,0,0,0,0,0,0,0
+"publicID",0,0,0,0,0,0,0,1,0

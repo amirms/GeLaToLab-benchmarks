@@ -1,0 +1,12 @@
+,"JDOMParseException","getLineNumber","getSystemId","cause","getColumnNumber","partialDocument","message","JDOMException","getCause","getPartialDocument","getPublicId"
+"JDOMParseException",0,0,0,0,0,1,0,0,0,0,0
+"getLineNumber",0,0,0,0,0,0,0,0,0,0,0
+"getSystemId",0,0,0,0,0,0,0,0,0,0,0
+"cause",1,0,0,0,0,0,0,1,0,0,0
+"getColumnNumber",0,0,0,0,0,0,0,0,0,0,0
+"partialDocument",1,0,0,0,0,1,0,0,0,1,0
+"message",1,0,0,0,0,0,0,1,0,0,0
+"JDOMException",0,0,0,0,0,0,0,0,0,0,0
+"getCause",0,2,2,0,2,0,0,0,0,0,2
+"getPartialDocument",0,0,0,0,0,0,0,0,0,0,0
+"getPublicId",0,0,0,0,0,0,0,0,0,0,0

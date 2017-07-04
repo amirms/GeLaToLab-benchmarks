@@ -1,0 +1,11 @@
+,"filter","next","nextObject","iterator","obj","f","FilterIterator","hasNext","content","remove"
+"filter",3,0,0,0,0,1,2,0,0,0
+"next",0,0,0,1,1,0,0,0,0,0
+"nextObject",0,0,0,0,1,0,0,0,0,0
+"iterator",0,1,0,3,0,0,2,1,0,1
+"obj",0,1,0,0,0,0,0,0,1,0
+"f",0,0,1,0,0,0,0,0,0,0
+"FilterIterator",1,0,0,2,0,0,0,0,0,0
+"hasNext",0,0,0,1,0,0,0,0,0,0
+"content",0,0,0,0,0,0,0,0,0,0
+"remove",0,0,0,1,0,0,0,0,0,0

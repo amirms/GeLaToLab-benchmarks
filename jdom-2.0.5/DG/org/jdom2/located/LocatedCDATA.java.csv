@@ -1,0 +1,8 @@
+,"str","col","line","LocatedCDATA","getLine","getColumn","CDATA"
+"str",0,0,0,0,0,0,1
+"col",0,1,0,1,0,1,0
+"line",0,0,1,1,1,0,0
+"LocatedCDATA",0,1,1,0,0,0,0
+"getLine",0,0,0,0,0,0,0
+"getColumn",0,0,0,0,0,0,0
+"CDATA",0,0,0,0,0,0,0

@@ -1,0 +1,14 @@
+,"localbuilder","DocumentBuilderFactory","set","e","dbf","newInstance","JDOMException","createDocument","newDocumentBuilder","get","arg0","db","newDocument"
+"localbuilder",0,0,1,0,0,0,0,0,0,1,0,0,0
+"DocumentBuilderFactory",0,0,0,0,0,1,0,0,0,0,0,0,0
+"set",1,0,0,0,0,0,0,0,0,0,0,0,0
+"e",0,0,0,0,0,0,1,0,0,0,0,0,0
+"dbf",0,0,0,0,0,0,0,0,1,0,0,0,0
+"newInstance",0,1,0,0,1,0,0,0,0,0,0,0,0
+"JDOMException",0,0,0,0,0,0,0,0,0,0,0,0,0
+"createDocument",0,0,0,0,0,0,0,0,0,0,0,0,0
+"newDocumentBuilder",0,0,0,0,1,0,0,0,0,0,0,1,0
+"get",1,0,0,0,0,0,0,0,0,0,0,1,0
+"arg0",0,0,0,0,0,0,0,0,0,0,0,0,0
+"db",0,0,0,0,0,0,0,0,0,0,1,0,1
+"newDocument",0,0,0,0,0,0,0,1,0,0,0,1,0

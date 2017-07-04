@@ -1,0 +1,12 @@
+,"filter","txt","getClass","CType","hashCode","obj","equals","Text","content","getCType","TextOnlyFilter"
+"filter",0,0,0,0,0,0,0,0,0,0,0
+"txt",1,0,0,0,0,0,0,0,0,1,0
+"getClass",0,0,0,0,1,0,0,0,0,0,1
+"CType",0,0,0,0,0,0,0,1,0,0,0
+"hashCode",0,0,1,0,1,0,0,0,0,0,0
+"obj",0,0,0,0,0,0,1,0,0,0,0
+"equals",0,0,0,0,0,0,0,0,0,0,0
+"Text",0,0,0,1,0,0,0,0,0,0,0
+"content",0,1,0,0,0,0,0,0,0,0,0
+"getCType",0,1,0,0,0,0,0,0,0,0,0
+"TextOnlyFilter",0,0,1,0,0,0,0,0,0,0,0

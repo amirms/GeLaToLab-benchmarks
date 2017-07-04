@@ -1,0 +1,14 @@
+,"SocketChannel","localPort","InetSocketAddress","createSocket","bind","port","arg0","host","socket","addr","localHostAddr","open","connect"
+"SocketChannel",0,0,0,0,0,0,0,0,0,0,0,1,0
+"localPort",0,0,2,0,0,0,0,0,0,0,0,0,0
+"InetSocketAddress",0,0,0,0,0,0,6,0,0,0,0,0,0
+"createSocket",0,0,0,0,0,0,0,0,4,0,0,0,0
+"bind",0,0,0,0,0,0,0,0,2,0,0,0,0
+"port",0,0,4,0,0,0,0,0,0,0,0,0,0
+"arg0",0,0,0,0,0,0,0,0,0,0,0,0,0
+"host",0,0,2,0,0,0,0,0,0,0,0,0,0
+"socket",0,0,0,5,2,0,0,0,0,0,0,1,4
+"addr",0,0,2,0,0,0,0,0,0,0,0,0,0
+"localHostAddr",0,0,2,0,0,0,0,0,0,0,0,0,0
+"open",1,0,0,0,0,0,0,0,1,0,0,0,0
+"connect",0,0,0,0,0,0,0,0,4,0,0,0,0

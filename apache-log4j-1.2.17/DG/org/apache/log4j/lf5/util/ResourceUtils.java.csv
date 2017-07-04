@@ -1,0 +1,16 @@
+,"getClass","getResource","getResourceAsURL","getName","resource","in","loader","getResourceAsStream","getClassLoader","getSystemResource","url","getSystemResourceAsStream","arg0","ClassLoader","object"
+"getClass",0,0,0,0,0,0,0,0,2,0,0,0,0,0,2
+"getResource",0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+"getResourceAsURL",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"getName",0,0,0,0,4,0,0,0,0,0,0,0,4,0,0
+"resource",0,0,0,4,0,0,0,0,0,0,0,0,0,0,0
+"in",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"loader",0,1,0,0,0,0,0,1,0,0,0,0,0,0,0
+"getResourceAsStream",0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+"getClassLoader",2,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+"getSystemResource",0,0,0,0,0,0,0,0,0,0,1,0,0,1,0
+"url",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"getSystemResourceAsStream",0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+"arg0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"ClassLoader",0,0,0,0,0,0,0,0,0,1,0,1,0,0,0
+"object",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0

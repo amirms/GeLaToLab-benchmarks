@@ -1,0 +1,15 @@
+,"getClass","retryPolicy","implementation","newProxyInstance","getClassLoader","iface","arg2","Proxy","arg1","arg0","create","Class","methodNameToPolicyMap","RetryInvocationHandler"
+"getClass",0,0,2,0,2,0,0,0,0,0,0,0,0,0
+"retryPolicy",0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"implementation",2,0,0,0,0,0,0,0,0,0,0,0,0,2
+"newProxyInstance",0,0,0,0,0,0,0,2,0,0,2,0,0,0
+"getClassLoader",2,0,0,0,0,0,0,0,0,2,0,0,0,0
+"iface",0,0,0,0,0,0,0,0,0,0,0,2,0,0
+"arg2",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Proxy",0,0,0,2,0,0,0,0,0,0,0,0,0,0
+"arg1",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"arg0",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"create",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Class",0,0,0,0,0,0,0,0,2,0,0,0,0,0
+"methodNameToPolicyMap",0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"RetryInvocationHandler",0,0,0,0,0,0,2,0,0,0,0,0,0,0

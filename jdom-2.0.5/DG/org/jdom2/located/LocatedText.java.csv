@@ -1,0 +1,8 @@
+,"str","col","LocatedText","line","getLine","getColumn","Text"
+"str",0,0,0,0,0,0,1
+"col",0,1,1,0,0,1,0
+"LocatedText",0,1,0,1,0,0,0
+"line",0,0,1,1,1,0,0
+"getLine",0,0,0,0,0,0,0
+"getColumn",0,0,0,0,0,0,0
+"Text",0,0,0,0,0,0,0

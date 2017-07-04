@@ -1,0 +1,9 @@
+,"QuietWriter","eh","string","SyslogQuietWriter","level","writer","syslogFacility","write"
+"QuietWriter",0,0,0,0,0,0,0,1
+"eh",1,0,0,0,0,0,0,0
+"string",0,0,1,0,0,0,0,0
+"SyslogQuietWriter",0,0,0,0,1,0,2,0
+"level",0,0,1,1,1,0,0,0
+"writer",1,0,0,0,0,0,0,0
+"syslogFacility",0,0,1,2,0,0,2,0
+"write",1,0,0,0,0,0,0,0

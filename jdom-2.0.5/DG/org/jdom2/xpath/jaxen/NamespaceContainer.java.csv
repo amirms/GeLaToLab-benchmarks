@@ -1,0 +1,9 @@
+,"getParentElement","getPrefix","ns","getNamespace","NamespaceContainer","toString","emt","getURI"
+"getParentElement",0,0,0,0,0,0,0,0
+"getPrefix",0,0,1,0,0,1,0,0
+"ns",0,1,1,1,1,0,0,1
+"getNamespace",0,0,0,0,0,0,0,0
+"NamespaceContainer",0,0,1,0,0,0,1,0
+"toString",0,0,0,0,0,0,0,0
+"emt",1,0,0,0,1,0,1,0
+"getURI",0,0,1,0,0,1,0,0

@@ -1,0 +1,10 @@
+,"getLocationInformation","locationInfo","getMethodName","arg0","INSTANCE","newInstance","toAppendTo","event","append"
+"getLocationInformation",0,1,0,0,0,0,0,1,0
+"locationInfo",0,0,1,0,0,0,0,0,0
+"getMethodName",0,1,0,1,0,0,0,0,0
+"arg0",0,0,0,0,0,0,0,0,0
+"INSTANCE",0,0,0,0,0,1,0,0,0
+"newInstance",0,0,0,0,0,0,0,0,0
+"toAppendTo",0,0,0,0,0,0,0,0,1
+"event",1,0,0,0,0,0,0,0,0
+"append",0,0,0,0,0,0,1,0,0

@@ -1,0 +1,16 @@
+,"reason","getName","getPrefix","StringBuilder","added","getText","getQualifiedName","getTarget","arg0","equals","toString","append","IllegalArgumentException","getURI","base"
+"reason",0,0,0,0,0,0,0,0,12,0,0,0,1,0,0
+"getName",0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+"getPrefix",0,0,0,0,2,0,0,0,1,1,0,0,0,0,0
+"StringBuilder",0,0,0,0,0,0,0,0,0,0,0,12,0,0,0
+"added",0,1,2,0,0,4,3,2,0,0,1,0,0,1,0
+"getText",0,0,0,0,4,0,0,0,4,0,0,0,0,0,0
+"getQualifiedName",0,0,0,0,3,0,0,0,11,0,0,0,0,0,8
+"getTarget",0,0,0,0,2,0,0,0,2,0,0,0,0,0,0
+"arg0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"equals",0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+"toString",0,0,0,0,1,0,0,0,1,0,0,12,12,0,0
+"append",0,0,0,12,0,0,0,0,0,0,12,108,0,0,0
+"IllegalArgumentException",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"getURI",0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+"base",0,0,0,0,0,0,8,0,0,0,0,0,0,0,0

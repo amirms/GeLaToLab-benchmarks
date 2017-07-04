@@ -1,0 +1,15 @@
+,"getClass","other","getName","c","WritableComparator","NullWritable","Comparator","comparator","get","ClassCastException","equals","define","THIS","class"
+"getClass",0,1,1,0,0,0,0,0,0,0,0,0,0,0
+"other",1,0,0,0,0,0,0,0,0,0,1,0,0,0
+"getName",1,0,0,0,0,0,0,0,0,1,0,0,0,0
+"c",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"WritableComparator",0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"NullWritable",0,0,0,0,0,0,0,0,0,0,0,0,0,2
+"Comparator",0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"comparator",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"get",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"ClassCastException",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"equals",0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"define",0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"THIS",0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"class",0,0,0,1,1,2,0,0,0,0,0,0,0,0

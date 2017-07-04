@@ -1,0 +1,17 @@
+,"msg","mkdirsWithExistsCheck","parent","getParent","canRead","getCanonicalFile","DiskErrorException","canWrite","IOException","canonDir","dir","exists","toString","mkdir","File","isDirectory"
+"msg",0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+"mkdirsWithExistsCheck",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"parent",0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"getParent",0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+"canRead",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"getCanonicalFile",0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+"DiskErrorException",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"canWrite",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"IOException",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"canonDir",0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0
+"dir",0,0,0,0,1,1,0,1,0,0,1,1,4,1,0,1
+"exists",0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+"toString",0,0,0,0,0,0,4,0,0,0,4,0,0,0,0,0
+"mkdir",0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+"File",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"isDirectory",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0

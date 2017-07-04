@@ -1,0 +1,14 @@
+,"OutputRecord","metricMap","getTag","getMetricNames","unmodifiableSet","arg0","get","name","tagMap","getMetric","Collections","keySet","getTagNames"
+"OutputRecord",0,1,0,0,0,0,0,0,1,0,0,0,0
+"metricMap",1,1,0,0,0,0,1,0,0,0,0,1,0
+"getTag",0,0,0,0,0,0,0,0,0,0,0,0,0
+"getMetricNames",0,0,0,0,0,0,0,0,0,0,0,0,0
+"unmodifiableSet",0,0,0,1,0,0,0,0,0,0,2,0,1
+"arg0",0,0,0,0,0,0,0,0,0,0,0,0,0
+"get",0,1,1,0,0,0,0,0,1,1,0,0,0
+"name",0,0,0,0,0,2,0,0,0,0,0,0,0
+"tagMap",1,0,0,0,0,0,1,0,1,0,0,1,0
+"getMetric",0,0,0,0,0,0,0,0,0,0,0,0,0
+"Collections",0,0,0,0,2,0,0,0,0,0,0,0,0
+"keySet",0,1,0,0,0,2,0,0,1,0,0,0,0
+"getTagNames",0,0,0,0,0,0,0,0,0,0,0,0,0

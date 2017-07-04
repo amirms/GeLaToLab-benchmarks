@@ -1,0 +1,12 @@
+,"MetricsDynamicMBeanBase","nameName","mr","port","unregisterMBean","theMbean","registerMBean","MBeanUtil","serviceName","mbeanName","RpcActivityMBean"
+"MetricsDynamicMBeanBase",0,0,0,0,0,0,0,0,0,0,0
+"nameName",0,0,0,0,0,0,0,0,0,0,0
+"mr",1,0,0,0,0,0,0,0,0,0,0
+"port",0,1,0,0,0,0,0,0,0,0,0
+"unregisterMBean",0,0,0,0,0,0,0,1,0,0,0
+"theMbean",0,0,0,0,0,0,0,0,0,0,0
+"registerMBean",0,0,0,0,0,0,0,1,0,1,0
+"MBeanUtil",0,0,0,0,1,0,1,0,0,0,0
+"serviceName",0,0,0,0,0,0,0,0,1,0,0
+"mbeanName",0,0,0,0,0,0,0,0,0,1,0
+"RpcActivityMBean",0,0,0,0,0,1,0,0,0,0,0

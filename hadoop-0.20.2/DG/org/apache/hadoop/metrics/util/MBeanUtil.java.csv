@@ -1,0 +1,17 @@
+,"nameName","printStackTrace","e","unregisterMBean","registerMBean","serviceName","mbeanName","ManagementFactory","ObjectName","arg1","arg0","name","getPlatformMBeanServer","theMbean","getMBeanName","mbs"
+"nameName",1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"printStackTrace",0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+"e",0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"unregisterMBean",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"registerMBean",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"serviceName",0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+"mbeanName",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"ManagementFactory",0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0
+"ObjectName",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"arg1",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"arg0",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"name",0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0
+"getPlatformMBeanServer",0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2
+"theMbean",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"getMBeanName",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"mbs",0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0

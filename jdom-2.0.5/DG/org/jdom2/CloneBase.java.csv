@@ -1,0 +1,11 @@
+,"CloneBase","getClass","IllegalStateException","getName","e","arg1","clone","format","Cloneable","String"
+"CloneBase",0,1,0,0,0,0,0,0,0,0
+"getClass",1,0,0,1,0,0,0,0,0,0
+"IllegalStateException",0,0,0,0,0,0,0,0,0,0
+"getName",0,1,0,0,0,1,0,0,0,0
+"e",0,0,1,0,0,0,0,0,0,0
+"arg1",0,0,0,0,0,0,0,0,0,0
+"clone",0,0,0,0,0,0,1,0,1,0
+"format",0,0,1,0,0,0,0,0,0,1
+"Cloneable",0,0,0,0,0,0,1,0,0,0
+"String",0,0,0,0,0,0,0,1,0,0

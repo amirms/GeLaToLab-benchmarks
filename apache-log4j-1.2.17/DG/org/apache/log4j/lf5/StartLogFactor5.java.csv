@@ -1,0 +1,13 @@
+,"getLog4JLevels","setFrameSize","LogBrokerMonitor","getDefaultMonitorHeight","getDefaultMonitorWidth","width","show","monitor","LogLevel","LF5Appender","height","setFontSize"
+"getLog4JLevels",0,0,1,0,0,0,0,0,1,0,0,0
+"setFrameSize",0,0,0,0,0,0,0,1,0,0,0,0
+"LogBrokerMonitor",0,0,0,0,0,0,0,1,0,0,0,0
+"getDefaultMonitorHeight",0,0,0,0,0,0,0,0,0,1,1,0
+"getDefaultMonitorWidth",0,0,0,0,0,1,0,0,0,1,0,0
+"width",0,0,0,0,0,0,0,0,0,0,0,0
+"show",0,0,0,0,0,0,0,1,0,0,0,0
+"monitor",0,1,0,0,0,0,1,0,0,0,0,1
+"LogLevel",1,0,0,0,0,0,0,0,0,0,0,0
+"LF5Appender",0,0,0,1,1,0,0,0,0,0,0,0
+"height",0,0,0,0,0,0,0,0,0,0,0,0
+"setFontSize",0,0,0,0,0,0,0,1,0,0,0,0

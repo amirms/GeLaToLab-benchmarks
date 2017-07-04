@@ -1,0 +1,17 @@
+,"org.emftext.language.java.types.impl.ByteImpl@41e218f6","Buffer","FilterInputStream","count","start","length","input","buf","getPosition","ByteArrayInputStream","pos","getLength","InputBuffer","reset","buffer","mark"
+"org.emftext.language.java.types.impl.ByteImpl@41e218f6",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"Buffer",0,0,0,1,0,0,0,1,0,0,1,0,1,0,0,1
+"FilterInputStream",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"count",0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"start",0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,1
+"length",0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0
+"input",0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0
+"buf",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"getPosition",0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+"ByteArrayInputStream",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"pos",0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"getLength",0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0
+"InputBuffer",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"reset",0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
+"buffer",0,0,1,0,0,0,0,0,1,0,0,1,1,2,1,0
+"mark",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0

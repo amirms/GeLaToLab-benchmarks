@@ -1,0 +1,10 @@
+,"msg","getLineNumber","warn","ex","getException","t","getColumnNumber","getMessage","LogLog"
+"msg",1,0,0,0,0,0,0,0,0
+"getLineNumber",1,0,0,1,0,0,0,0,0
+"warn",0,0,0,0,0,0,0,0,2
+"ex",0,1,0,3,1,0,1,1,0
+"getException",0,0,0,1,0,1,0,0,0
+"t",0,0,0,0,0,0,0,0,0
+"getColumnNumber",1,0,0,1,0,0,0,0,0
+"getMessage",1,0,0,1,0,0,0,0,0
+"LogLog",0,0,2,0,0,0,0,0,0
